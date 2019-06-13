@@ -31,7 +31,13 @@
 					- replace(value,'<span dir="auto"><span class="autocomment">','')
 					- replace(value,'</a></span>','')
 					- replace(value,'</span>','')
-
+					- slice(value,indexOf(value,'>')+1)
+				- Steuerzeichen auflösen:
+					- replace(value,'&quot;','"')
+					- replace(value,'&#91;','[')
+					- replace(value,'&gt;','>')
+					- replace(value,'&#039;','\'')
+					- replace(value,'&lt;','<')
 					
 
 -- Verworfene Ansätze
