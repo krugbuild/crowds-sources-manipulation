@@ -1,5 +1,5 @@
 # Wikipedia-Versionsgeschichte als begriffshistorische Quelle am Beispiel des Artikels "Populismus"
-Dieses Foschungsprozessdatenrepositorium dient der Dokumentation des o.g. Seminarprojektes und gleichzeitig zur Exploration digital-historischer Methoden.
+Dieses Foschungsprozessdatenrepositorium dient der Dokumentation des o.g. Seminarprojektes und gleichzeitig der Exploration digital-historischer Methoden.
 Rahmen ist die Übung _Begriffsgeschichte 2.0. Chancen und Grenzen digitaler Quellen und
 Analysemethoden_ im Sommersemester 2019 unter Leitung von [Dr. Sina Fabian](https://www.geschichte.hu-berlin.de/de/bereiche-und-lehrstuehle/dtge-20jhd/deutsche-geschichte-im-20-jahrhundert-mit-schwerpunkt-im-nationalsozialismus/personen/dr-sina-fabian) an der Humboldt-Universität zu Berlin.
 
