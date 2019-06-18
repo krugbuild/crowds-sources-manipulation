@@ -5,7 +5,7 @@ Analysemethoden_ im Sommersemester 2019 unter Leitung von [Dr. Sina Fabian](http
 (Der Projektverlauf wird im zugehörigen [Wiki](https://github.com/krugbuild/wiki-pop-quelle/wiki) dokumentiert.)
 
 ## Autoren
-Stefan Krug: stefan.krug@hu-berlin.de, [@krugbuild](https://github.com/krugbuild)
+Stefan Krug (stefan.krug@hu-berlin.de, [@krugbuild](https://github.com/krugbuild))
 
 Sören Rampf
 
@@ -24,7 +24,7 @@ ohne Serverzugriff nicht vollends ausschließen. Die Analyse der Akteure begrenz
 ---
 
 ### Werkzeuge (Auswahl)
-(Ausführliche Informationen und Diskussionen zu verwendeten und potentiell hilfreichen Werkzeugen finden sich im [Wiki](https://github.com/krugbuild/wiki-pop-quelle/wiki/Werkzeugsammlung).
+(Ausführliche Informationen und Diskussionen zu verwendeten und potentiell hilfreichen Werkzeugen finden sich im [Wiki](https://github.com/krugbuild/wiki-pop-quelle/wiki/Werkzeugsammlung).)
 * DiaCollo (Zeit.de): http://kaskade.dwds.de/dstar/zeit/diacollo/
 * Korpusstatistik der dwds (Zeit.de): http://kaskade.dwds.de/dstar/zeit/
 * OpenRefine: http://openrefine.org/
