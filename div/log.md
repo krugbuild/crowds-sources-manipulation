@@ -35,18 +35,18 @@ Abruf: 20190606
 	* `replace(value,'</span>','')`
 	* `slice(value,indexOf(value,'>')+1)`
 #### Steuerzeichen auflösen
-	* `replace(value,'&quot;','"')`
-	* `replace(value,'&#91;','[')`
-	* `replace(value,'&gt;','>')`
-	* `replace(value,'&#039;','\'')`
-	* `replace(value,'&lt;','<')`
+* `replace(value,'&quot;','"')`
+* `replace(value,'&#91;','[')`
+* `replace(value,'&gt;','>')`
+* `replace(value,'&#039;','\'')`
+* `replace(value,'&lt;','<')`
 #### Datum vereinheitlichen
-	* split column via separator: `,`
-	* `value.replace('Jan', '01').replace('Feb','02').replace('Mär', '03').replace('Apr', '04').replace('Mai', '05.').replace('Jun', '06').replace('Jul','07').replace('Aug', 						'08').replace('Sep','09').replace('Okt', '10').replace('Nov','11').replace('Dez', '12').replace(' ','')`
+* split column via separator: `,`
+* `value.replace('Jan', '01').replace('Feb','02').replace('Mär', '03').replace('Apr', '04').replace('Mai', '05.').replace('Jun', '06').replace('Jul','07').replace('Aug','08').replace('Sep','09').replace('Okt', '10').replace('Nov','11').replace('Dez', '12').replace(' ','')`
 					
 
 ## Verworfene Ansätze
 20190606
 * Abruf sämtlicher Versionen über URL-Import in OpenRefine, URL: "https://de.wikipedia.org/w/index.php?title=Populismus&offset=&limit=2000000&action=history"
-	* Einlesen der HTML als XML, als erstes Element wurde die erste Version (erstes <li>-tag) gewählt
+	* Einlesen der HTML als XML, als erstes Element wurde die erste Version (erstes `<li>`-tag) gewählt
 	* Abgleich des Versionsinventars der lokalen Kopie mit Wikipedia Versionsgeschichte: Aktuelle Version bei beiden 02:26, 2. Jun. 2019‎ - erste Version bei beiden 14:08, 4. Mär. 2004‎ 
