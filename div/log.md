@@ -43,7 +43,11 @@ Abruf: 2019-06-06
 * `replace(value,'&lt;','<')`
 #### Datum vereinheitlichen
 * split column via separator: `,`
-* `value.replace('Jan', '01').replace('Feb','02').replace('Mär', '03').replace('Apr', '04').replace('Mai', '05.').replace('Jun', '06').replace('Jul','07').replace('Aug','08').replace('Sep','09').replace('Okt', '10').replace('Nov','11').replace('Dez', '12').replace(' ','')`
+* Datum standardiseren: `value.replace('Jan', '01').replace('Feb','02').replace('Mär', '03').replace('Apr', '04').replace('Mai', '05.').replace('Jun', '06').replace('Jul','07').replace('Aug','08').replace('Sep','09').replace('Okt', '10').replace('Nov','11').replace('Dez', '12').replace(' ','')`
+* in definiertes Format überführen `value.toDate('H:m,d.M.y')`
+					
+### Export
+Mit reduziertem Umfang: [Begriffsgeschichte-2-0-Populismus.csv](https://github.com/krugbuild/wiki-pop-quelle/blob/master/div/Begriffsgeschichte-2-0-Populismus.csv)
 					
 ## Technisches Prozesslog aus OpenRefine 3.2 beta
 
