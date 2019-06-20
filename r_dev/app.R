@@ -34,10 +34,10 @@ ui <- fluidPage(
 
 # Define server logic required to draw a histogram
 server <- function(input, output) {
-
+list_data <- list(c(1,2,3,4,5,6,7,8,9))
     output$distPlot <- renderPlot({
         # generate bins based on input$bins from ui.R
-        x    <- faithful[, 2]
+        x    <- 1#list_data #faithful[, 1]
         bins <- seq(min(x), max(x), length.out = input$bins + 1)
 
         # draw the histogram with the specified number of bins
