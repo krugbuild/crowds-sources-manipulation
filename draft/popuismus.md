@@ -29,5 +29,9 @@ III umgangssprachlich Definitionen, zeitgenössische Lage der Begriff und seine 
 Heute ist der Begriff viel populärer als in den 20. Jahrhunderts. Mit dem Aufstieg von politischen Bewegungen, die sich z.B. als „Rechtspopulisten“ betrachten, ist die Begriff mehr und mehr benutzt. Populismus ist viel mit Rechtsextremer impliziert, aber es kann auch für Linksextreme Milieus benutzt sein. In einem nicht wissenschaftlichen Kontext ist es viel als pejorative Adjektiv benutzt, manchmal fast als ein Insult. In Politikwissenschaften ist Populismus jetzt ein „Star-Subjekt“ für Politisten, aber es gibt wenig Grund-Forschungen um den Begriff, aber nur Forschungen um einen Aspekt der Populismus. Das meint auch, dass viele nutzen der Begriff in parallele, aber nicht Präzise Sinne, und es entwickelt viel mit der populären Nutzung. 
 
 
+## Literatur 
 
-
+Canovan, Margaret, Populism, Harcourt Brace Jovanovich, 1981.
+Ionescu, Ghita, Populism: Its Meaning and National Characteristics, Macmillan, 1969.
+Müller, Historiker, Politologe, Bad Honnef, All Souls College, and Princeton University. Was Ist Populismus? : Ein Essay, Berlin, 2016.
+Taguieff, Pierre-André, L'Illusion populiste. Essais sur les démagogies de l'âge démocratique, Paris, Flammarion, « Champs », 2007.
