@@ -7,9 +7,9 @@ Analysemethoden_ im Sommersemester 2019 unter Leitung von [Dr. Sina Fabian](http
 ## Autoren
 Stefan Krug (stefan.krug@hu-berlin.de, [@krugbuild](https://github.com/krugbuild))
 
-Sören Rampf
+Sören Rampf (rampfsoe@hu-berlin.de, [@Soe-Ra](https://github.com/Soe-Ra))
 
-Titouan Morand
+Titouan Morand (morandti@hu-berlin.de, [@Tmorand](https://github.com/Tmorand))
 
 ---
 
