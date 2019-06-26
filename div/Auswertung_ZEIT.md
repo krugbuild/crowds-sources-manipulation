@@ -5,11 +5,9 @@ Zeit-Corpus: http://kaskade.dwds.de/dstar/zeit/
 
 Lemma: Populismus / Link: http://kaskade.dwds.de/dstar/zeit/dstar.perl?q=populismus&fmt=kwic&start=1&limit=20&ctx=8&debug=
 
-1. Corpus-Statistik-Tool mit dem Lemma populismus angewendet auf Zeit-Corpus im Zeitraum 2000 bis 2017
+1. Corpus-Statistik-Tool mit dem Lemma "populismus" angewendet auf Zeit-Corpus im Zeitraum 2000 bis 2018
 
-2. Ergebniss der Untersuchung: 2169 (26.06.2019)
-
-2.1 Das Ergebnss ist noch zu umfangreich
+2. Ergebniss der Untersuchung: 2169 (26.06.2019) / Das Ergebnss ist noch zu umfangreich
 
 ---
 D*/zeit Time Series: data+class (default) / Link: http://kaskade.dwds.de/dstar/zeit/dstar.perl?fmt=hist&pformat=svg&q=populismus&_s=submit&n=date%2Bclass&smooth=none&sl=1&w=1&wb=0&pr=0&xr=2000%3A2018&yr=0%3A*&psize=840%2C480
