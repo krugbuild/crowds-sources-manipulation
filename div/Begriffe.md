@@ -4,9 +4,13 @@ norm (normalize): Categorization mode for selecting frequency-per-million scalin
 To facilitate comparability of plotted values across (sub)corpora of varying size, raw epoch frequency counts may be scaled to frequency-per-million-tokens values by a simple linear projection as requested by the norm parameter.
 
   none (absolute values): do not normalize at all, but operate on raw absolute frequency counts
+  
   corpus: normalize corpus-globally (over all date intervals and text-classes)
+  
   data (slice): normalize by date interval only (over all text-classes)
+  
   class (genre): normalize by text-class only (over all dates)
+  
   data+class (default): normalize by date interval and text-class
 
 wbase: Inverse-distance smoothing base (real number B) for weighted moving-average smoothing.
