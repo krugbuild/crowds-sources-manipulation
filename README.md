@@ -22,9 +22,6 @@ Da die Versionsgeschichte von Artikeln in der Wikipedia nur als HTML ausgegeben 
 Versionsgeschichte der Wikipedia am Beispiel des Lemmas [Populismus](https://de.wikipedia.org/w/index.php?title=Populismus&action=history) Die Wikipedia wird über die Open-Source-Software [MediaWiki](https://www.mediawiki.org) betrieben. Die Prüfung der Versionierungsfunktion ist dank des veröffentlichten Quellcodes möglich. Eine Anpassung in der Implementierung auf der Wikipedia-Instanz oder Datenmanipulationen auf Datenbankseite lassen sich, auch wenn diese sehr unwahrscheinlich erscheinen,
 ohne Serverzugriff nicht vollends ausschließen. Die Analyse der Akteure begrenzt sich auf Grund der Pseudonymität angemeldeter Benutzer und der technischen Einschränkungen bei der Auflösung von IP-Adressen auf statistische Betrachtungen.
 
-### Auswertung Zeit-Corpus
-
-
 ---
 
 ### Werkzeuge (Auswahl)
