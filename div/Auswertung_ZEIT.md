@@ -12,7 +12,7 @@ Lemma: Populismus / Link: http://kaskade.dwds.de/dstar/zeit/dstar.perl?q=populis
 2.1 Das Ergebnss ist noch zu umfangreich
 
 ---
-D*/zeit Time Series: data+class (default) / Link: http://kaskade.dwds.de/dstar/zeit/dstar.perl?ctx=8&q=populismus&start=1&limit=20&fmt=hist
+D*/zeit Time Series: data+class (default) / Link: http://kaskade.dwds.de/dstar/zeit/dstar.perl?fmt=hist&pformat=svg&q=populismus&_s=submit&n=date%2Bclass&smooth=none&sl=1&w=1&wb=0&pr=0&xr=2000%3A2018&yr=0%3A*&psize=840%2C480
 
 D*/zeit Time Series: none (absolute values) / Link: http://kaskade.dwds.de/dstar/zeit/dstar.perl?fmt=hist&pformat=svg&q=populismus&_s=submit&n=abs&smooth=none&sl=1&w=1&wb=0&pr=0&xr=2000%3A2018&yr=0%3A*&psize=840%2C480
 
