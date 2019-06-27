@@ -1,5 +1,7 @@
 ### Corpus-Statistik-Tool
 
+http://odo.dwds.de/~moocow/software/ddc/querydoc.html
+
 1. norm (normalize): Categorization mode for selecting frequency-per-million scaling coefficient.
 To facilitate comparability of plotted values across (sub)corpora of varying size, raw epoch frequency counts may be scaled to frequency-per-million-tokens values by a simple linear projection as requested by the norm parameter.
 
@@ -24,3 +26,18 @@ To facilitate comparability of plotted values across (sub)corpora of varying siz
 ---
 ### DiaCollo
 
+http://kaskade.dwds.de/dstar/zeit/diacollo/help.perl#scores
+
+1. Details
+
+w1	: target token matching the user query request
+
+w2	: collocate token matching the user groupby request
+
+N	: total number of collocation relations in the corpus epoch
+
+f12	: frequency of the collocation (w1,w2)
+
+f1	: total frequency of the query term (w1) in the selected profile type
+
+f2	: total frequency of the collocate term (w2) in the selected profile type
