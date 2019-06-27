@@ -13,4 +13,4 @@ Die Verarbeitung der Daten ist im [log.md](https://github.com/krugbuild/wiki-pop
 ## Quelldateien ZEIT-Korpus
 - [Auswertung_ZEIT.ods](https://github.com/krugbuild/wiki-pop-quelle/blob/master/div/Auswertung_ZEIT.ods) Auswertung der Worthäufigkeit und Begriffspaarung des Begriffs Populismus im Archiv der ZEIT
 
-Die Verarbeitung der Daten ist im [Auswertung_Zeit.md](https://github.com/krugbuild/wiki-pop-quelle/blob/master/div/Auswertung_Zeit.md) dokumentiert.
+Die Verarbeitung der Daten ist im [Auswertung_Zeit.md](https://github.com/krugbuild/wiki-pop-quelle/blob/master/div/Auswertung_Zeit.md) dokumentiert. Eine Beschreibung der Parameter der verwendeten Tools findet sich in [Begriffe.md](/div/Begriffe.md).
