@@ -7,7 +7,7 @@ Grundannahme: Kontroverse Begriffe zeichnen sich durch eine höhere Aufmerksamke
 |                | Lemma Populismus in der Wikipedia                            | Begriff "Populismus" im ZEIT-Korpus             |
 | -------------- | ------------------------------------------------------------ | ----------------------------------------------- |
 | Datenbasis     | [20190627_Populismus_refined_full.csv](/div/20190627_Populismus_refined_full.csv) | [Auswertung_ZEIT.ods](/div/Auswertung_ZEIT.ods) |
-| Visualisierung | - [20190627_Plot.png](/home/op/Documents/Studium/FS4/UE Begriffsgeschichte 2.0/wiki-pop-quelle/draft/20190627_Plot.png) <br />- [20190627_Plot_2014-2017.png](/home/op/Documents/Studium/FS4/UE Begriffsgeschichte 2.0/wiki-pop-quelle/draft/20190627_Plot_2014-2017.png) |                                                 |
+| Visualisierung | - [20190627_Plot.png](/draft/20190627_Plot.png) <br />- [20190627_Plot_2014-2017.png](/draft/20190627_Plot_2014-2017.png) |                                                 |
 
 ### Zeitkorpus
 
@@ -17,11 +17,11 @@ Ermittelter Zeitraum Zeitkorpus: 2014 bis 2016 (jeweils in vollen Jahren)
 
 ### Versionsgeschichte 
 
-![Plot der Versionsgeschichte](/home/op/Documents/Studium/FS4/UE Begriffsgeschichte 2.0/wiki-pop-quelle/draft/20190627_Plot.png)
+![Plot der Versionsgeschichte](/draft/20190627_Plot.png)
 
 Vollständige Versionsgeschichte des Lemmas *Populismus*.
 
-![Plot 2014-2017](/home/op/Documents/Studium/FS4/UE Begriffsgeschichte 2.0/wiki-pop-quelle/draft/20190627_Plot_2014-2017.png)
+![Plot 2014-2017](/draft/20190627_Plot_2014-2017.png)
 
 Versionsgeschichte von 2014 bis 2017. Phasen mit geringer Bearbeitungsfrequenz finden sich zu beginn des ausgewählten Zeitraumes im März 2014. Als Ausgangsversion bietet sich die Version vom 2014-03-16T14:09:00Z an (ID 128563967), da diese vereinzelt ist und in den Versionen zuvor nur Detailänderungen vorgenommen wurden. 
 
