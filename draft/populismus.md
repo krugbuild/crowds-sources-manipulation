@@ -32,10 +32,17 @@ Heute ist der Begriff viel populärer als in den 20. Jahrhunderts. Mit dem Aufst
 ## Literatur 
 
 Boily, Frédéric « Aux sources idéologiques du Front national : le mariage du traditionalisme et du populisme ». Politique et Sociétés 24, no 1 (2005) : 23–47. https://doi.org/10.7202/011494ar
+
 Canovan, Margaret, Populism, Harcourt Brace Jovanovich, 1981.
+
 Collovald Annie. Populisme. In: Quaderni, n°63, Printemps 2007. Nouveaux mots du pouvoir : fragments d'un abécédaire. pp. 71-73. www.persee.fr/doc/quad_0987-1381_2007_num_63_1_1786
+
 Ionescu, Ghita, Populism: Its Meaning and National Characteristics, Macmillan, 1969.
+
 Müller, Jan-Werner. Was Ist Populismus? : Ein Essay, Berlin, 2016.
+
 Priester, Karin. Sammelrezension Populismus, Springer, Münster, 2017.
-Schieren, Diewald-Kerkmann, Prof. Dr., Politologe, Katholische Universität Eichstätt-Ingolstadt, PD Dr. Phil., Geschichtswissenschaft; Erziehungswissenschaft, Historikerin, Universität Bielefeld, Schieren, Stefan, and Diewald-Kerkmann, Gisela. Populismus - Extremismus - Terrorismus : Eine Einführung. Uni-Studien Politik BV010767571 57. Schwalbach/Ts., 2014.
+
+Schieren, Stefan, and Diewald-Kerkmann, Gisela. Populismus - Extremismus - Terrorismus : Eine Einführung. Uni-Studien Politik BV010767571 57. Schwalbach/Ts., 2014.
+
 Taguieff, Pierre-André, L'Illusion populiste. Essais sur les démagogies de l'âge démocratique, Paris, Flammarion, « Champs », 2007.
