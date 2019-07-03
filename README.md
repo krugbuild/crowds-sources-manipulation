@@ -38,11 +38,19 @@ Astrid Blome, Zeitungen, in: Clio Guide – Ein Handbuch zu digitalen Ressourcen
 
 Canovan, Margaret, Populism, Harcourt Brace Jovanovich, 1981.
 
+Collovald Annie. Populisme. In: Quaderni, n°63, Printemps 2007. Nouveaux mots du pouvoir : fragments d'un abécédaire. pp. 71-73. www.persee.fr/doc/quad_0987-1381_2007_num_63_1_1786
+
 Hitchcock, Tim, Confronting the Digital, Cultural and Social History, 10:1,
 9-23, 2013.
 
 Huistra, Hieke; Mellink, Bram, Phrasing history: Selecting sources in digital repositories, Historical Methods: A Journal of Quantitative and Interdisciplinary History, 49:4, S. 220–229, 2016.
 
 Ionescu, Ghita, Populism: Its Meaning and National Characteristics, Macmillan, 1969.
+
+Müller, Jan-Werner. Was Ist Populismus? : Ein Essay, Berlin, 2016. 
+
+Priester, Karin. Sammelrezension Populismus, Springer, Münster, 2017. 
+
+Schieren, Stefan, and Diewald-Kerkmann, Gisela. Populismus - Extremismus - Terrorismus : Eine Einführung. Uni-Studien Politik BV010767571 57. Schwalbach/Ts., 2014.
 
 Taguieff, Pierre-André, L'Illusion populiste. Essais sur les démagogies de l'âge démocratique, Paris, Flammarion, « Champs », 2007.
