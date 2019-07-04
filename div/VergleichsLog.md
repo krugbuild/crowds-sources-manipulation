@@ -19,11 +19,11 @@ Ermittelter Zeitraum Zeitkorpus: 2014 bis 2016 (jeweils in vollen Jahren)
 
 ### Versionsgeschichte 
 
-![Plot der Versionsgeschichte](/draft/20190627_Plot.png)
+![Plot der Versionsgeschichte](../draft/20190627_Plot.png)
 
 Vollständige Versionsgeschichte des Lemmas *Populismus*.
 
-![Plot 2014-2017](/draft/20190627_Plot_2014-2017.png)
+![Plot 2014-2017](../draft/20190627_Plot_2014-2017.png)
 
 Versionsgeschichte von 2014 bis 2017. Phasen mit geringer Bearbeitungsfrequenz finden sich zu beginn des ausgewählten Zeitraumes im März 2014. Als Ausgangsversion bietet sich die Version vom 2014-03-16T14:09:00Z an (ID 128563967), da diese vereinzelt ist und in den Versionen zuvor nur Detailänderungen vorgenommen wurden. (Ab hier V2014 genannt.)
 
@@ -93,5 +93,9 @@ Folgende Unterschiede im Text der o.g. Versionen fallen unter Berücksichtigung 
 | AfD / Alternative für Deutschland |   0   |   1   | Taucht erstmalig in V2017 auf, im Abschnitt "Rechtspopulismus" |
 | Demokratie                        |  12   |  26   | -                                                            |
 | Europa                            |  21   |  21   | Keine signifikanten Unterschiede in Frequenz und Verwendung  |
-| politisch                         |  32   |  49   |                                                              |
+| politisch                         |  32   |  49   | In V2017 taucht im Abschnitt "Sozialwissenschaft" die Idee des "politischen Populismus" auf, während in V2014 "politisch" nur zur Beschreibung des Umfeldes Dient |
+| Politik                           |  33   |  40   | V2017 "teils auch um einen spezifischen Politikstil", neuer Abschnitt "Populismus als Strategie" im Kontext "Politik" |
+| Merkel                            |   0   |   1   | V2017 "Angela Merkel mit ihrer 'Politik der Alternativlosigkeit' die Musterschülerin des (neo)liberalen Populismus" |
+| Demagogie                         |   1   |   0   | In V2014 als Stichwort unter "Siehe auch"                    |
+| recht                             |  54   |  58   | Tritt i.d.R. als politischer Bezeichner auf.                 |
 
