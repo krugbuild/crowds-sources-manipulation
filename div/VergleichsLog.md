@@ -7,7 +7,7 @@ Grundannahme: Kontroverse Begriffe zeichnen sich durch eine höhere Aufmerksamke
 |                | Lemma Populismus in der Wikipedia                            | Begriff "Populismus" im ZEIT-Korpus             |
 | -------------- | ------------------------------------------------------------ | ----------------------------------------------- |
 | Datenbasis     | [20190627_Populismus_refined_full.csv](/div/20190627_Populismus_refined_full.csv) | [Auswertung_ZEIT.ods](/div/Auswertung_ZEIT.ods) |
-| Visualisierung | - [20190627_Plot.png](/draft/20190627_Plot.png) <br />- [20190627_Plot_2014-2017.png](/draft/20190627_Plot_2014-2017.png) | - [Zeit_data+class.png](/div/Zeit_data+class.png) <br />- [Zeit_absolute values.png](/div/Zeit_absolute values.png) |
+| Visualisierung | - [20190627_Plot.png](/draft/20190627_Plot.png) <br />- [20190627_Plot_2014-2017.png](/draft/20190627_Plot_2014-2017.png) | - [Zeit_data+class_2000-2018.png](/div/Zeit_data+class_2000-2018.png) <br />- [Zeit_absolute_values_2000-2018.png](/div/Zeit_absolute_values_2000-2018.png) |
 
 ### Zeitkorpus
 
