@@ -40,4 +40,4 @@ D*/zeit Time Series: none (absolute values) / Link: http://kaskade.dwds.de/dstar
  
  ->  auch andere Begriffe müssen in ihrerm genauen Zusammenhang gesehen werden, wie z. B. werfen, neu usw.
  
- 2. 
+ http://kaskade.dwds.de/dstar/zeit/diacollo/?query=Populismus&_s=submit&date=2010%3A2018&slice=1&score=ld&kbest=20&cutoff=&profile=2&format=cloud&groupby=&eps=0
