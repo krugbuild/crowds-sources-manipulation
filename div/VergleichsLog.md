@@ -13,9 +13,9 @@ Grundannahme: Kontroverse Begriffe zeichnen sich durch eine höhere Aufmerksamke
 
 ### Zeitkorpus
 
-Ermittelter Zeitraum Zeitkorpus: 2014 bis 2016 (jeweils in vollen Jahren)
+![Plot der Korpusstatistik](../draft/Zeit_data+class_2000-2018.png)
 
-- TODO: Sören: visualisieren
+Worthäufigkeit im Korpus der ZEIT, Frequenz per Million. Besonders bemerkenswert ist der Anstieg von 2014 auf 2016. Dieser Zeitraum soll Grundlage der folgenden Betrachtung sein.
 
 ### Versionsgeschichte 
 
