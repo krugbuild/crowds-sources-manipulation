@@ -98,4 +98,6 @@ Folgende Unterschiede im Text der o.g. Versionen fallen unter Berücksichtigung 
 | Merkel                            |   0   |   1   | V2017 "Angela Merkel mit ihrer 'Politik der Alternativlosigkeit' die Musterschülerin des (neo)liberalen Populismus" |
 | Demagogie                         |   1   |   0   | In V2014 als Stichwort unter "Siehe auch"                    |
 | recht                             |  54   |  58   | Tritt i.d.R. als politischer Bezeichner auf.                 |
-
+| Gefahr                            |   3   |   9   | In V2017 im bedenklichen Abschnitt "Ursachen"                |
+| Problem                           |   6   |   3   | In V2014 "Modernisierungsproblem" als Ursache                |
+| Zeit                              |   8   |  16   |                                                              |
