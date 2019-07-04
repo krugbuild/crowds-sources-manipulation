@@ -48,6 +48,7 @@ Abruf: 2019-06-06
 					
 ### Export
 Vollständig: [20190627_Populismus_refined_full.csv](https://github.com/krugbuild/wiki-pop-quelle/blob/master/div/20190627_Populismus_refined_full.csv)
+
 Reduziert auf Full Date und Date(yyyy-mm-dd): [20190627_Populismus_refined_twoCol.csv](https://github.com/krugbuild/wiki-pop-quelle/blob/master/div/20190627_Populismus_refined_twoCol.csv)
 					
 ## Technisches Prozesslog aus OpenRefine 3.2 beta
