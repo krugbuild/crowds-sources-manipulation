@@ -100,4 +100,6 @@ Folgende Unterschiede im Text der o.g. Versionen fallen unter Berücksichtigung 
 | recht                             |  54   |  58   | Tritt i.d.R. als politischer Bezeichner auf.                 |
 | Gefahr                            |   3   |   9   | In V2017 im bedenklichen Abschnitt "Ursachen"                |
 | Problem                           |   6   |   3   | In V2014 "Modernisierungsproblem" als Ursache                |
-| Zeit                              |   8   |  16   |                                                              |
+| Zeit                              |   8   |  16   | In V2017 vorwiegend in Belegen.                              |
+| Frage                             |   2   |   4   | Stilistisch.                                                 |
+| Volk                              |   7   |  28   | In V2017 als Abgrenzung zur "Elite"                          |
