@@ -2,10 +2,10 @@
 
 Benutztes System: `Linux 4.15.0-52-generic #56-Ubuntu SMP Tue Jun 4 22:49:08 UTC 2019 x86_64 GNU/Linux`
 
-Im folgenden sind alle Änderungen (insbesondere Transformationen) an der ursprünglichen Datenbasis unter Angabe von Datum und ggf. benutzter Software dokumentiert. 
+Im Folgenden sind alle Änderungen (insbesondere Transformationen) an der ursprünglichen Datenbasis unter Angabe von Datum und ggf. benutzter Software dokumentiert. 
 
 ### Datenbezug 2019-06-06
-* Abruf sämtlicher Versionen mittels: ` wget "https://de.wikipedia.org/w/index.php?title=Populismus&offset=&limit=2000000&action=history" ` (siehe: [20190606_Quelldaten_Populismus.html](https://github.com/krugbuild/wiki-pop-quelle/blob//MAP/01_Quelldaten/20190606_Quelldatei_Populismus.html)).
+* Abruf sämtlicher Versionen mittels: ` wget "https://de.wikipedia.org/w/index.php?title=Populismus&offset=&limit=2000000&action=history" ` (siehe: [20190606_Quelldaten_Populismus.html](https://github.com/krugbuild/wiki-pop-quelle/blob/MAP/01_Quelldaten/20190606_Quelldaten_Populismus.html)).
 * Abgleich des Versionsinventars der lokalen Kopie mit Wikipedia Versionsgeschichte: Aktuelle Version bei beiden 02:26, 2. Jun. 2019‎ - erste Version bei beiden 14:08, 4. Mär. 2004‎. 
 
 ### Reduzierung der HTML-Struktur auf die informationstragenden Elemente 2019-06-06
@@ -13,7 +13,7 @@ Im folgenden sind alle Änderungen (insbesondere Transformationen) an der urspr�
 * Via SciTE
   Text Editor, Version 4.0.0 compiled for GTK+ 3.22.30, 2018-11-23
   von Neil Hodgson.
-* Encoding der Quelldatei auf UTF-8 gesetzt, führende und folgende Inhalte abseits der Versionsliste (markiert durch HTML-Listenelement `<ul>`) entfernt (siehe: [20190606_Quelldaten_Populismus_reduziert.html](https://github.com/krugbuild/wiki-pop-quelle/blob//MAP/01_Quelldaten20190606_Quelldatei_Populismus_reduziert)).
+* Encoding der Quelldatei auf UTF-8 gesetzt, führende und folgende Inhalte abseits der Versionsliste (markiert durch HTML-Listenelement `<ul>`) entfernt (siehe: [20190606_Quelldaten_Populismus_reduziert.html](https://github.com/krugbuild/wiki-pop-quelle/blob/MAP/01_Quelldaten/20190606_Quelldaten_Populismus_reduziert.html)).
 ### Datenmanipulationen in OpenRefine 3.2 beta
 
 - Import in OpenRefine als Line-based text files.
@@ -145,4 +145,4 @@ Die folgenden Transformationen wurden über das Interface von OpenRefine vorgeno
 	* Einlesen der HTML als XML, als erstes Element wurde die erste Version (erstes `<li>`-tag) gewählt
 	* Abgleich des Versionsinventars der lokalen Kopie mit Wikipedia Versionsgeschichte: Aktuelle Version bei beiden 02:26, 2. Jun. 2019‎ - erste Version bei beiden 14:08, 4. Mär. 2004‎ 
 
-Diese Einlesemethode ermöglichte keine klare Trennung der Listeneinträge in Zeilen. Eine Überführung in eine definierte Struktur wäre somit deutlich aufwendiger.
+Diese Einlesemethode ermöglichte keine klare Trennung der Listeneinträge in Zeilen. Eine Überführung in eine definierte Struktur wäre somit deutlich aufwendiger als die oben gewählte Methodik gewesen.
