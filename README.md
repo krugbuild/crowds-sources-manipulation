@@ -5,7 +5,7 @@ Analysemethoden_ im Sommersemester 2019 unter Leitung von [Dr. Sina Fabian](http
 (Erfahrungswerte werden im [Wiki](https://github.com/krugbuild/wiki-pop-quelle/wiki) dokumentiert.)
 
 ## Präsentation
-Eine Abschlusspräsentation findet am 11.07.2019 statt. Der Foliensatz ist hier einsehbar: [hackmd.io/@krugbuild/wiki-pop-quelle](https://hackmd.io/@krugbuild/wiki-pop-quelle).
+Eine Abschlusspräsentation fand am 11.07.2019 statt. Der Foliensatz ist hier einsehbar: [hackmd.io/@krugbuild/wiki-pop-quelle](https://hackmd.io/@krugbuild/wiki-pop-quelle).
 
 ## Autoren
 Stefan Krug (stefan.krug@hu-berlin.de, [@krugbuild](https://github.com/krugbuild))
