@@ -12,7 +12,7 @@ Für den höchst möglichen Detailgrad müsste jeder einzelne Versionssprung als
 
 ### timeline plot mit R
 
-Die Visualisierung eines derartigen Diagramms wurde in der Sprache *R* (RStudio in Version 1.2.1335 unter Lubuntu 18.04) mit Hilfe des Plugins [*timelineS in der Version 0.1.1.*][https://www.rdocumentation.org/packages/timelineS/versions/0.1.1] implementiert. Der kommentierte Quellcode dazu befindet sich im Unterordner [R_timeline_plot](R_timeline_plot). Als Werte werden die genauen Timestamps der einzelnen Versionen angegeben. Die Label variieren in Ihrer Höhe, um eine bessere Lesbarkeit zu gewährleisten. Als Datenbasis dient der auf das Datum reduzierte [Export der Arbeitsdaten](/01_Quelldaten/20190627_Arbeitsdaten_Populismus_nurDatum.csv) mit allen 1045 Einträgen.
+Die Visualisierung eines derartigen Diagramms wurde in der Sprache *R* (RStudio in Version 1.2.1335 unter Lubuntu 18.04) mit Hilfe des Plugins [*timelineS in der Version 0.1.1.*](https://www.rdocumentation.org/packages/timelineS/versions/0.1.1) implementiert. Der kommentierte Quellcode dazu befindet sich im Unterordner [R_timeline_plot](R_timeline_plot). Als Werte werden die genauen Timestamps der einzelnen Versionen angegeben. Die Label variieren in Ihrer Höhe, um eine bessere Lesbarkeit zu gewährleisten. Als Datenbasis dient der auf das Datum reduzierte [Export der Arbeitsdaten](/01_Quelldaten/20190627_Arbeitsdaten_Populismus_nurDatum.csv) mit allen 1045 Einträgen.
 
 ![timeline_plot](20190627_Plot.png)
 
