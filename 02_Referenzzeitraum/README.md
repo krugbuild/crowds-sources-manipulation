@@ -9,21 +9,17 @@ Als Korpus dient das Archiv der überregionalen Wochenzeitung DIE ZEIT. Die webb
 Die Abfrage ist unter folgender [URL](http://kaskade.dwds.de/dstar/zeit/dstar.perl?fmt=hist&pformat=png&q=Populismus&_s=submit&n=date%2Bclass&smooth=none&grid=1&sl=1&w=1&wb=0&pr=0&xr=2000%3A2018&yr=0%3A*&psize=840%2C480+) erreichbar:
 `http://kaskade.dwds.de/dstar/zeit/dstar.perl?fmt=hist&pformat=png&q=Populismus&_s=submit&n=date%2Bclass&smooth=none&grid=1&sl=1&w=1&wb=0&pr=0&xr=2000%3A2018&yr=0%3A*&psize=840%2C480+`
 
-In der URL codiert, finden sich die Suchparameter definiert. Eine detaillierte Dokumentation aller Parameter findet sich auf der zugehörigen [Hilfeseite](http://kaskade.dwds.de/dstar/zeit/help-hist.perl) des DWDS. Der früheste Zeitpunkt der Betrachtung ist durch das Alter des Lemmas vorgegeben, das erst 200? erstellt wurde.
+Die Suchparameter sind bereits in der URL codiert, sodass eine erneute Abfrage dieser URL das gleiche Ergebnis liefern müsste. (Sofern sich der Zustand des Korpus nicht geändert hat. s.o.) Eine detaillierte Dokumentation aller Parameter und Werte findet sich auf der zugehörigen [Hilfeseite](http://kaskade.dwds.de/dstar/zeit/help-hist.perl) des DWDS.
 
-- ´fmt=hist´ 
-- ´pformat=png´ Als Ausgabeformat wurde das Pixelformat png gewählt, um eine einfache Einbindung in Dokumente wie dieses zu ermöglichen. 
-- q=Populismus
-- _s=submit
-n=date%2Bclass
-smooth=none
-grid=1
-sl=1
-w=1
-wb=0
-pr=0
-xr=2000%3A2018
-yr=0%3A*&psize=840%2C480+
+- `fmt=hist` Anzeige als Verlaufskurve mit Zeitstrahl.
+- `pformat=png` Ausgabeformat ist das Pixelformat png.
+- `q=Populismus` Definition des Suchbegriffs.
+- `n=date%2Bclass` Kategorisierungsmodus nach Datum und Klasse, Standardwert. (Mehr zu den Modi auf der [Hilfeseite](http://kaskade.dwds.de/dstar/zeit/help-hist.perl#details-norm)) 
+- `smooth=none` Keine Glättung des Graphen. (Die einzelnen Werte werden mit Geraden verbunden.)
+- `grid=1` Anzeige eines Rasters.
+- `sl=1` Größe der Slices, also der Teilung der x-Achse, beträgt 1 Jahr. (Kleinstmöglicher Wert.)
+- `xr=2000%3A2018` Der Wertebereich der x-Achse ist definiert durch den Erstellungszeitpunkt des Lemmas plus 4 Jahre Vorlauf und die aktuellste Datenreihe des Korpus. (2000 bis 2018)
+- `psize=840%2C480` Die Ausgabedimensionen sind auf 840x480 eingestellt.
 
 ### Wortverlauf des Begriffs "Populismus" im Korpus der ZEIT
 
