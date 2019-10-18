@@ -6,32 +6,17 @@ Neben der Änderung des Begriffs bzw. der öffentlichen Debatte um denselben, la
 
 
 
-###  DiaCollo
+### Abfrageparameter
+Die Abfrage ist unter folgender [URL]() erreichbar: `http://kaskade.dwds.de/dstar/zeit/diacollo/profile.perl?query=Populismus&score=fm&format=html&date=2014%3A2017&diff=adiff&kbest=20&slice=1&profile=2&eps=0`
 
-Mittels DiaCollo lässt sich die Häufigkeit eines gegebenen Begriffs innerhalb eines definiertes Korpus bestimmen. Unter Einbezug der Dimension Zeit ergibt sich somit ein Diagramm, an dem Zeiten mit hoher sowie niedriger Worthäufigkeit abgelesen werden können, sowie die Phasen der Transition zwischen diesen Extrema. Da der untersuchte Korpus zu einer Wochenzeitung gehört, ist anzunehmen, dass es eine direkte Verbindung zwischen Worthäufigkeit und öffentlichem Interesse an diesem Begriff gibt. Transitionsphasen markieren dabei Beginn bzw. Ende eines größeren öffentlichen Diskurses um den entsprechenden Begriff.
+Die Suchparameter sind bereits in der URL codiert, sodass eine erneute Abfrage dieser URL das gleiche Ergebnis liefern müsste. (Sofern sich der Zustand des Korpus nicht geändert hat. Siehe [/02_Referenzzeitraum/Korpuseigenschaften.md](/02_Referenzzeitraum/Korpuseigenschaften.md)) Eine detaillierte Dokumentation aller Parameter und Werte findet sich auf der zugehörigen [Hilfeseite](kaskade.dwds.de/dstar/zeit/diacollo/help.perl) des DWDS. Ein umfangreiches [Tutorial](kaskade.dwds.de/diacollo-tutorial/) bietet zusätzliche Hilfe im Umgang mit DiaCollo.
 
--> Auswertung Diacollo
-
-### Änderung der Wortpaarungen - DWDS Corpus-Statistik
-
-
-
----
-
-
-
-Wortverlaufskurve
-
-
-
-Um die Betarchtung zeitlich eingrenzen zu können, 
-
-Zur zeitlichen Eingrenzung kommt 
-
-
-
-Besser: Referenzzeitraum ermitteln über Diacollo. Dadurch können historische Punkte bzw. Begriffsgeschichtliche Änderungen ermittelt werden. Anschließend kann die Begriffsentwicklung @ wiki geprüft werden.
-
-Diacollo zeigt die Häufigkeit an, mit der ein Begriff innerhalb eines Korpus auftritt. Es ist anzunehmen, dass: Eine Zunahme der Häufigkeit bildetet damit ein steigendes öffentliches Interesse an dem Thema ab.
-
--> Grundlage für die Eingrenzung des zu untersuchenden Bereichs.
+- `query=Populismus` Definition des Suchbegriffs.
+- `score=fm`
+- `format=html`
+- `date=2014%3A2017`
+- `diff=adiff`
+- `kbest=20`
+- `slice=1`
+- `profile=2`
+- `eps=0`
