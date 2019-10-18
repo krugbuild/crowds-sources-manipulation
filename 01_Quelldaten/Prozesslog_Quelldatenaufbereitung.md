@@ -138,6 +138,8 @@ Die folgenden Transformationen wurden über das Interface von OpenRefine vorgeno
 	Text transform on 1044 cells in column Date&Time: grel:value.replace('Jan', '01').replace('Feb','02').replace('Mär', '03').replace('Apr', '04').replace('Mai', '05.').replace('Jun', '06').replace('Jul','07').replace('Aug', '08').replace('Sep','09').replace('Okt', '10').replace('Nov','11').replace('Dez', '12').replace(' ','')
 	Text transform on 1044 cells in column Date&Time: grel:value.toDate('H:m,d.M.y')
 
+---
+
 ## Verworfene Ansätze
 2019-06-06
 
