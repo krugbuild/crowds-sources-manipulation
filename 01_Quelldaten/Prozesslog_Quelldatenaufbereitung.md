@@ -18,7 +18,7 @@ Im Folgenden sind alle Änderungen (insbesondere Transformationen) an der urspr�
 
 - Import in OpenRefine als Line-based text files.
 
-Die folgenden Transformationen wurden über das Interface von OpenRefine vorgenommen.
+Die folgenden Transformationen wurden über das Interface von OpenRefine vorgenommen. Die Befehle sind in der *General Refine Expression Language* (GREL) notiert.
 
 #### Datum freistellen
 
