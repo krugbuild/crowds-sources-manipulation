@@ -26,3 +26,9 @@ Die Suchparameter sind bereits in der URL codiert, sodass eine erneute Abfrage d
 ![Wortverlauf des Begriffs "Populismus" im Korpus DIE ZEIT](/02_Referenzzeitraum/Wortverlauf_Populismus_ZEIT.png)
 
 Bemerkenswert ist der steile Anstieg der Worthäufigkeit nach 2014. Im Korpus von 2016 wurde der Begriff Populismus mit fast vierfacher Frequenz gegenüber 2014 erwähnt. Dies deutet auf einen sich intensivierenden Diskurs und erhöhtes öffentliches Interesse hin. Gleichzeitig lässt das große Delta zwischen 2014 und 2016 eine gewisse Begriffsentwicklung erwarten.
+
+---
+
+### Methodische Erkenntnisse
+
+Die Wortverlaufsanalyse des DWDS lässt als kleinstmögliche Teilung der x-Achse nur Jahresschritte zu. Für eine genauere Analyse der Berichterstattung wäre eine feinere Teilung sicher von Vorteil, auch wenn die Varianzen in den einzelnen Korpora je Monat, Woche oder gar Tag möglicherweise drastisch ansteigen würden. Dies könnte jedoch durch die Nutzung der bereits implementierten Glättungsverfahren ausgeglichen werden.
