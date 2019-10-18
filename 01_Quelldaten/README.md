@@ -10,7 +10,7 @@ Der erste Schritt der Aufbereitung ist der Bezug der Quelldaten. Hierzu wurde ei
 
 Dieses Dokument wurde anschließend in das Datenbereinigungstool [OpenRefine](http://openrefine.org/) eingelesen. Dabei wurde die Listenstruktur in eine Tabellenstruktur überführt. Im Folgenden wurden über Texterkennung und reguläre Ausdrücke die Informationstragenden Elemente von den HTML-Strukturen getrennt sowie das Format der Datumsnotation vereinheitlicht. Der finale Zustand der bearbeiteten Struktur ist als [OpenRefine-Export](20190613_export_Begriffsgeschichte-2.0-Populismus.openrefine.tar.gz) hinterlegt. Zur weiteren Bearbeitung wurden die bereinigten Daten in zwei Versionen exportiert. Der [vollständige Export der Arbeitsdaten](20190627_Arbeitsdaten_Populismus_vollstaendig.csv) umfasst sämtliche Datenfelder und entspricht somit der Versionsgeschichte im MediaWiki. Der [reduzierte Export der Arbeitsdaten](20190627_Arbeitsdaten_Populismus_nurDatum.csv) umfasst ausschließlich die Datumsfelder und dient der späteren grafischen Aufbereitung.
 
-### Erkenntnisse
+### Methodische Erkenntnisse
 
 Die HTML-Struktur der Versionsgeschichte beinhaltet mehr irreguläre Elemente, als eingangs vermutet. Insbesondere irreguläre `<span>` Tags verhindern bzw. erschweren ein automatisiertes Parsen der HTML-Liste.
 
