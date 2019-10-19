@@ -7,23 +7,22 @@ Neben der Dokumentation der Begriffsänderung bzw. der öffentlichen Debatte, la
 2. Eine ausbleibende Übernahme der Änderungen hingegen würde auf eine Trennung der beiden medialen Sphären hindeuten. In diesem Falle würde sich die Begriffsdefinition in der Wikipedia augenscheinlich losgelöst von einer übergeordneten medialen Debatte entwickeln.
 
 ### Überblick via Highchart
-Die Kollokationskurve kann unter folgender [URL](http://kaskade.dwds.de/dstar/zeit/diacollo/?query=Populismus&_s=submit&date=2014%3A2017&slice=1&score=fm&kbest=20&cutoff=&profile=2&format=hichart&global=1&groupby=&eps=0) generiert werden: `http://kaskade.dwds.de/dstar/zeit/diacollo/?query=Populismus&_s=submit&date=2014%3A2017&slice=1&score=fm&kbest=20&cutoff=&profile=2&format=hichart&global=1&groupby=&eps=0`
+Die Kollokationskurve kann unter folgender [URL](https://kaskade.dwds.de/dstar/zeit/diacollo/?query=Populismus&_s=submit&date=2010%3A2017&slice=1&score=fm&kbest=20&cutoff=&profile=2&format=hichart&global=1&groupby=&eps=0) generiert werden: `https://kaskade.dwds.de/dstar/zeit/diacollo/?query=Populismus&_s=submit&date=2010%3A2017&slice=1&score=fm&kbest=20&cutoff=&profile=2&format=hichart&global=1&groupby=&eps=0`
 
-![Kollokationskurve_Highchart_Populismus_2014-2017](populismus_2014-2017_highchart.svg)
+![Kollokationskurve_Highchart_Populismus_2010-2017](populismus_2010-2017_highchart.svg)
 
 ### Parameter
-Eine Abfrage mit simpler Textausgabe ist unter folgender [URL](http://kaskade.dwds.de/dstar/zeit/diacollo/profile.perl?format=text&profile=2&slice=1&date=2014%3A2017&eps=0&query=Populismus&diff=adiff&score=fm&kbest=20) erreichbar: `http://kaskade.dwds.de/dstar/zeit/diacollo/profile.perl?format=text&profile=2&slice=1&date=2014%3A2017&eps=0&query=Populismus&diff=adiff&score=fm&kbest=20`
+Eine Abfrage mit simpler Textausgabe ist unter folgender [URL](https://kaskade.dwds.de/dstar/zeit/diacollo/?query=Populismus&_s=submit&date=2014%3A2017&slice=1&score=fm&kbest=20&cutoff=&profile=2&format=text&groupby=&eps=0) erreichbar: `https://kaskade.dwds.de/dstar/zeit/diacollo/?query=Populismus&_s=submit&date=2010%3A2017&slice=1&score=fm&kbest=20&cutoff=&profile=2&format=text&groupby=&eps=0`
 
-Die Suchparameter sind bereits in der URL codiert, sodass eine erneute Abfrage dieser URL das gleiche Ergebnis liefern müsste. (Sofern sich der Zustand des Korpus nicht geändert hat. Siehe [02_Referenzzeitraum/Korpuseigenschaften.md](/02_Referenzzeitraum/Korpuseigenschaften.md)) Eine detaillierte Dokumentation aller Parameter und Werte findet sich auf der zugehörigen [Hilfeseite](https://kaskade.dwds.de/dstar/zeit/diacollo/help.perl) des DWDS. Ein umfangreiches [Tutorial](https://kaskade.dwds.de/diacollo-tutorial/) bietet zusätzliche Hilfe im Umgang mit DiaCollo.
+Die Suchparameter sind bereits in der URL codiert, sodass eine erneute Abfrage dieser URL das gleiche Ergebnis liefern sollte. (Sofern sich der Zustand des Korpus nicht geändert hat. Siehe [02_Referenzzeitraum/Korpuseigenschaften.md](/02_Referenzzeitraum/Korpuseigenschaften.md)) Eine detaillierte Dokumentation aller Parameter und Werte findet sich auf der zugehörigen [Hilfeseite](https://kaskade.dwds.de/dstar/zeit/diacollo/help.perl) des DWDS. Ein umfangreiches [Tutorial](https://kaskade.dwds.de/diacollo-tutorial/) bietet zusätzliche Hilfe im Umgang mit DiaCollo.
 
+- `query=Populismus` Definition des Suchbegriffs.
+- `date=2014%3A2017` Zu untersuchender Zeitraum: 2010 bis 2017. Wie bereits bei der Ermittlung des Referenzzeitraums beginnt die Analyse vier Jahre vor Beginn des zu betrachteten Zeitraumes. Dadurch sollen Fehlschlüsse vermieden werden, da stabile Paarungen und kurzfristige Entwicklungen leichter voneinander unterschieden werden können.
+- `slice=1` Größe der betrachteten Zeiträume. Für die feinst mögliche Auflösung wurde der niedrigste Wert, 1 Jahr, gewählt.
+- `score=fm` Methode zur Ermittlung der Kollokationen: Frequenz pro Millionen. Es handelt sich hierbei um eine linear normalisierte Version der Rohdaten. Im Gegensatz zu komplexeren Argorithmen wie der *scaled log-dice coefficient* oder die *binomal log likelyhood ratio* werden hier auch statistische Ausreißer ins Ergebnis mit aufgenommen. Vorteil der verwedeten simplen Methode ist, dass die Ergebnisse problemlos nachvollziehbar sind, während eventuelle Ausreißer in folgenden manuellen Auswertung bereinigt werden können.
+- `kbest=20` Anzahl der Elemente je Zeitraum. Standard ist 10. Durch die Erhöhung auf 20 Elemente soll sichergestellt werden, dass trotz der fehlenden Filterung "kleiner" Wörter keine relevanten Begriffe ausgeschlossen werden.
+- `profile=2` Profil: Kollokationen, das Standardprofil für DiaCollo.
 - `format=text` Das Textformat ist tabulatorsepariert und eigenet sich zur Überführung in andere Programme und Formate. Die o.g. Verlaufskurve wird durch das Format "Highchart", eine Javascript Bibliothek zur Erzeugung interaktiver Kurven, angelegt.
-- `profile=2`
-- `slice=1`
-- `date=2014%3A2017`
-- `eps=0`
-- `query=Populismus`
-- `diff=adiff`
-- `score=fm`
-- `kbest=20`
+- `global=` `0` für Textausgabe, `1` für Highchart. Ist dieser Parameter positiv, werden sämtliche Kollokationen für jeden Zeitraum vermerkt. In Abschnitten, in denen eine bestimmte Kollokation eigentlich nicht vorkommt, wird diese mit der Frequenz f12 = 0 notiert. Dieses Vorgehen ist nützlich für die Anzeige von Verlaufsgrafiken wie der Highchart. In der Textausgabe, die Grundlage für die folgenden Auswertungen ist, würde dies die Ergebnissmenge nur unnötig vergrößern.
 
-Der Ergebnissatz ist in der Datei [populismus_2014-2017_kollokation.tsv](populismus_2014-2017_kollokation.tsv) abgelegt.
+Der Ergebnissatz ist in der Datei [populismus_2010-2017_kollokation.tsv](populismus_2010-2017_kollokation.tsv) abgelegt.
