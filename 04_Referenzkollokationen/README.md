@@ -11,6 +11,8 @@ Die Kollokationskurve kann unter folgender [URL](https://kaskade.dwds.de/dstar/z
 
 ![Kollokationskurve_Highchart_Populismus_2010-2017](populismus_2010-2017_highchart.svg)
 
+An dieser Grafik lassen sich bereits erste Entwicklungen ablesen, für eine detaillierte Auswertung ist diese jedoch nicht detailliert genug.
+
 ### Parameter
 Eine Abfrage mit simpler Textausgabe ist unter folgender [URL](https://kaskade.dwds.de/dstar/zeit/diacollo/?query=Populismus&_s=submit&date=2014%3A2017&slice=1&score=fm&kbest=20&cutoff=&profile=2&format=text&groupby=&eps=0) erreichbar: `https://kaskade.dwds.de/dstar/zeit/diacollo/?query=Populismus&_s=submit&date=2010%3A2017&slice=1&score=fm&kbest=20&cutoff=&profile=2&format=text&groupby=&eps=0`
 
@@ -26,3 +28,8 @@ Die Suchparameter sind bereits in der URL codiert, sodass eine erneute Abfrage d
 - `global=` `0` für Textausgabe, `1` für Highchart. Ist dieser Parameter positiv, werden sämtliche Kollokationen für jeden Zeitraum vermerkt. In Abschnitten, in denen eine bestimmte Kollokation eigentlich nicht vorkommt, wird diese mit der Frequenz f12 = 0 notiert. Dieses Vorgehen ist nützlich für die Anzeige von Verlaufsgrafiken wie der Highchart. In der Textausgabe, die Grundlage für die folgenden Auswertungen ist, würde dies die Ergebnissmenge nur unnötig vergrößern.
 
 Der Ergebnissatz ist in der Datei [populismus_2010-2017_kollokation.tsv](populismus_2010-2017_kollokation.tsv) abgelegt.
+
+---
+
+### Methodische Erkenntnisse
+Die umfangreichen Konfigurationsmöglichkeiten bieten zwar eine hohe Anpassbarkeit, verlangen jedoch gleichzeitig eine intensive Beschäftigung mit den verschiedenen Algorithmen. Der nutzerfreundliche Ersteindruck der Oberfläche - man gibt den Suchbegriff ein, drückt auf **submit** und erhält sofort eine Auswertung - entkoppelt von der Komplexität der durchgeführten Analyse. Die Dokumentation ist zwar durchaus hilfreich, jedoch reicht sie nicht für eine fundierte Bewertung der zur Verfügung stehenden Parameter und Algorithmen, sowie deren Auswirkungen auf das Ergebnis und folglich Implikationen für die weitere Arbeit mit den Daten.
