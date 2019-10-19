@@ -17,9 +17,9 @@ Die Suchparameter sind bereits in der URL codiert, sodass eine erneute Abfrage d
 - `n=date%2Bclass` Kategorisierungsmodus nach Datum und Klasse, Standardwert. (Mehr zu den Modi auf der [Hilfeseite](https://kaskade.dwds.de/dstar/zeit/help-hist.perl#details-norm)) 
 - `smooth=none` Keine Glättung des Graphen. (Die einzelnen Werte werden mit Geraden verbunden.)
 - `grid=1` Anzeige eines Rasters.
-- `sl=1` Größe der Slices, also der Teilung der x-Achse, beträgt 1 Jahr. (Kleinstmöglicher Wert.)
-- `xr=2000%3A2018` Der Wertebereich der x-Achse ist definiert durch den Erstellungszeitpunkt des Lemmas plus 4 Jahre Vorlauf und die aktuellste Datenreihe des Korpus. (2000 bis 2018)
-- `psize=840%2C480` Die Ausgabedimensionen sind auf 840x480 eingestellt.
+- `sl=1` Größe der Slices, also der Teilung der x-Achse, beträgt 1 Jahr. Dies ist kleinstmögliche Wert für eine höchst mögliche Präzision.
+- `xr=2000%3A2018` Der Wertebereich der x-Achse ist definiert durch den Erstellungszeitpunkt des Lemmas mit einem Vorlauf von vier Jahren, sowie der aktuellste Datenreihe des Korpus. Der Vorlauf dient dazu, Trends und Anomalien leichter identifizieren zu können.
+- `psize=840%2C480` Die Dimensionen der grafischen Ausgabe betragen 840x480 Pixel.
 
 ### Wortverlauf des Begriffs "Populismus" im Korpus der ZEIT
 
