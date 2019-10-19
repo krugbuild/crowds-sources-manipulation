@@ -13,7 +13,7 @@ Die Kollokationskurve kann unter folgender [URL](https://kaskade.dwds.de/dstar/z
 
 An dieser Grafik lassen sich bereits erste Entwicklungen ablesen, für eine detaillierte Auswertung ist diese jedoch nicht detailliert genug.
 
-### Parameter
+### Ausgabe als Text / Parameterdefinition
 Eine Abfrage mit simpler Textausgabe ist unter folgender [URL](https://kaskade.dwds.de/dstar/zeit/diacollo/?query=Populismus&_s=submit&date=2014%3A2017&slice=1&score=fm&kbest=20&cutoff=&profile=2&format=text&groupby=&eps=0) erreichbar: `https://kaskade.dwds.de/dstar/zeit/diacollo/?query=Populismus&_s=submit&date=2010%3A2017&slice=1&score=fm&kbest=20&cutoff=&profile=2&format=text&groupby=&eps=0`
 
 Die Suchparameter sind bereits in der URL codiert, sodass eine erneute Abfrage dieser URL das gleiche Ergebnis liefern sollte. (Sofern sich der Zustand des Korpus nicht geändert hat. Siehe [Korpuseigenschaften.md](/02_Referenzzeitraum/Korpuseigenschaften.md)) Eine detaillierte Dokumentation aller Parameter und Werte findet sich auf der zugehörigen [Hilfeseite](https://kaskade.dwds.de/dstar/zeit/diacollo/help.perl) des DWDS. Ein umfangreiches [Tutorial](https://kaskade.dwds.de/diacollo-tutorial/) bietet zusätzliche Hilfe im Umgang mit DiaCollo.
