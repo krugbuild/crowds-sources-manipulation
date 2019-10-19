@@ -1,0 +1,1 @@
+Es ist anzunehmen, dass die Entwicklung eines Wikpedia-Lemmas durch eine freiwillige, cooperative[1] Methodik nicht linear, sondern in Phasen abläuft. Insbesondere gesteigertes öffentliches Interesse an einem Begriff dürfte zu mehr definitorischen Anstrengungen und folglich zu mehr Edits führen.
