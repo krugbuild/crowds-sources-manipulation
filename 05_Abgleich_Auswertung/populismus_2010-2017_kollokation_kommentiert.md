@@ -2,6 +2,8 @@
 
 Um unnötiges Abgleichen von informationsarmen Wörtern mit den Lemmakorpora zu vermeiden, werden im Folgenden die Begriffe vorsortiert. Begriffe ohne relevante Bedeutung für das Lemma werden in folgenden Untersuchungsschritten nicht beachtet.
 
+Ein hilfreiches Element bei der Entscheidung, ob 
+
 Part-of-Speech Tags gemäß [Stuttgart-Tübingen-Tagset (STTS)](https://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/TagSets/stts-table.html) 
 
 ADJA 	attributives Adjektiv 
