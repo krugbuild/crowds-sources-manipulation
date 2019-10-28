@@ -27,7 +27,16 @@ Die Suchparameter sind bereits in der URL codiert, sodass eine erneute Abfrage d
 - `format=text` Das Textformat ist tabulatorsepariert und eigenet sich zur Überführung in andere Programme und Formate. Die o.g. Verlaufskurve wird durch das Format `highchart`, eine Javascript Bibliothek zur Erzeugung interaktiver Kurven, angelegt.
 - `global=` `0` für Textausgabe, `1` für Highchart. Ist dieser Parameter positiv, werden sämtliche Kollokationen für jeden Zeitraum vermerkt. In Abschnitten, in denen eine bestimmte Kollokation eigentlich nicht vorkommt, wird diese mit der Frequenz f12 = 0 notiert. Dieses Vorgehen ist nützlich für die Anzeige von Verlaufsgrafiken wie der Highchart. In der Textausgabe, die Grundlage für die folgenden Auswertungen ist, würde dies die Ergebnissmenge nur unnötig vergrößern.
 
-Der Ergebnissatz ist in der Datei [populismus_2010-2017_kollokation.tsv](populismus_2010-2017_kollokation.tsv) abgelegt.
+Der Ergebnissatz ist in der Datei [populismus_2010-2017_kollokation.tsv](populismus_2010-2017_kollokation.tsv) abgelegt mit folgender Spaltenbedeutung:
+
+- `N` Gesamtanzahl der Kollokationen zum Suchbegriff im jeweiligen Zeitabschnitt.	
+- `f1` Frequenz des Suchbegriffs im jeweiligen Zeitabschnitt.
+- `f2` Frequenz der Kollokation im jeweiligen Zeitabschnitt.
+- `f12` Kollokationsfrequenz. 
+- `score` Frequenz pro Millionen.
+- `label` Zeitabschnitt, hier: Jahr.
+- `lemma` Begriff.
+- `pos` Part-Of-Speech tag.
 
 ---
 
