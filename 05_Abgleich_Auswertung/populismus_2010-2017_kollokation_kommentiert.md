@@ -1,20 +1,8 @@
-## Bereinigte Ergebisliste - Kollokation - Populismus 2010-2017
+## Bereinigte Ergebnisliste - Kollokation - Populismus 2010-2017
 
 Um unnötiges Abgleichen von informationsarmen Wörtern mit den Lemmakorpora zu vermeiden, werden im Folgenden die Begriffe vorsortiert. Begriffe ohne relevante Bedeutung für das Lemma werden in folgenden Untersuchungsschritten nicht beachtet.
 
-Ein hilfreiches Element bei der Entscheidung, ob 
-
-Part-of-Speech Tags gemäß [Stuttgart-Tübingen-Tagset (STTS)](https://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/TagSets/stts-table.html) 
-
-ADJA 	attributives Adjektiv 
-
-VVFIN 	finites Verb, voll
-
-VVPP 	Partizip Perfekt, voll
-
-allgemeingültig
-
-### Nicht relevante Begriffe
+Eine Entscheidungshilfe zur Bestimmung bedeutungsvoller Begriffe sind die Part-of-Speech-Tags. (Siehe auch [Stuttgart-Tübingen-Tagset (STTS)](https://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/TagSets/stts-table.html)) Insbesondere attributive Adjektive ("ADJA") und finite Verben ("VVFIN") treten zwar häufig als Kollokation auf, wirken sich jedoch kaum auf die Begriffsbestimmung aus. Folgende Begriffe wurden unter diesen Gesichtspunkten entfernt:
 
 | N        | f1   | f2     | f12  | score  | label | lemma  | pos   |
 | -------- | ---- | ------ | ---- | ------ | ----- | ------ | ----- |
@@ -42,7 +30,7 @@ allgemeingültig
 | 23952564     | 1504     | 104841     | 7     | 0.2922     | 2017     | geben                                   | VVFIN     |
 | 23952564  | 1504 | 134462 | 6    | 0.2505 | 2017  | sagen                                   | VVFIN |
 
-### Relevante Begriffe
+Basis der weiteren Untersuchung ist somit der folgende Ergebnissatz:
 
 
 | N         | f1   | f2     | f12  | score  | label | lemma                                   | pos   |
