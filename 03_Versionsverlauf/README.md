@@ -28,8 +28,8 @@ Zwischen 2012 und 2014 ist in beiden Darstellungen eine Phase geringer Aktivitä
 
 Dieser Ausschnitt zeigt den ermittelten Bereich von 2014 bis Frühjahr 2017.
 ![timeline_plot_2014-2017](20190627_Plot_2014-2017.png)
-Den Beginn des Betrachtungszeitraumes markiert die Version vom [2014-03-16T14:09:00Z mit der ID 128563967](https://de.wikipedia.org/w/index.php?title=Populismus&oldid=128563967). (Ab hier V2014 genannt.) Diese Version beschreibt das Ende einer Phase mit geringer Bearbeitungsdichte. Weiterhin wurden in den Versionen keine substantiellen Änderungen vorgenommen.
-Als Vergleichsversion dient [2017-06-04T18:04:00Z mit der ID 166083456](https://de.wikipedia.org/w/index.php?title=Populismus&oldid=166083456). (Ab hier V2017.) Sie markiert die letzte Änderung in der Hochphase von Ende 2016 bis Anfang 2017. Weiterhin folgen auf sie zunächst erneut nur kleine Änderungen. 
+Den Beginn des Betrachtungszeitraumes markiert die Version vom [2014-03-16T14:09:00Z mit der ID 128563967](https://de.wikipedia.org/w/index.php?title=Populismus&oldid=128563967). (Ab hier [V2014](/Populismus_V2014.html) genannt.) Diese Version beschreibt das Ende einer Phase mit geringer Bearbeitungsdichte. Weiterhin wurden in den Versionen keine substantiellen Änderungen vorgenommen.
+Als Vergleichsversion dient [2017-06-04T18:04:00Z mit der ID 166083456](https://de.wikipedia.org/w/index.php?title=Populismus&oldid=166083456). (Ab hier [V2017](/Populismus_V2017.html).) Sie markiert die letzte Änderung in der Hochphase von Ende 2016 bis Anfang 2017. Weiterhin folgen auf sie zunächst erneut nur kleine Änderungen. 
 
 Der Textvergleich dieser beiden Versionen kann über die Wikipedia Revisionskontrolle vorgenommen werden. Die Adressierung der Versionen erfolgt dabei über eine generierte URL anhand der IDs in der Form:
 `https://de.wikipedia.org/w/index.php?title=Populismus&oldid=128563967` für V2014.
