@@ -1,6 +1,6 @@
 ## Bereinigte Ergebnisliste - Kollokation - Populismus 2010-2017
 
-Um unnötiges Abgleichen von informationsarmen Wörtern mit den Lemmakorpora zu vermeiden, werden im Folgenden die Begriffe vorsortiert. Begriffe ohne relevante Bedeutung für das Lemma werden in folgenden Untersuchungsschritten nicht beachtet.
+Um unnötiges Abgleichen von informationsarmen Wörtern mit den Lemmakorpora zu vermeiden, werden Begriffe ohne relevante Bedeutung für das Lemma von der weiteren Untersuchung ausgeschlossen. Diese Bereinigung findet statt auf Basis der [Ergebnissliste aus Abschnitt 04](/04_Referenzkollokationen/populismus_2010-2017_kollokation.tsv).
 
 Eine Entscheidungshilfe zur Bestimmung bedeutungsvoller Begriffe sind die Part-of-Speech-Tags. (Siehe auch [Stuttgart-Tübingen-Tagset (STTS)](https://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/TagSets/stts-table.html)) Insbesondere attributive Adjektive ("ADJA") und finite Verben ("VVFIN") treten zwar häufig als Kollokation auf, wirken sich jedoch kaum auf die Begriffsbestimmung aus. Folgende Begriffe wurden unter diesen Gesichtspunkten entfernt:
 
