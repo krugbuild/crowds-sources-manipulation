@@ -2,7 +2,9 @@
 
 Um unnötiges Abgleichen von informationsarmen Wörtern mit den Lemmakorpora zu vermeiden, werden Begriffe ohne relevante Bedeutung für das Lemma von der weiteren Untersuchung ausgeschlossen. Diese Bereinigung findet statt auf Basis der [Ergebnissliste aus Abschnitt 04](/04_Referenzkollokationen/populismus_2010-2017_kollokation.tsv).
 
-Eine Entscheidungshilfe zur Bestimmung bedeutungsvoller Begriffe sind die Part-of-Speech-Tags. (Siehe auch [Stuttgart-Tübingen-Tagset (STTS)](https://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/TagSets/stts-table.html)) Insbesondere attributive Adjektive ("ADJA") und finite Verben ("VVFIN") treten zwar häufig als Kollokation auf, wirken sich jedoch kaum auf die Begriffsbestimmung aus. Weiterhin mangelt es auch einigen Nomen ("NN") wie "Land", "Populismus", "Frage" und "Mensch" an Relevanz für die Begriffsbestimmung. Folgende Begriffe wurden entfernt:
+Eine Entscheidungshilfe zur Bestimmung bedeutungsvoller Begriffe sind die Part-of-Speech-Tags. (Siehe auch [Stuttgart-Tübingen-Tagset (STTS)](https://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/TagSets/stts-table.html)) Insbesondere attributive Adjektive ("ADJA") und finite Verben ("VVFIN") treten zwar häufig als Kollokation auf, wirken sich jedoch kaum auf die Begriffsbestimmung aus. Weiterhin mangelt es auch einigen Nomen ("NN") wie "Land", "Populismus", "Frage" und "Mensch" an Relevanz für die Begriffsbestimmung. 
+
+### Entfernte Begriffe
 
 | N         | f1   | f2     | f12  | score  | label | lemma      | pos   |
 | --------- | ---- | ------ | ---- | ------ | ----- | ---------- | ----- |
@@ -36,7 +38,7 @@ Eine Entscheidungshilfe zur Bestimmung bedeutungsvoller Begriffe sind die Part-o
 | 23952564  | 1504 | 91705  | 6    | 0.2505 | 2017  | Mensch     | NN    |
 | 23952564  | 1504 | 1472   | 8    | 0.3340 | 2017  | Populismus | NN    |
 
-Basis der weiteren Untersuchung ist somit der folgende Ergebnissatz:
+### Übernommene Begriffe
 
 | N         | f1   | f2     | f12  | score  | label | lemma                                   | pos   |
 | --------- | ---- | ------ | ---- | ------ | ----- | --------------------------------------- | ----- |
@@ -94,6 +96,8 @@ Basis der weiteren Untersuchung ist somit der folgende Ergebnissatz:
 | 23952564  | 1504 | 6161   | 7    | 0.2922 | 2017  | liberal                                 | ADJA  |
 | 23952564  | 1504 | 60426  | 6    | 0.2505 | 2017  | Deutschland                             | NE    |
 | 23952564  | 1504 | 23670  | 6    | 0.2505 | 2017  | Politik                                 | NN    |
+
+### Bereinigter Datensatz
 
 Reduziert auf Begriff und Jahre, gruppiert nach Jahren und alphabetisch sortiert ergibt sich der endgültige Datensatz zur weiteren Untersuchung:
 
