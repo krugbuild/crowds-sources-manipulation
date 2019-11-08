@@ -1,8 +1,14 @@
-# Wikipedia-Versionsgeschichte als begriffshistorische Quelle am Beispiel des Artikels "Populismus"
+# Begriffshistorische Analysen von Wikipedia-Versionsgeschichten am Beispiel des Artikels "Populismus"
 
 ---
 
 work in progress
+
+---
+
+[/01_Quelldaten/README.md](/01_Quelldaten/README.md)
+
+[/01_Quelldaten](/01_Quelldaten)
 
 ---
 
