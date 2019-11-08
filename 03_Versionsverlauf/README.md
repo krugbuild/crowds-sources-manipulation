@@ -21,7 +21,7 @@ Im Vergleich zur eingangs verwendeten Grafik lassen sich an diesem Plot Zeiträu
 
 ### Abgleich mit Referenzzeitraum
 
-Im direkten Vergleich der Wortverlaufskurve aus [Abschnitt 02](/02_Referenzzeitraum/) mit dem Versionsverlauf lassen sich leicht Parallelen ziehen.
+Im direkten Vergleich der Wortverlaufskurve aus [Abschnitt 02](/02_Referenzzeitraum/) mit dem Versionsverlauf lassen sich tatsächlich Parallelen erkennen.
 ![Wortverlauf_Populismus_ZEIT](/02_Referenzzeitraum/Wortverlauf_Populismus_ZEIT.png)  
 Zwischen 2012 und 2014 ist hier deutlich eine Phase geringer Aktivität zu erkennen, die sich ebenfalls im Plot wiederfindet. Dem folgt eine Phase ansteigender Aktivität, die bis etwa 2017 anhält und anschließend relativ stabil bleibt. Die Begrenzung der Auflösung auf Jahresschritte führt jedoch dazu, dass Häufungen außerhalb dieses Jahresrasters nicht erkannt werden können.
 ![timeline_plot_2014-2017](20190627_Plot_2014-2017.png)  
