@@ -21,13 +21,14 @@ Im Vergleich zur eingangs verwendeten Grafik lassen sich an diesem Plot Zeiträu
 ### Abgleich mit Referenzzeitraum
 
 Im direkten Vergleich der Wortverlaufskurve aus [Abschnitt 02](/02_Referenzzeitraum/) mit dem Versionsverlauf lassen sich leicht Parallelen ziehen.
-![Wortverlauf_Populismus_ZEIT](/02_Referenzzeitraum/Wortverlauf_Populismus_ZEIT.png)
+![Wortverlauf_Populismus_ZEIT](/02_Referenzzeitraum/Wortverlauf_Populismus_ZEIT.png) ![timeline_plot_2014-2017](20190627_Plot_2014-2017.png)
 Zwischen 2012 und 2014 ist in beiden Darstellungen eine Phase geringer Aktivität zu erkennen. Dem folgt eine Phase ansteigender Aktivität, die bis etwa 2017 anhält und anschließend relativ stabil bleibt. Die Teilung der Wortverlaufsstatistik in Jahre erschwert hier die detaillierte Auswertung, da diese Häufungen, wie z.B. um den Jahreswechsel 2016 auf 2017, nicht abbilden kann.
 
 #### Detaillierung und Begrenzung
 
 Dieser Ausschnitt zeigt den ermittelten Bereich von 2014 bis Frühjahr 2017.
-![timeline_plot_2014-2017](20190627_Plot_2014-2017.png)
+
+
 Den Beginn des Betrachtungszeitraumes markiert die Version vom [2014-03-16T14:09:00Z mit der ID 128563967](https://de.wikipedia.org/w/index.php?title=Populismus&oldid=128563967). (Ab hier V2014 genannt.) Diese Version beschreibt das Ende einer Phase mit geringer Bearbeitungsdichte. Weiterhin wurden in den Versionen keine substantiellen Änderungen vorgenommen.
 Als Vergleichsversion dient [2017-06-04T18:04:00Z mit der ID 166083456](https://de.wikipedia.org/w/index.php?title=Populismus&oldid=166083456). (Ab hier V2017.) Sie markiert die letzte Änderung in der Hochphase von Ende 2016 bis Anfang 2017. Weiterhin folgen auf sie zunächst erneut nur kleine Änderungen. 
 

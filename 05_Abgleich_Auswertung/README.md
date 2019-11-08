@@ -44,11 +44,11 @@ Die Kollokationen basieren auf der o.g. bereinigten Ergebnisliste. Je Begriff is
 | 2013-2014       | Sozialdemokratische Partei Deutschlands (SPD) | 0     | 0     | -                                                            |
 | 2015            | Tsipras                                       | 0     | 0     | -                                                            |
 | 2014            | vermeintlich                                  | 0     | 0     | -                                                            |
-| 2017            | Volk / Bevölkerung                            | 9     | 36    |                                                              |
-| 2012,2014       | Vorwurf / vorwerfen                           | 4     | 4     |                                                              |
-| 2016            | warnen                                        | 0     | 0     |                                                              |
-| 2017            | Zeit                                          |       |       |                                                              |
-| 2016            | zunehmend                                     |       |       |                                                              |
+| 2017            | Volk / Bevölkerung                            | 9     | 36    | -                                                            |
+| 2012,2014       | Vorwurf / vorwerfen                           | 4     | 4     | -                                                            |
+| 2016            | warnen                                        | 0     | 0     | -                                                            |
+| 2017            | Zeit                                          | 3     | 4     | -                                                            |
+| 2016            | zunehmend                                     | 0     | 2     | -                                                            |
 
 #### Demokratie
 
