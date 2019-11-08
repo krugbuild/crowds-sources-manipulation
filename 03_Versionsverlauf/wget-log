@@ -1,11 +1,0 @@
---2019-10-29 13:20:54--  https://de.wikipedia.org/w/index.php?title=Populismus
-Resolving de.wikipedia.org (de.wikipedia.org)... 91.198.174.192, 2620:0:862:ed1a::1
-Connecting to de.wikipedia.org (de.wikipedia.org)|91.198.174.192|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: unspecified [text/html]
-Saving to: ‘index.php?title=Populismus’
-
-          index.php     [<=>                 ]       0  --.-KB/s               index.php?title=Pop     [ <=>                ] 184,47K  --.-KB/s    in 0,1s    
-
-2019-10-29 13:20:54 (1,66 MB/s) - ‘index.php?title=Populismus’ saved [188897]
-

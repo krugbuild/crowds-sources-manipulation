@@ -29,15 +29,14 @@ Im feiner aufgelösten Plot ist hier klar eine zusammenhängende Häufung über 
 
 Die rot unterlegten Bereiche markieren die den Untersuchungszeitraum eingrenzenden Phasen mit geringer Bearbeitungsfrequenz. Die letzte Version vor dem ersten Grenzbereich dient hierbei als Ausgangsversion, da sie den Stand des Lemmas vor den zu untersuchenden Änderungen beschreibt. Sie wird fortan als *V2014* bezeichnet, es handelt sich dabei um die Version vom [2014-03-16T14:09:00Z mit der ID 128563967](https://de.wikipedia.org/w/index.php?title=Populismus&oldid=128563967).
 Die letzte Version vor dem zweiten Grenzbereich dient als Vergleichsversion. Sie beinhaltet alle Änderungen des Untersuchungszeitraumes und da ihr eine Phase mit geringer Bearbeitungsfrequenz folgt kann davon ausgegangen werden, dass sie einen unumstrittenen bis temporär abgeschlossenen Zustand repräsentiert. Sie wird fortan als *V2017* bezeichnet, es handelt sich dabei um die Version vom [2017-06-04T18:04:00Z mit der ID 166083456](https://de.wikipedia.org/w/index.php?title=Populismus&oldid=166083456).
-Grundlage für die weitere Untersuchung sind die lokalen Kopien der beiden Dateien als Plain HTML.[1]
+Grundlage für die weitere Untersuchung sind die lokalen Kopien der beiden Versionen als Plain HTML.[1]
 
-V2014: [Populismus_V2014.html](/03_Versionsverlauf/Populismus_V2014.html), 96,1 KB, 5261 Wörter, 400 Zeilen.    
-V2017: [Populismus_V2017.html](/03_Versionsverlauf/Populismus_V2017.html), 122,2 KB, 7951 Wörter, 465 Zeilen.
+V2014: [Populismus_V2014.html](/03_Versionsverlauf/Populismus_V2014.html), 96.1 KB, 5261 Wörter, 400 Zeilen.    
+V2017: [Populismus_V2017.html](/03_Versionsverlauf/Populismus_V2017.html), 122 KB, 7951 Wörter, 465 Zeilen.
 
 ---
 
 [1] Abgerufen am 25.10.2019 via:
-
 ```
 wget https://de.wikipedia.org/w/index.php?title=Populismus&oldid=128563967
 wget https://de.wikipedia.org/w/index.php?title=Populismus&oldid=166083456
