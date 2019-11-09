@@ -17,7 +17,7 @@ Rahmen ist die Übung _Begriffsgeschichte 2.0. Chancen und Grenzen digitaler Que
 Analysemethoden_ im Sommersemester 2019 unter Leitung von [Dr. Sina Fabian](https://www.geschichte.hu-berlin.de/de/bereiche-und-lehrstuehle/dtge-20jhd/deutsche-geschichte-im-20-jahrhundert-mit-schwerpunkt-im-nationalsozialismus/personen/dr-sina-fabian) an der [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/de).
 (Erfahrungswerte werden im [Wiki](https://github.com/krugbuild/wiki-pop-quelle/wiki) dokumentiert.)
 
-[^1]: Fußnote.
+[^1]: "Fußnote".
 
 ## Präsentation
 Eine Abschlusspräsentation findet am 11.07.2019 statt. Der Foliensatz ist hier einsehbar: [hackmd.io/@krugbuild/wiki-pop-quelle](https://hackmd.io/@krugbuild/wiki-pop-quelle).
