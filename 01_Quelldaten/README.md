@@ -1,8 +1,6 @@
 ## 01 Aufbereitung der Quelldaten
 
----
-
-| [zurück zur Übersicht](/README.md) |
+| [zurück zur Übersicht](../README.md) |
 
 ---
 
