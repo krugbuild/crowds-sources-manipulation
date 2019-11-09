@@ -2,7 +2,7 @@
 
 ---
 
-work in progress
+*work in progress*
 
 ---
 
@@ -10,7 +10,7 @@ work in progress
 
 Die [Versionsgeschichte](https://de.wikipedia.org/wiki/Hilfe:Versionen) ist eines der zentralen Werkzeuge zur Pflege der Wikipedia. In Ihr werden sämtliche Änderungen eines Artikels mit Zeitpunkt und Autor vermerkt. Neben Manipulationsversuchen [^Heise: "Fall Relotius"] kann so theoretisch die gesamte Entwicklung eines Artikels nachverfolgt werden. Die gesamte Begriffsgeschichte, wenn man so will. Da die Versionsgeschichte vieler Begriffe bis in die frühen 2000er Jahre reicht, sollte sie eine reiche Quelle für verschiedene Methoden und Fragestellungen der zeit- und begriffsgeschichtlichen Forschung sein. Diese These zu überprüfen ist das Kernanliegen dieses Projekts.
 
-Der Umgang mit diesen *digital born* Daten[^1] verlangt natürlich nach einer gesonderten quellenkundlichen Behandlung, die im Detail im [Abschnitt "01 Quelldaten"](/01_Quelldaten/) dokumentiert und kommentiert ist. Ziel dieser Bearbeitung sind maschinenlesbare Datenreihen, die die Grundlage der folgenden Auswertungen bilden werden. Das Ergebnis dieses ersten Bearbeitungsschrittes ist eine [Tabelle](/01_Quelldaten/20190627_Arbeitsdaten_Populismus_vollstaendig.csv) mit der folgenden Struktur:
+Der Umgang mit diesen *digital born* Daten[^1] verlangt natürlich nach einer gesonderten quellenkundlichen Behandlung, die im Detail im [Abschnitt "01 Quelldaten"](/01_Quelldaten/README.md) dokumentiert und kommentiert ist. Ziel dieser Bearbeitung sind maschinenlesbare Datenreihen, die die Grundlage der folgenden Auswertungen bilden werden. Das Ergebnis dieses ersten Bearbeitungsschrittes ist eine [Tabelle](/01_Quelldaten/20190627_Arbeitsdaten_Populismus_vollstaendig.csv) mit der folgenden Struktur:
 
 | shortDate | Time | Benutzer | kleine Änderung | Kommentar | Größenänderung in Bytes | Größe in Bytes | ID | Date&Time |
 | - | - | - | - | - | - | - | - | - |
