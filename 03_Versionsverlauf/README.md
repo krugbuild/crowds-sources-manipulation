@@ -1,6 +1,6 @@
 ## 03 Versionsverlauf des Lemmas "Populismus"
 
-| [**zurück zur Übersicht**](../) |
+| [**zurück zur Übersicht**](../README.md) |
 
 ---
 
