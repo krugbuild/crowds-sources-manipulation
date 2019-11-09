@@ -1,6 +1,12 @@
 ## 03 Versionsverlauf des Lemmas "Populismus"
 
-Um einen Ablgeich mit dem Referenzzeitraum zu ermöglichen, muss zunächst der Versionsverlauf des Lemmas visualisiert werden. Es ist anzunehmen, dass sich im Versionsverlauf ähnliche Muster zeigen werden, wie sie in der Wortverlaufskurve im [Abschnitt 02](/02_Referenzzeitraum/) deutlich wurden. Im Gegensatz zur Analyse des Wortverlaufs soll hier jedoch die Bearbeitungsfrequenz dargestellt werden.
+---
+
+| [**zurück zur Übersicht**](/README.md) |
+
+---
+
+Um einen Abgleich mit dem Referenzzeitraum zu ermöglichen, muss zunächst der Versionsverlauf des Lemmas visualisiert werden. Es ist anzunehmen, dass sich im Versionsverlauf ähnliche Muster zeigen werden, wie sie in der Wortverlaufskurve im [Abschnitt 02](/02_Referenzzeitraum/) deutlich wurden. Im Gegensatz zur Analyse des Wortverlaufs soll hier jedoch die Bearbeitungsfrequenz dargestellt werden.
 Zur Eingrenzung des Untersuchungszeitraumes ist es notwendig, die unterschiedlichen Phasen des Bearbeitungsverlaufs zu definieren. Hierbei wird angenommen, dass Phasen mit einer hohen Bearbeitungsfrequenz durch ein gesteigertes öffentliches Interesse und einen intensivierten Diskurs um den Begriff selbst hervorgerufen werden. Phasen mit geringer Bearbeitungsfrequenz lassen dementsprechend darauf schließen, dass das Lemma sich in einem relativ unumstrittenen, möglicheweise temporär abgeschlossenen Zustand befindet. Gegenstand der Untersuchung ist folglich ein Zeitraum mit hoher Bearbeitungsfrequenz, dessen Beginn und Ende  von Zeiträumen mit geringer Bearbeitungsfrequenz markiert werden. 
 
 ### OpenRefine - Timeline Facet
