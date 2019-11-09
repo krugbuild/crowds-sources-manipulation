@@ -26,7 +26,6 @@ Dabei handelt es sich um eine Auflistung aller 1045 Versionen des Lemmas *Populi
 
 
 
-
 ---
 
 Dieses Foschungsprozessdatenrepositorium dient der Dokumentation des o.g. Seminarprojektes und gleichzeitig der Exploration digital-historischer Method
@@ -36,7 +35,7 @@ Analysemethoden_ im Sommersemester 2019 unter Leitung von [Dr. Sina Fabian](http
 
 
 ## Präsentation
-Eine Abschlusspräsentation findet am 11.07.2019 statt. Der Foliensatz ist hier einsehbar: [hackmd.io/@krugbuild/wiki-pop-quelle](https://hackmd.io/@krugbuild/wiki-pop-quelle).
+Eine Abschlusspräsentation fand am 11.07.2019 statt. Der Foliensatz ist hier einsehbar: [hackmd.io/@krugbuild/wiki-pop-quelle](https://hackmd.io/@krugbuild/wiki-pop-quelle).
 
 
 
