@@ -2,8 +2,9 @@
 
 ---
 
-| [zum Repositorium (Github)](https://github.com/krugbuild/wiki-pop-quelle/) | [zur Leseansicht (Github Pages)](https://krugbuild.github.io/wiki-pop-quelle/) |
-| - | - |
+>  [**zum Repositorium (Github)**](https://github.com/krugbuild/wiki-pop-quelle/) | [**zur Leseansicht (Github Pages)**](https://krugbuild.github.io/wiki-pop-quelle/)
+
+---
 
 *work in progress*
 
@@ -22,14 +23,14 @@ Der Umgang mit diesen *digital born* Daten[^2] verlangt natürlich nach einer ge
 | 2019-06-02 | 02:26 | Aka | k | →Literatur: doppelte Leerzeichen entfernt | -1 | 77.498 | 188056880 | 2019-06-02T02:26:00Z |
 | ... |  |  |  |  |  |  |  |  |
 
-Dabei handelt es sich um eine Auflistung aller 1045 Versionen des Lemmas *Populismus* zwischen dem 02. Juni 2019 und dem 04. März 2004, dem Tag der Erstellung dieses Eintrages. Die Aussagekraft der Rohdaten ist jedoch ziemlich beschränkt. Für eine begriffshistorische Analyse gilt es zunächst, den Zeitrahmen zu definieren, der untersucht werden soll.
+Dabei handelt es sich um eine Auflistung aller 1045 Versionen des Lemmas *Populismus* zwischen dem 02. Juni 2019 und dem 04. März 2004, dem Tag der Erstellung dieses Artikels. Die Aussagekraft der Rohdaten ist jedoch ziemlich beschränkt. Für eine begriffshistorische Analyse gilt es zunächst, den Zeitrahmen zu definieren, der untersucht werden soll.
 
 [^1]: Siehe z.B.: https://www.heise.de/newsticker/meldung/Fall-Relotius-Manipulationen-im-Wikipedia-Artikel-4582927.html .
 [^2]: Vgl. Rehbein, Malte: Geschichtsforschung im digitalen Raum. Über die Notwendigkeit der Digital Humanities als historische Grund- und Transferwissenschaft., in: Herbers, Klaus; Trenkle, Viktoria (Hg.): Papstgeschichte im digitalen Zeitalter: neue Zugangsweisen zu einer Kulturgeschichte Europas, Köln; Weimar; Wien 2018 (Beihefte zum Archiv für Kulturgeschichte BV023554989 Heft 85), S. 41f.
 
 ## Ermittlung des Referenzzeitraums anhand medialer Aufmerksamkeit
 
-Eine simple Möglichkeit, den Konjunkturzyklus eines Begriffes nachzuvollziehen, ist es, die Verlaufskurve der Worthäufigkeit innerhalb eines gesellschaftlich relevanten Textkorpus heranzuziehen. Als Basis für dieses Projekt diente dabei der Korpus der Wochenzeitschrift DIE ZEIT. Alle Details zur Methodik finden sich im [Abschnitt 02 Referenzzeitraum](/02_Referenzzeitraum/README.md).
+Eine simple Möglichkeit, den Konjunkturzyklus eines Begriffes nachzuvollziehen ist es, die Verlaufskurve der Worthäufigkeit innerhalb eines gesellschaftlich relevanten Textkorpus heranzuziehen. Als Basis für dieses Projekt diente dabei der Korpus der Wochenzeitschrift DIE ZEIT. Alle Details zur Methodik finden sich im [Abschnitt "02 Referenzzeitraum"](/02_Referenzzeitraum/README.md).
 
 ![Wortverlauf_ZEIT](/02_Referenzzeitraum/Wortverlauf_Populismus_ZEIT.png)
 
