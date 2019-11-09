@@ -1,8 +1,6 @@
 ## 02 Ermittlung des Referenzzeitraums
 
----
-
-| [**zurück zur Übersicht**](/README.md) |
+| [**zurück zur Übersicht**](./README.md) |
 
 ---
 
@@ -31,7 +29,7 @@ Die Suchparameter sind bereits in der URL codiert, sodass eine erneute Abfrage d
 
 ### Wortverlauf des Begriffs "Populismus" im Korpus der ZEIT
 
-![Wortverlauf des Begriffs "Populismus" im Korpus DIE ZEIT](/02_Referenzzeitraum/Wortverlauf_Populismus_ZEIT.png)
+![Wortverlauf des Begriffs "Populismus" im Korpus DIE ZEIT](./02_Referenzzeitraum/Wortverlauf_Populismus_ZEIT.png)
 
 Bemerkenswert ist der steile Anstieg der Worthäufigkeit nach 2014. Im Korpus von 2016 wurde der Begriff Populismus mit fast vierfacher Frequenz gegenüber 2014 erwähnt. Dies deutet auf einen sich intensivierenden Diskurs und erhöhtes öffentliches Interesse hin. Gleichzeitig lässt das große Delta zwischen 2014 und 2016 eine gewisse Begriffsentwicklung erwarten.
 
