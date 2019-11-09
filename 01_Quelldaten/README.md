@@ -1,5 +1,8 @@
 ## 01 Aufbereitung der Quelldaten
 
+| [zurück zur Übersicht](/README.md) |
+| - |
+
 Ausgangspunkt der Untersuchung ist die [Versionsgeschichte](https://de.wikipedia.org/w/index.php?title=Populismus&action=history) des Lemmas [Populismus](https://de.wikipedia.org/wiki/Populismus) der deutschsprachigen Wikipedia. Der hier verfolgte Ansatz der Datenbeschaffung und -Aufbereitung beschränkt sich auf das Parsen (also das Zerlegen von Datenmengen und Entnehmen definierter Datensätze) der Versionsgeschichte des Lemmas. Ziel ist die Erzeugung eines bereinigten Datenbestandes, der sowohl die Weiterverarbeitung als auch die IT-gestützte Auswertung ermöglicht.
 
 Das genaue Vorgehen ist im [Prozesslog_Quelldatenaufbereitung.md](Prozesslog_Quelldatenaufbereitung.md) detailliert dokumentiert. Das aktuelle Dokument versteht sich hingegen als allgemeinverständliche Prozessbeschreibung.

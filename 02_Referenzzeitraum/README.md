@@ -2,7 +2,9 @@
 
 Der Referenzzeitraum wird über eine Wortverlaufskurve ermittelt, welche die Entwicklung der Worthäufigkeit über einen gegebenen Zeitraum innerhalb eines definierten Textkorpus visualisiert. Zum Einsatz kommt hierbei das webbasierte Programm *DStar Time Series* des [Digitalen Wörterbuchs der deutschen Sprache (DWDS)](https://www.dwds.de/).
 
-Als Korpus dient das Archiv der überregionalen Wochenzeitung DIE ZEIT. Die webbasierten Programme des DWDS unterstützen diesen Korpus nativ und DIE ZEIT gilt gemeinhin zu den deutschen Leitmedien. [BELEG] Die Eigenschaften des Zeitkorpus auf dem DWDS Server sind im Dokument [Korpuseigenschaften](/02_Referenzzeitraum/Korpuseigenschaften.md) beschrieben.
+Als Korpus dient das Archiv der überregionalen Wochenzeitung DIE ZEIT. Die webbasierten Programme des DWDS unterstützen diesen Korpus nativ und DIE ZEIT gilt gemeinhin zu den deutschen Leitmedien.[^1] Die Eigenschaften des Zeitkorpus auf dem DWDS Server sind im Dokument [Korpuseigenschaften](/02_Referenzzeitraum/Korpuseigenschaften.md) beschrieben.
+
+[^1]: Vgl. Weischenberg, Von Siegfried; Malik, Maja; Scholl, Armin: Journalismus in Deutschland 2005. Zentrale Befunde der aktuellen Repräsentativbefragung deutscher Journalisten, in: Media Perspektiven 7, 2006, S. 359.
 
 ### Abfrageparameter
 

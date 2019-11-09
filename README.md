@@ -1,4 +1,4 @@
-# Begriffshistorische Analysen der Wikipedia-Versionsgeschichte am Beispiel des Artikels "Populismus"
+# Projektdokumentation
 
 ---
 
@@ -7,13 +7,15 @@
 
 *work in progress*
 
+... Diese Dokumentation folgt dabei der im Repositorium abgebildeten Struktur.
+
 ---
 
 ## Versionierung und Quellenwert
 
-Die [Versionsgeschichte](https://de.wikipedia.org/wiki/Hilfe:Versionen) ist eines der zentralen Werkzeuge zur Pflege der Wikipedia. In Ihr werden sämtliche Änderungen eines Artikels mit Zeitpunkt und Autor vermerkt. Neben Manipulationsversuchen [^Heise:_"Fall_Relotius"] kann so theoretisch die gesamte Entwicklung eines Artikels nachverfolgt werden. Die gesamte Begriffsgeschichte, wenn man so will. Da die Versionsgeschichte vieler Begriffe bis in die frühen 2000er Jahre reicht, sollte sie eine reiche Quelle für verschiedene Methoden und Fragestellungen der zeit- und begriffsgeschichtlichen Forschung sein. Diese These zu überprüfen ist das Kernanliegen dieses Projekts.
+Die [Versionsgeschichte](https://de.wikipedia.org/wiki/Hilfe:Versionen) ist eines der zentralen Werkzeuge zur Pflege der Wikipedia. In Ihr werden sämtliche Änderungen eines Artikels mit Zeitpunkt und Autor vermerkt. Neben Manipulationsversuchen[^1] kann so theoretisch die gesamte Entwicklung eines Artikels nachverfolgt werden. Die gesamte Begriffsgeschichte, wenn man so will. Da die Versionsgeschichte vieler Begriffe bis in die frühen 2000er Jahre reicht, sollte sie eine reiche Quelle für verschiedene Methoden und Fragestellungen der zeit- und begriffsgeschichtlichen Forschung sein. Diese These zu überprüfen ist das Kernanliegen dieses Projekts.
 
-Der Umgang mit diesen *digital born* Daten[^1] verlangt natürlich nach einer gesonderten quellenkundlichen Behandlung, die im Detail im [Abschnitt "01 Quelldaten"](/01_Quelldaten/README.md) dokumentiert und kommentiert ist. Ziel dieser Bearbeitung sind maschinenlesbare Datenreihen, die die Grundlage der folgenden Auswertungen bilden werden. Das Ergebnis dieses ersten Bearbeitungsschrittes ist eine [Tabelle](/01_Quelldaten/20190627_Arbeitsdaten_Populismus_vollstaendig.csv) mit der folgenden Struktur:
+Der Umgang mit diesen *digital born* Daten[^2] verlangt natürlich nach einer gesonderten quellenkundlichen Behandlung, die im Detail im [Abschnitt "01 Quelldaten"](/01_Quelldaten/README.md) dokumentiert und kommentiert ist. Ziel dieser Bearbeitung sind maschinenlesbare Datenreihen, die die Grundlage der folgenden Auswertungen bilden werden. Das Ergebnis dieses ersten Bearbeitungsschrittes ist eine [Tabelle](/01_Quelldaten/20190627_Arbeitsdaten_Populismus_vollstaendig.csv) mit der folgenden Struktur:
 
 | shortDate | Time | Benutzer | kleine Änderung | Kommentar | Größenänderung in Bytes | Größe in Bytes | ID | Date&Time |
 | - | - | - | - | - | - | - | - | - |
@@ -22,10 +24,18 @@ Der Umgang mit diesen *digital born* Daten[^1] verlangt natürlich nach einer ge
 
 Dabei handelt es sich um eine Auflistung aller 1045 Versionen des Lemmas *Populismus* zwischen dem 02. Juni 2019 und dem 04. März 2004, dem Tag der Erstellung dieses Eintrages. Die Aussagekraft der Rohdaten ist jedoch ziemlich beschränkt. Für eine begriffshistorische Analyse gilt es zunächst, den Zeitrahmen zu definieren, der untersucht werden soll.
 
-[^Heise:_"Fall_Relotius"]: https://www.heise.de/newsticker/meldung/Fall-Relotius-Manipulationen-im-Wikipedia-Artikel-4582927.html
-[^1]: "Vgl. Rehbein, Malte: Geschichtsforschung im digitalen Raum. Über die Notwendigkeit der Digital Humanities als historische Grund- und Transferwissenschaft., in: Herbers, Klaus; Trenkle, Viktoria (Hg.): Papstgeschichte im digitalen Zeitalter: neue Zugangsweisen zu einer Kulturgeschichte Europas, Köln; Weimar; Wien 2018 (Beihefte zum Archiv für Kulturgeschichte BV023554989 Heft 85), S. 19–43."
+[^1]: Siehe z.B.: https://www.heise.de/newsticker/meldung/Fall-Relotius-Manipulationen-im-Wikipedia-Artikel-4582927.html .
+[^2]: Vgl. Rehbein, Malte: Geschichtsforschung im digitalen Raum. Über die Notwendigkeit der Digital Humanities als historische Grund- und Transferwissenschaft., in: Herbers, Klaus; Trenkle, Viktoria (Hg.): Papstgeschichte im digitalen Zeitalter: neue Zugangsweisen zu einer Kulturgeschichte Europas, Köln; Weimar; Wien 2018 (Beihefte zum Archiv für Kulturgeschichte BV023554989 Heft 85), S. 41f.
 
 ## Ermittlung des Referenzzeitraums anhand medialer Aufmerksamkeit
+
+Eine simple Möglichkeit, den Konjunkturzyklus eines Begriffes nachzuvollziehen, ist es, die Verlaufskurve der Worthäufigkeit innerhalb eines gesellschaftlich relevanten Textkorpus heranzuziehen. Als Basis für dieses Projekt diente dabei der Korpus der Wochenzeitschrift DIE ZEIT. Alle Details zur Methodik finden sich im [Abschnitt 02 Referenzzeitraum](/02_Referenzzeitraum/README.md).
+
+![Wortverlauf_ZEIT](/02_Referenzzeitraum/Wortverlauf_Populismus_ZEIT.png)
+
+Dieser Verlauf vermittelt einen Eindruck der medialen Aufmerksam für den Begriff bzw. das Thema *Populismus*. Dieser Verlauf wird im Folgenden mit dem Verlauf Bearbeitungsfrequenz des untersuchten Lemmas abgeglichen.
+
+## Ermittlung des Versionsverlaufs mittels R
 
 
 
