@@ -6,7 +6,7 @@
 
 *work in progress*
 
-... Diese Dokumentation folgt dabei der im Repositorium abgebildeten Struktur.
+... Diese Dokumentation folgt dabei der im Repositorium abgebildeten Struktur. Hier finden sich gleichwohl nur eine komprimierte Zusammenfassung der Zwischenergebnisse. Eine tiefere Lektüre der Unterordner wird emfpohlen.
 
 ---
 
@@ -32,14 +32,21 @@ Eine simple Möglichkeit, den Konjunkturzyklus eines Begriffes nachzuvollziehen 
 
 ![Wortverlauf_ZEIT](/02_Referenzzeitraum/Wortverlauf_Populismus_ZEIT.png)
 
-Dieser Verlauf vermittelt einen Eindruck der medialen Aufmerksam für den Begriff bzw. das Thema *Populismus*. Dieser Verlauf wird im Folgenden mit dem Verlauf Bearbeitungsfrequenz des untersuchten Lemmas abgeglichen.
+Dieser Verlauf vermittelt einen Eindruck der medialen Aufmerksam für den Begriff bzw. das Thema *Populismus*. Zwischen 2014 und 2016/2017 zeigt sich hier ein starker Anstieg, dessen Auswirkung auf die Begriffsbestimmung im Folgenden untersucht werden soll. Hierzu wird dieser Verlauf mit der Bearbeitungsfrequenz des untersuchten Lemmas abgeglichen.
 
 ## Ermittlung des Versionsverlaufs mittels R
 
+Aus der Rohform der in [Abschnitt "01 Quelldaten"](./01_Quelldaten/README.md) erzeugten Daten lassen sich schwerlich Aussagen über die Versionsentwicklung des Lemmas ableiten. Die tabellarische Notation suggeriert möglicherweise sogar eine zeitliche Gleichverteilung der einzelnen Versionen. Mittels eines simplen Zeitstrahls kann der Versionsverlauf jedoch nachvollziehbar visualisiert werden, was in [Abschnitt "03 Versionsverlauf"](./03_Versionsverlauf/) im Detail dokumentiert ist.
 
+![Zeitstrahl](./03_Versionsverlauf/20190627_Plot.png)
+
+An diesem Plot lassen sich Strukturen erkennen, die als Phasen hoher bzw. niedriger Bearbeitungsfrequenz identifiziert werden können. Analog zum zuvor definierten Zeitraum ist zwischen Frühjar 2014 und Frühjahr 2017 eine Phase mit hoher Bearbeitungsfrequenz zu erkennen. Da in diesem Zeitraum die mediale Berichterstattung deutlich zunimmt und gleichzeitig ein hohes Aufkommen an Bearbeitungen des Lemmas zu berzeichnen ist, kann von einer Phase hohen öffentlichen Interesse an diesem Begriff und folglich der Begriffsbestimmung ausgeangen werden. Die Grenzversionen dieser Phase dienen somit als Grundlage für die folgende Begriffshistorische Analyse und werden als *V2014* und *V2017* identifiziert.
 
 ---
 
+---
+
+ALT
 Dieses Foschungsprozessdatenrepositorium dient der Dokumentation des o.g. Seminarprojektes und gleichzeitig der Exploration digital-historischer Method
 Rahmen ist die Übung _Begriffsgeschichte 2.0. Chancen und Grenzen digitaler Quellen und
 Analysemethoden_ im Sommersemester 2019 unter Leitung von [Dr. Sina Fabian](https://www.geschichte.hu-berlin.de/de/bereiche-und-lehrstuehle/dtge-20jhd/deutsche-geschichte-im-20-jahrhundert-mit-schwerpunkt-im-nationalsozialismus/personen/dr-sina-fabian) an der [Humboldt-Universität zu Berlin](https://www.hu-berlin.de/de).
