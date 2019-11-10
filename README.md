@@ -52,3 +52,14 @@ Einer möglichen Veränderung der Begriffsbedeutung nähern wir uns erneut über
 Anschließend wurden die beiden Grenzversionen *V2014* und *V2017* gegen die ermittelten Kollokationen geprüft. Die Vollständige Auswertung findet sich im [Abschnitt "05 Abgleich"](./05_Abgleich/)
 
 ## Auswertung
+
+Um die Diskussion der [Ergebnissliste aus Abschnitt 05](./05_Abgleich/README.md) zu strukturieren, teilen wir die Begriffe in drei Gruppen gemäß Ihrer Worthäufigkeit innerhalb der Grenzversionen: 
+
+1. kein Auftreten: `Antwort, CDU, CSU, Gabriel, Hollande, Not, Seehofer, SPD, Tsipras, vermeintlich, warnen`
+
+2. weniger als zehn Treffer in *V2014* und *V2017*: `AfD, Aufstieg, billig, Demagogie, Europa, Frankreich, Grüne, Merkel, Opposition, Präsident, Vorwurf, Zeit, zunehmend`
+
+3. mehr als zehn Treffer in in *V2014* oder *V2017*: `Demokratie, Deutschland, liberal, link, Nationalismus, Partei, Politik, recht, Volk`
+
+-> Lemma ist weit weniger personengebunden. Für die damalige öffentliche Debatte zentrale Figuren wie Sigmar Gabriel, François Hollande, Horst Seehofer und Alexis Tsipras wurden weder in *V2014* noch in *V2017* erwähnt. Selbst Angela Merkel findet nur als beiläufiges Beispiel für den (neo)liberalen Populismus Einzug in *V2017*. 
+

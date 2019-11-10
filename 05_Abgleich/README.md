@@ -15,7 +15,7 @@ Die Kollokationen basieren auf der o.g. bereinigten Ergebnisliste. Je Begriff is
 
 Prinzipiell ist in *V2017* eine etwas höhere Wortfrequenz zu erwarten, da der Textumfang im Vergleich zu *V2014* etwa um den Faktor 1,51 größer ist.
 
-| **Jahre**       | **Begriff**                                   | V2014 | V2017 | Kommentar                                                    |
+| Jahre           | Begriff                                       | V2014 | V2017 | Kommentar                                                    |
 | --------------- | --------------------------------------------- | ----- | ----- | ------------------------------------------------------------ |
 | 2015-2016       | Afd (Alternative für Deutschland)             | 0     | 1     | Aufzählung im Kapitel zu *Rechtspopulismus* neben *FPÖ*, *Front National* und anderen. |
 | 2016-2017       | Antwort                                       | 0     | 0     | -                                                            |
@@ -29,7 +29,7 @@ Prinzipiell ist in *V2017* eine etwas höhere Wortfrequenz zu erwarten, da der T
 | 2013, 2015-2017 | Europa / europäisch                           | 4     | 8     | V2014 Lit.: 19; V2017 Lit.: 26                               |
 | 2012,2017       | Frankreich / französisch                      | 1     | 2     | -                                                            |
 | 2012            | Gabriel                                       | 0     | 0     | -                                                            |
-| 2010            | Grüne                                         | 1     | 2     | V2014: grüne Politik; V2017: Grüne in früher Phase als Beispiel für einen weiten Populismusbegriff. |
+| 2010            | Grüne / B90                                   | 1     | 2     | V2014: grüne Politik; V2017: Grüne in früher Phase als Beispiel für einen weiten Populismusbegriff. |
 | 2012            | Hollande                                      | 0     | 0     | -                                                            |
 | 2017            | liberal                                       | 6     | 13    | -                                                            |
 | 2016-2017       | link                                          | 10    | 14    | V2014 Lit.: 7; V2017 Lit.: 6                                 |
