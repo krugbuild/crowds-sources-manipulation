@@ -4,11 +4,15 @@
 
 *work in progress*
 
+[Abschnitt "Quellenarbeit"](./#Quellenarbeit)
+
+[Abschnitt "Auswertung"](./#Auswertung)
+
 ---
 
 ## Quellenarbeit
 
-Kern dieses Projektes ist die Auseinandersetzung mit dem Quellenmaterial und der Exploration adäquater Methoden zum Umgang mit demselben. Im Folgenden sind die verschiedenen Stufen der Quellenarbeit (die sich in der Struktur des Repositoriums widerspiegeln) kurz zusammengefasst, um den Projektverlauf möglichst nachvollziehbar zu gestalten. Diese komprimierte Darstellung wird der eigentlichen Arbeit natürlich schwerlich gerecht, eine tiefere Lektüre der verlinkten Abschnitte wird dringend empfohlen.
+Kern dieses Projektes ist die Auseinandersetzung mit dem Quellenmaterial und der Exploration digitalhistorischer Methoden zum Umgang mit demselben. Im Folgenden sind die verschiedenen Stufen der Quellenarbeit (die sich in der Struktur des Repositoriums widerspiegeln) kurz zusammengefasst, um den Projektverlauf möglichst nachvollziehbar zu gestalten. Diese komprimierte Darstellung kann die eigentliche Dokumentation der Quellenarbeit nur ergänzen, keinesfalls jedoch ersetzen.
 
 ### [Versionierung und Quellenwert](./01_Quelldaten/)
 
