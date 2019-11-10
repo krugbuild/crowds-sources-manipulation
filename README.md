@@ -4,9 +4,9 @@
 
 *work in progress*
 
-[Abschnitt "Quellenarbeit"](./#Quellenarbeit)
+[Abschnitt "Quellenarbeit"](./README.md#Quellenarbeit)
 
-[Abschnitt "Auswertung"](./#Auswertung)
+[Abschnitt "Auswertung"](./README.md#Auswertung)
 
 ---
 
