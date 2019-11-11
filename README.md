@@ -4,6 +4,8 @@
 
 *work in progress*
 
+Projekt ist als kommentiertes Forschungsdatenrepositorium zu verstehen -> die Symbiose aus Rohdaten und Publikation.
+
 [Abschnitt "Quellenarbeit"](./README.md#Quellenarbeit)
 
 [Abschnitt "Auswertung"](./README.md#Auswertung)
@@ -67,8 +69,13 @@ Um die Diskussion der [Ergebnissliste aus Abschnitt "05 Abgleich"](./05_Abgleich
 3. mehr als zehn Treffer in in *V2014* oder *V2017*: `Demokratie, Deutschland, liberal, link, Nationalismus, Partei, Politik, recht, Volk`
 
 ### Personenbezug
-Bei der Analyse der Gruppen 1 und 2 fällt auf, dass in den Medien erwähnte Personen im Lemma keine Rolle spielen. Weder Sigmar Gabriel, François Hollande, Horst Seehofer noch Alexis Tsipras wurden in *V2014* oder *V2017* erwähnt. Angela Merkel findet nur als beiläufiges Beispiel für den *(neo)liberalen Populismus* Einzug in *V2017*. Es liegt nahe Anzunehmen, dass dies ein Indikator für eine neutralere, weniger personenbezogene Darstellung in Wikipedia spricht. Gleichwohl muss dabei beachtet werden, dass alle Politiker nur in einzelnen Jahren, viele davon im Vorlauf des Referenzzeitraumes, und zudem mit einer niedrigen Wortfrequenz im Korpus der ZEIT erwähnt wurden. `Gabriel (2012, f12=5), Hollande (2012, f12=5), Seehofer (2010, f12=6), Tsipras (2015, f12=5), Merkel (2016, f12=7)` Die fehlende Erwähnung dieser Akteure in den untersuchten Versionen ist somit durchaus bemerkenswert, nicht jedoch signifikant.
+Bei der Analyse der Gruppen 1 und 2 fällt auf, dass in den Medien erwähnte Personen im Lemma keine Rolle spielen. Weder *Sigmar Gabriel*, *François Hollande*, *Horst Seehofer* noch *Alexis Tsipras* wurden in *V2014* oder *V2017* erwähnt. *Angela Merkel* findet nur als beiläufiges Beispiel für den *(neo)liberalen Populismus* Einzug in *V2017*. Es liegt somit nahe anzunehmen, dass dies ein Indikator für eine neutralere, weniger personenbezogene Darstellung in der Wikipedia spricht. Gleichwohl muss dabei beachtet werden, dass alle Politiker nur in einzelnen Jahren, viele davon im Vorlauf des Referenzzeitraumes, und zudem mit einer niedrigen Kollokationsfrequenz (*f12*) im Korpus der ZEIT erwähnt wurden. `Gabriel (2012, f12=5), Hollande (2012, f12=5), Seehofer (2010, f12=6), Tsipras (2015, f12=5), Merkel (2016, f12=7)` Die fehlende Erwähnung dieser Akteure in den untersuchten Versionen ist somit durchaus bemerkenswert, nicht jedoch signifikant.
 
+### Wording
+
+`Antwort (2016, f12=6; 2017 f12=7), Not (2012, f12=5), vermeintlich (2014, f12=7), warnen (2016, f12=5), Aufstieg (2017, f12=7; V2014 & V2017: 1), billig (2012, f12=7; 2015 f=15; V2014 & V2017: 1), Demagogie (2016, f12=6; V2014: 1), Vorwurf (2012, f12=5; 2014, f12=7; V2014 & V2017: 4), zunehmend (2016, f12=5; V2017: 2)`
+
+wertend / subjektiv -> normativ, präskriptiv, 
 
 
 
