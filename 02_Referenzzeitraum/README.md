@@ -6,9 +6,7 @@
 
 Der Referenzzeitraum wird über eine Wortverlaufskurve ermittelt, welche die Entwicklung der Worthäufigkeit über einen gegebenen Zeitraum innerhalb eines definierten Textkorpus visualisiert. Zum Einsatz kommt hierbei das webbasierte Programm *DStar Time Series* des [Digitalen Wörterbuchs der deutschen Sprache (DWDS)](https://www.dwds.de/).
 
-Als Korpus dient das Archiv der überregionalen Wochenzeitung DIE ZEIT. Die webbasierten Programme des DWDS unterstützen diesen Korpus nativ und DIE ZEIT gilt gemeinhin zu den deutschen Leitmedien.[^1] Die Eigenschaften des Zeitkorpus auf dem DWDS Server sind im Dokument [Korpuseigenschaften](/02_Referenzzeitraum/Korpuseigenschaften.md) beschrieben.
-
-[^1]: Vgl. [Weischenberg, Von Siegfried; Malik, Maja; Scholl, Armin: Journalismus in Deutschland 2005. Zentrale Befunde der aktuellen Repräsentativbefragung deutscher Journalisten, in: Media Perspektiven 7, 2006, S. 359](https://www.ard-werbung.de/fileadmin/user_upload/media-perspektiven/pdf/2006/07-2006_Weischenberg.pdf).
+Als Textkorpus dient das Archiv der überregionalen Wochenzeitung DIE ZEIT, welches von den webbasierten Programme des DWDS nativ unterstützt wird. Die Parameter des Zeitkorpus auf dem DWDS Server zum Zeitpunkt der Untersuchung wurden im Dokument [Korpuseigenschaften](/02_Referenzzeitraum/Korpuseigenschaften.md) festgehalten.
 
 ### Abfrageparameter
 
@@ -31,7 +29,7 @@ Die Suchparameter sind bereits in der URL codiert, sodass eine erneute Abfrage d
 
 ![Wortverlauf des Begriffs "Populismus" im Korpus DIE ZEIT](./Wortverlauf_Populismus_ZEIT.png)
 
-Bemerkenswert ist der steile Anstieg der Worthäufigkeit nach 2014. Im Korpus von 2016 wurde der Begriff Populismus mit fast vierfacher Frequenz gegenüber 2014 erwähnt. Dies deutet auf einen sich intensivierenden Diskurs und erhöhtes öffentliches Interesse hin. Gleichzeitig lässt das große Delta zwischen 2014 und 2016 eine gewisse Begriffsentwicklung erwarten.
+Bemerkenswert ist der steile Anstieg der Worthäufigkeit nach 2014. In der Datenreihe von 2016 wurde der Begriff Populismus mit fast vierfacher Frequenz gegenüber 2014 erwähnt. Dies deutet auf einen sich intensivierenden Diskurs und erhöhtes öffentliches Interesse hin. Gleichzeitig lässt das große Delta zwischen 2014 und 2016 eine gewisse Begriffsentwicklung erwarten.
 
 ---
 

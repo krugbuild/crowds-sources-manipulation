@@ -10,56 +10,63 @@
 
 ---
 
-## Quellenarbeit
-
-Kern dieses Projektes ist die Auseinandersetzung mit dem Quellenmaterial und der Exploration digitalhistorischer Methoden zum Umgang mit demselben. Im Folgenden sind die verschiedenen Stufen der Quellenarbeit (die sich in der Struktur des Repositoriums widerspiegeln) kurz zusammengefasst, um den Projektverlauf möglichst nachvollziehbar zu gestalten. Diese komprimierte Darstellung kann die eigentliche Dokumentation der Quellenarbeit nur ergänzen, keinesfalls jedoch ersetzen.
-
-### [Versionierung und Quellenwert](./01_Quelldaten/)
-
 Die [Versionsgeschichte](https://de.wikipedia.org/wiki/Hilfe:Versionen) ist eines der zentralen Werkzeuge zur Pflege der Wikipedia. In Ihr werden sämtliche Änderungen eines Artikels mit Zeitpunkt und Autor vermerkt. Neben Manipulationsversuchen[^1] kann so theoretisch die gesamte Entwicklung eines Artikels nachverfolgt werden. Die gesamte Begriffsgeschichte, wenn man so will. Da die Versionsgeschichte vieler Begriffe bis in die frühen 2000er Jahre reicht, sollte sie eine reiche Quelle für verschiedene Methoden und Fragestellungen der zeit- und begriffsgeschichtlichen Forschung sein. Diese These zu überprüfen ist das Kernanliegen dieses Projekts.
 
-Der Umgang mit diesen *digital born* Daten[^2] verlangt natürlich nach einer gesonderten quellenkundlichen Behandlung, die im Detail im [Abschnitt "01 Quelldaten"](./01_Quelldaten/) dokumentiert und kommentiert ist. Ziel dieser Bearbeitung sind maschinenlesbare Datenreihen, die die Grundlage der folgenden Auswertungen bilden werden. Das Ergebnis dieses ersten Bearbeitungsschrittes ist eine [Tabelle](./01_Quelldaten/20190627_Arbeitsdaten_Populismus_vollstaendig.csv) mit der folgenden Struktur:
-
-| shortDate | Time | Benutzer | kleine Änderung | Kommentar | Größenänderung in Bytes | Größe in Bytes | ID | Date&Time |
-| - | - | - | - | - | - | - | - | - |
-| 2019-06-02 | 02:26 | Aka | k | →Literatur: doppelte Leerzeichen entfernt | -1 | 77.498 | 188056880 | 2019-06-02T02:26:00Z |
-| ... |  |  |  |  |  |  |  |  |
-
-Dabei handelt es sich um eine Auflistung aller 1045 Versionen des Lemmas *Populismus* zwischen dem 02. Juni 2019 und dem 04. März 2004, dem Tag der Erstellung dieses Artikels. Die Aussagekraft der Rohdaten ist jedoch ziemlich beschränkt. Für eine begriffshistorische Analyse gilt es zunächst, den Zeitrahmen zu definieren, der untersucht werden soll.
-
 [^1]: Siehe z.B.: https://www.heise.de/newsticker/meldung/Fall-Relotius-Manipulationen-im-Wikipedia-Artikel-4582927.html .
+
+Der Umgang mit diesen *digital born* Daten[^2] verlangt natürlich nach einer gesonderten quellenkundlichen Behandlung,  #anspruch #herausforderung
+
+
 [^2]: Vgl. Rehbein, Malte: Geschichtsforschung im digitalen Raum. Über die Notwendigkeit der Digital Humanities als historische Grund- und Transferwissenschaft., in: Herbers, Klaus; Trenkle, Viktoria (Hg.): Papstgeschichte im digitalen Zeitalter: neue Zugangsweisen zu einer Kulturgeschichte Europas, Köln; Weimar; Wien 2018 (Beihefte zum Archiv für Kulturgeschichte BV023554989 Heft 85), S. 41f.
 
-### [Ermittlung des Referenzzeitraums anhand medialer Aufmerksamkeit](./02_Referenzzeitraum/)
+## Quellenarbeit
 
-Eine simple Möglichkeit, den Konjunkturzyklus eines Begriffes nachzuvollziehen ist es, die Verlaufskurve der Worthäufigkeit innerhalb eines gesellschaftlich relevanten Textkorpus heranzuziehen. Als Basis für dieses Projekt diente dabei der Korpus der Wochenzeitschrift DIE ZEIT. Alle Details zur Methodik finden sich im [Abschnitt "02 Referenzzeitraum"](./02_Referenzzeitraum/).
+Kern dieses Projektes ist die Auseinandersetzung mit dem Quellenmaterial und der Exploration digitalhistorischer Methoden zum Umgang mit demselben. Um den Projektverlauf möglichst nachvollziehbar zu gestalten, werden im Folgenden die verschiedenen Stufen der Quellenarbeit (die sich in der Struktur des Repositoriums widerspiegeln) kurz umrissen. Diese komprimierte Darstellung kann die eigentliche Dokumentation der Quellenarbeit nur ergänzen, keinesfalls jedoch ersetzen. Die Überschriften dienen als Verweis zu den jeweiligen Unterordnern.
+
+### [01 Aufbereitung der Quelldaten](./01_Quelldaten/)
+
+Da die Informationen zur Versionsgeschichte zur besseren Lesbarkeit in einer HTML-Struktur eingebettet sind, müssen diese zunächst in Reinform gebracht werden. Denn nur so wird eine Weiterverarbeitung überhaupt erst möglich. Das Ergebnis dieser Datenaufbereitung ist eine [Tabelle](./01_Quelldaten/20190627_Arbeitsdaten_Populismus_vollstaendig.csv), in der alle 1045 Versionen des Lemmas *Populismus* zwischen dem 02. Juni 2019 und dem 04. März 2004, dem Tag der Erstellung dieses Artikels, mit Datum, verantwortlichem Benutzer, Kommentar und weiteren, technischen Details verzeichnet sind.
+
+### [02 Referenzzeitraum](./02_Referenzzeitraum/)
+
+Um einen Abgleich mit dem öffentlichen Diskurs zu ermöglichen, muss ein Referenzzeitraum bestimmt werden. Der Konjunkturzyklus eines Begriffes kann zum Beispiel über die Wortverlaufskurve innerhalb eines gesellschaftlich relevanten Textkorpus nachvollzogen werden. Als Grundlage für dieses Projekt wurde der Korpus der Wochenzeitschrift DIE ZEIT gewählt, welche zu den deutschen Leitmedien gezählt wird.[^3] 
 
 ![Wortverlauf_ZEIT](./02_Referenzzeitraum/Wortverlauf_Populismus_ZEIT.png)
 
-Dieser Verlauf vermittelt einen Eindruck der medialen Aufmerksam für den Begriff bzw. das Thema *Populismus*. Zwischen 2014 und 2016/2017 zeigt sich hier ein starker Anstieg, dessen Auswirkung auf die Begriffsbestimmung im Folgenden untersucht werden soll. Hierzu wird dieser Verlauf mit der Bearbeitungsfrequenz des untersuchten Lemmas abgeglichen.
+Dieser Verlauf vermittelt einen Eindruck der medialen Aufmerksam für das Thema *Populismus* seit Erstellung des zugehörigen Lemmas in der Wikipedia. Zwischen 2014 und 2016/2017 zeigt sich hier ein starker Anstieg, dessen Auswirkung auf die Begriffsbestimmung im Folgenden untersucht werden soll - und somit den Referenzzeitraum definiert.
 
-### [Ermittlung des Versionsverlaufs mittels R](./03_Versionsverlauf/)
+[^3]:  Vgl. [Weischenberg, Von Siegfried; Malik, Maja; Scholl, Armin: Journalismus in Deutschland 2005. Zentrale Befunde der aktuellen Repräsentativbefragung deutscher Journalisten, in: Media Perspektiven 7, 2006, S. 359](https://www.ard-werbung.de/fileadmin/user_upload/media-perspektiven/pdf/2006/07-2006_Weischenberg.pdf).
 
-Aus der Rohform der in [Abschnitt "01 Quelldaten"](./01_Quelldaten/README.md) erzeugten Daten lassen sich schwerlich Aussagen über die Versionsentwicklung des Lemmas ableiten. Die tabellarische Notation suggeriert möglicherweise sogar eine zeitliche Gleichverteilung der einzelnen Versionen. Mittels eines simplen Zeitstrahls kann der Versionsverlauf jedoch nachvollziehbar visualisiert werden, was in [Abschnitt "03 Versionsverlauf"](./03_Versionsverlauf/) im Detail dokumentiert ist.
+### [03 Versionsverlauf](./03_Versionsverlauf/)
 
-![Zeitstrahl](./03_Versionsverlauf/20190627_Plot.png)
+Um die konjunkturelle Entwicklung des Lemmas mit der öffentlichen Berichterstattung vergleichen zu können, hilft es, die im [1. Abschnitt](./01_Quelldaten/) erhobenen Daten zu visualisieren. Die tabellarische Notation suggeriert möglicherweise eine zeitliche Gleichverteilung der einzelnen Versionen, weshalb diese stattdessen auf einem Zeitstrahl angeordnet dargestellt werden.
 
-An diesem Plot lassen sich Strukturen erkennen, die als Phasen hoher bzw. niedriger Bearbeitungsfrequenz identifiziert werden können. Analog zum zuvor definierten Zeitraum ist zwischen Frühjar 2014 und Frühjahr 2017 eine Phase mit hoher Bearbeitungsfrequenz zu erkennen. Da in diesem Zeitraum die mediale Berichterstattung deutlich zunimmt und gleichzeitig ein höheres Aufkommen an Bearbeitungen des Lemmas zu berzeichnen ist, kann von einer Phase hohen öffentlichen Interesse an diesem Begriff und folglich der Begriffsbestimmung ausgeangen werden. Die Grenzversionen dieser Phase dienen somit als Grundlage für die folgende Begriffshistorische Analyse und werden als *V2014* und *V2017* identifiziert.
+![Zeitstrahl](./03_Versionsverlauf/20190627_Plot_2014-2017.png)
 
-### [Ermittlung von Referenzen mittels Kollokationsanalyse](./04_Referenzkollokationen/) sowie [Abgleich mit den Grenzversionen](./05_Abgleich/)
+Dieser Plot zeigt den zuvor ermittelten Referenzzeitraum. Dargestellt ist jeder einzelne Versionssprung des Lemmas durch den zugehörigen *timestamp*. Es lassen sich Strukturen erkennen, die als Phasen hoher bzw. niedriger Bearbeitungsfrequenz identifiziert werden können. Zu Beginn und Ende des Untersuchungszeitraumes findet sich jeweils eine Phase mit geringer Bearbeitungsfrequenz (rot markiert). Die daraus entnommenen Grenzversionen bilden die Grundlage für die folgende begriffshistorische Analyse und werden fortan als [*V2014*](./03_Versionsverlauf/Populismus_V2014.html) und [*V2017*](./03_Versionsverlauf/Populismus_V2017.html) identifiziert und als lokale Kopie vorgehalten.
 
-Einer möglichen Veränderung der Begriffsbedeutung nähern wir uns erneut über einen Ablgeich mit dem öffentlichen Diskurs. Hierzu werden mittels einer Kollokationsanalyse zunächst jene Begriffe ermittelt, die im untersuchten Zeitrahmen häufig in Verbindung mit dem Lemma auftreten. Im [Abschnitt "04 Referenzkollokationen"](./04_Referenzkollokationen/) ist das Verfahren detailliert erläutert.
-Anschließend wurden die beiden Grenzversionen *V2014* und *V2017* gegen die ermittelten Kollokationen geprüft. Die Vollständige Auswertung findet sich im [Abschnitt "05 Abgleich"](./05_Abgleich/)
+### [04 Referenzkollokationen](./04_Referenzkollokationen/) 
+
+Zur Untersuchung einer möglichen Veränderung der Begriffsbedeutung orientieren wir uns erneut an einen Abgleich mit dem öffentlichen Diskurs. Hierzu werden mittels einer Kollokationsanalyse jene Begriffe ermittelt, die im Referenzzeitraum häufig in Verbindung mit dem Lemma auftreten. Die erzeugte [Liste](./04_Referenzkollokationen/populismus_2010-2017_kollokation.tsv) beinhaltet neben den ermittelten Kollokationen auch Informationen zu deren Frequenz und Wortart.
+
+### [05 Abgleich](./05_Abgleich/)
+
+Die Prüfung Verteilung der ermittelten Kollokationen in den Grenzversionen *V2014* und *V2017* bildet schlussendlich die Grundlage für die folgende Auswertung. Das Ergebnis ist eine [kommentierte Liste mit Wortverteilungen](./05_Abgleich/README.me) für beide Grenzversionen. 
+
+Neben der Dokumentation der Begriffsänderung und der öffentlichen Debatte, lassen sich mit dieser Methodik Rückschlüsse auf den Einfluss der medialen Berichterstattung auf das Medium Wikipedia ziehen. Das Ergebnis wird vermutlich zwischen folgenden beiden Extrema eingeordnet werden müssen:
+
+- Eine weitgehende Übernahme der sich verändernden Kollokationen vom ZEIT-Korpus in das Lemma würde auf einen **direkten Einfluss der medialen Debatte** auf die allgemeingültige Begriffsdefinition in der Wikipedia hindeuten.
+- Eine ausbleibende Übernahme der Änderungen hingegen würde auf eine Trennung der beiden medialen Sphären hindeuten. In diesem Falle würde sich die Begriffsdefinition in der Wikipedia augenscheinlich **losgelöst von einer übergeordneten medialen** Debatte entwickeln.
 
 ## Auswertung
 
-Um die Diskussion der [Ergebnissliste aus Abschnitt 05](./05_Abgleich/README.md) zu strukturieren, teilen wir die Begriffe in drei Gruppen gemäß Ihrer Worthäufigkeit innerhalb der Grenzversionen: 
+Um die Diskussion der [Ergebnissliste aus Abschnitt "05 Abgleich"](./05_Abgleich/README.md) zu strukturieren, werden die Begriffe zunächst in drei Gruppen gemäß Ihrer Worthäufigkeit innerhalb der Grenzversionen eingeteilt: 
 
 1. kein Auftreten: `Antwort, CDU, CSU, Gabriel, Hollande, Not, Seehofer, SPD, Tsipras, vermeintlich, warnen`
 
 2. weniger als zehn Treffer in *V2014* und *V2017*: `AfD, Aufstieg, billig, Demagogie, Europa, Frankreich, Grüne, Merkel, Opposition, Präsident, Vorwurf, Zeit, zunehmend`
 
-3. mehr als zehn Treffer in in *V2014* oder *V2017*: `Demokratie, Deutschland, liberal, link, Nationalismus, Partei, Politik, recht, Volk`
+3. mehr als zehn Treffer in in *V2014* oder *V2017*: `Demokratie, Deutschland, liberal, link, Nationalismus, Partei, Politik, recht, Volk`
 
 -> Lemma ist weit weniger personengebunden. Für die damalige öffentliche Debatte zentrale Figuren wie Sigmar Gabriel, François Hollande, Horst Seehofer und Alexis Tsipras wurden weder in *V2014* noch in *V2017* erwähnt. Selbst Angela Merkel findet nur als beiläufiges Beispiel für den (neo)liberalen Populismus Einzug in *V2017*. 
 

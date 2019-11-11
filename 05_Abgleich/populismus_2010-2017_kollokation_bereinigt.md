@@ -1,8 +1,8 @@
 ## Bereinigte Ergebnisliste - Kollokation - Populismus 2010-2017
 
-Um unnötiges Abgleichen von informationsarmen Wörtern mit den Lemmakorpora zu vermeiden, werden Begriffe ohne relevante Bedeutung für das Lemma von der weiteren Untersuchung ausgeschlossen. Diese Bereinigung findet statt auf Basis der [Ergebnissliste aus Abschnitt 04](/04_Referenzkollokationen/populismus_2010-2017_kollokation.tsv).
+Um unnötiges Abgleichen von informationsarmen Wörtern mit den Lemmakorpora zu vermeiden, werden Begriffe ohne relevante Bedeutung für das Lemma von der weiteren Untersuchung ausgeschlossen. Diese Bereinigung findet auf Basis der [Ergebnissliste](../04_Referenzkollokationen/populismus_2010-2017_kollokation.tsv) aus Abschnitt "04 Referenzkollokationen" statt.
 
-Eine Entscheidungshilfe zur Bestimmung bedeutungsvoller Begriffe sind die Part-of-Speech-Tags. (Siehe auch [Stuttgart-Tübingen-Tagset (STTS)](https://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/TagSets/stts-table.html)) Insbesondere attributive Adjektive ("ADJA") und finite Verben ("VVFIN") treten zwar häufig als Kollokation auf, wirken sich jedoch kaum auf die Begriffsbestimmung aus. Weiterhin mangelt es auch einigen Nomen ("NN") wie "Land", "Populismus", "Frage" und "Mensch" an Relevanz für die Begriffsbestimmung. 
+Eine Entscheidungshilfe zur Bestimmung bedeutungsvoller Begriffe sind die *Part-of-Speech-Tags*. (Siehe auch [Stuttgart-Tübingen-Tagset (STTS)](https://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/TagSets/stts-table.html)) Insbesondere attributive Adjektive ("ADJA") und finite Verben ("VVFIN") treten zwar häufig als Kollokation auf, wirken sich jedoch kaum auf die Begriffsbestimmung aus. Weiterhin mangelt es auch einigen Nomen ("NN") wie "Land", "Populismus", "Frage" und "Mensch" an Relevanz für die Begriffsbestimmung. 
 
 ### Entfernte Begriffe
 
