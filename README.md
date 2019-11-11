@@ -71,11 +71,19 @@ Um die Diskussion der [Ergebnissliste aus Abschnitt "05 Abgleich"](./05_Abgleich
 ### Personenbezug
 Bei der Analyse der Gruppen 1 und 2 fällt auf, dass in den Medien erwähnte Personen im Lemma keine Rolle spielen. Weder *Sigmar Gabriel*, *François Hollande*, *Horst Seehofer* noch *Alexis Tsipras* wurden in *V2014* oder *V2017* erwähnt. *Angela Merkel* findet nur als beiläufiges Beispiel für den *(neo)liberalen Populismus* Einzug in *V2017*. Es liegt somit nahe anzunehmen, dass dies ein Indikator für eine neutralere, weniger personenbezogene Darstellung in der Wikipedia spricht. Gleichwohl muss dabei beachtet werden, dass alle Politiker nur in einzelnen Jahren, viele davon im Vorlauf des Referenzzeitraumes, und zudem mit einer niedrigen Kollokationsfrequenz (*f12*) im Korpus der ZEIT erwähnt wurden. `Gabriel (2012, f12=5), Hollande (2012, f12=5), Seehofer (2010, f12=6), Tsipras (2015, f12=5), Merkel (2016, f12=7)` Die fehlende Erwähnung dieser Akteure in den untersuchten Versionen ist somit durchaus bemerkenswert, nicht jedoch signifikant.
 
-### Wording
+### Normative Wortwahl
 
-`Antwort (2016, f12=6; 2017 f12=7), Not (2012, f12=5), vermeintlich (2014, f12=7), warnen (2016, f12=5), Aufstieg (2017, f12=7; V2014 & V2017: 1), billig (2012, f12=7; 2015 f=15; V2014 & V2017: 1), Demagogie (2016, f12=6; V2014: 1), Vorwurf (2012, f12=5; 2014, f12=7; V2014 & V2017: 4), zunehmend (2016, f12=5; V2017: 2)`
+Neben Personen finden sich insbesondere Begriffe normativer Art in den ersten beiden Gruppen. Begriffe wie *warnen* (2016, f12=5), *Vorwurf* (2012, f12=5; 2014, f12=7; V2014 & V2017: 4) oder *Demagogie* (2016, f12=6; V2014: 1) treten zwar nur mit eher niedrigen Kollokationsfrequenzen im Korpus der ZEIT auf, sind in den Grenzversionen jedoch praktisch nicht vorhanden.
+
+  `Antwort (2016, f12=6; 2017 f12=7), Not (2012, f12=5), vermeintlich (2014, f12=7), warnen (2016, f12=5), Aufstieg (2017, f12=7; V2014 & V2017: 1), billig (2012, f12=7; 2015 f=15; V2014 & V2017: 1), Demagogie (2016, f12=6; V2014: 1), Vorwurf (2012, f12=5; 2014, f12=7; V2014 & V2017: 4), zunehmend (2016, f12=5; V2017: 2)`
 
 wertend / subjektiv -> normativ, präskriptiv, 
+
+### Parteien
+
+"Volksparteien" sowie Grüne spielen keine Rolle im Wiki. AfD wird erst in V2017 erwähnt, jedoch nur 1x. Obwohl Kollokationsfrequenz im Jahr 2016 mit f12=11 relativ hoch ist. Begriff "Partei" selbst erwartungsgemäß häufig.
+
+`CDU (2016, f12=7), CSU (2014, f=10), SPD (2013, f12=5; 2014, f12=8), AfD (2015, f12=5; 2016, f12=11; V2017: 1), Grüne (2010, f12=6; V2014: 1, V2017: 2), Partei (2013, f12=; 2016, f12=; V2014: 28, V2017: 37)`
 
 
 
