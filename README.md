@@ -51,7 +51,7 @@ Zur Untersuchung einer möglichen Veränderung der Begriffsbedeutung orientieren
 
 ### [05 Abgleich](./05_Abgleich/)
 
-Die Prüfung Verteilung der ermittelten Kollokationen in den Grenzversionen *V2014* und *V2017* bildet schlussendlich die Grundlage für die folgende Auswertung. Das Ergebnis ist eine [kommentierte Liste mit Wortverteilungen](./05_Abgleich/README.me) für beide Grenzversionen. 
+Die Prüfung Verteilung der ermittelten Kollokationen in den Grenzversionen *V2014* und *V2017* bildet schlussendlich die Grundlage für die folgende Auswertung. Das Ergebnis ist eine [kommentierte Liste mit Wortverteilungen](./05_Abgleich/README.md) für beide Grenzversionen. 
 
 Neben der Dokumentation der Begriffsänderung und der öffentlichen Debatte, lassen sich mit dieser Methodik Rückschlüsse auf den Einfluss der medialen Berichterstattung auf das Medium Wikipedia ziehen. Das Ergebnis wird vermutlich zwischen folgenden beiden Extrema eingeordnet werden müssen:
 
@@ -63,10 +63,13 @@ Neben der Dokumentation der Begriffsänderung und der öffentlichen Debatte, las
 Um die Diskussion der [Ergebnissliste aus Abschnitt "05 Abgleich"](./05_Abgleich/README.md) zu strukturieren, werden die Begriffe zunächst in drei Gruppen gemäß Ihrer Worthäufigkeit innerhalb der Grenzversionen eingeteilt: 
 
 1. kein Auftreten: `Antwort, CDU, CSU, Gabriel, Hollande, Not, Seehofer, SPD, Tsipras, vermeintlich, warnen`
-
 2. weniger als zehn Treffer in *V2014* und *V2017*: `AfD, Aufstieg, billig, Demagogie, Europa, Frankreich, Grüne, Merkel, Opposition, Präsident, Vorwurf, Zeit, zunehmend`
-
 3. mehr als zehn Treffer in in *V2014* oder *V2017*: `Demokratie, Deutschland, liberal, link, Nationalismus, Partei, Politik, recht, Volk`
 
--> Lemma ist weit weniger personengebunden. Für die damalige öffentliche Debatte zentrale Figuren wie Sigmar Gabriel, François Hollande, Horst Seehofer und Alexis Tsipras wurden weder in *V2014* noch in *V2017* erwähnt. Selbst Angela Merkel findet nur als beiläufiges Beispiel für den (neo)liberalen Populismus Einzug in *V2017*. 
+### Personenbezug
+Bei der Analyse der Gruppen 1 und 2 fällt auf, dass in den Medien erwähnte Personen im Lemma keine Rolle spielen. Weder Sigmar Gabriel, François Hollande, Horst Seehofer noch Alexis Tsipras wurden in *V2014* oder *V2017* erwähnt. Angela Merkel findet nur als beiläufiges Beispiel für den *(neo)liberalen Populismus* Einzug in *V2017*. Es liegt nahe Anzunehmen, dass dies ein Indikator für eine neutralere, weniger personenbezogene Darstellung in Wikipedia spricht. Gleichwohl muss dabei beachtet werden, dass alle Politiker nur in einzelnen Jahren, viele davon im Vorlauf des Referenzzeitraumes, und zudem mit einer niedrigen Wortfrequenz im Korpus der ZEIT erwähnt wurden. `Gabriel (2012, f12=5), Hollande (2012, f12=5), Seehofer (2010, f12=6), Tsipras (2015, f12=5), Merkel (2016, f12=7)` Die fehlende Erwähnung dieser Akteure in den untersuchten Versionen ist somit durchaus bemerkenswert, nicht jedoch signifikant.
 
+
+
+
+---

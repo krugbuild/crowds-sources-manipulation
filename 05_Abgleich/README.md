@@ -2,7 +2,7 @@
 
 | Referenzen | Dateien |
 | --- | --- |
-| Kollokationen - DIE ZEIT 2010-2017 - bereinigt | [populismus_2010-2017_kollokation_bereinigt.md](/05_Abgleich_Auswertung/populismus_2010-2017_kollokation_bereinigt.md) |
+| Kollokationen - DIE ZEIT 2010-2017 - bereinigt | [populismus_2010-2017_kollokation_bereinigt.md](./populismus_2010-2017_kollokation_bereinigt.md) |
 | *V2014*, 96.1 KB, 5261 Wörter, 400 Zeilen | [Populismus_V2014.html](/03_Versionsverlauf/Populismus_V2014.html) |
 | *V2017*, 122 KB, 7951 Wörter, 465 Zeilen | [Populismus_V2017.html](/03_Versionsverlauf/Populismus_V2017.html) |
 
@@ -51,7 +51,7 @@ Prinzipiell ist in *V2017* eine etwas höhere Wortfrequenz zu erwarten, da der T
 | 2017            | Zeit                                          | 3     | 4     | -                                                            |
 | 2016            | zunehmend                                     | 0     | 2     | -                                                            |
 
-### Die Variationen des Begriffs Demokratie
+### Die Variationen des Begriffs Demokratie im Lemma *Populismus*
 
 | Beide Versionen | Nur V2014 | Nur V2017 |
 | - | - | - |

@@ -5,7 +5,8 @@ Benutztes System: `Linux 4.15.0-52-generic #56-Ubuntu SMP Tue Jun 4 22:49:08 UTC
 Im Folgenden sind alle Änderungen (insbesondere Transformationen) an der ursprünglichen Datenbasis unter Angabe von Datum und ggf. benutzter Software dokumentiert. 
 
 ### Datenbezug 2019-06-06
-* Abruf sämtlicher Versionen mittels: ` wget "https://de.wikipedia.org/w/index.php?title=Populismus&offset=&limit=2000000&action=history" ` (siehe: [20190606_Quelldaten_Populismus.html](https://github.com/krugbuild/wiki-pop-quelle/blob/MAP/01_Quelldaten/20190606_Quelldaten_Populismus.html)).
+* Abruf sämtlicher Versionen mittels: `wget "https://de.wikipedia.org/w/index.php?title=Populismus&offset=&limit=2000000&action=history"`  
+(siehe: [20190606_Quelldaten_Populismus.html](https://github.com/krugbuild/wiki-pop-quelle/blob/MAP/01_Quelldaten/20190606_Quelldaten_Populismus.html)).
 * Abgleich des Versionsinventars der lokalen Kopie mit Wikipedia Versionsgeschichte: Aktuelle Version bei beiden 02:26, 2. Jun. 2019‎ - erste Version bei beiden 14:08, 4. Mär. 2004‎. 
 
 ### Reduzierung der HTML-Struktur auf die informationstragenden Elemente 2019-06-06
@@ -14,6 +15,7 @@ Im Folgenden sind alle Änderungen (insbesondere Transformationen) an der urspr�
   Text Editor, Version 4.0.0 compiled for GTK+ 3.22.30, 2018-11-23
   von Neil Hodgson.
 * Encoding der Quelldatei auf UTF-8 gesetzt, führende und folgende Inhalte abseits der Versionsliste (markiert durch HTML-Listenelement `<ul>`) entfernt (siehe: [20190606_Quelldaten_Populismus_reduziert.html](https://github.com/krugbuild/wiki-pop-quelle/blob/MAP/01_Quelldaten/20190606_Quelldaten_Populismus_reduziert.html)).
+
 ### Datenmanipulationen in OpenRefine 3.2 beta
 
 - Import in OpenRefine als Line-based text files.
@@ -24,23 +26,29 @@ Die folgenden Transformationen wurden über das Interface von OpenRefine vorgeno
 
 * split column via separator: `class="mw-changeslist-date" title="Populismus">`
 * split new column via separator: `</a>‎ <span class='history-user'>`
+
 #### Benutzer freistellen
 * split column via separator: `<bdi>`
 * split column via separator: `</bdi>`
+
 #### ID freistellen
 * split column via separator: `oldid=`
 * split column via separator: `" title="`
+
 #### Kennzeichen "kleine Änderung" 
 * generate new column: `if(contains(value,'<abbr class="minoredit"'),'k','')`
+
 #### Größe freistellen
 * split column via separator: `<span class="history-size mw-diff-bytes">`
 * split column via separator: `Bytes</span>`
+
 ### div freistellen
 * split coliumn via separator: `Bytes nach der Änderung">`
 * replace closing strong and span tag via text transformation: 
 	* `replace(value, '</strong>','')`
 	* `replace(value, '</span>','')`
 * split coliumn via separator: `<span class="mw-changeslist-separator">`
+
 #### Kommentar freistellen
 * split column via separator: `<span class="comment comment--without-parentheses">`
 * split column via separator: `</span> <span class="mw-changeslist-links">`
@@ -49,17 +57,19 @@ Die folgenden Transformationen wurden über das Interface von OpenRefine vorgeno
 	* `replace(value,'</a></span>','')`
 	* `replace(value,'</span>','')`
 	* `slice(value,indexOf(value,'>')+1)`
+
 #### Steuerzeichen auflösen
 * `replace(value,'&quot;','"')`
 * `replace(value,'&#91;','[')`
 * `replace(value,'&gt;','>')`
 * `replace(value,'&#039;','\'')`
 * `replace(value,'&lt;','<')`
+
 #### Datum vereinheitlichen
 * split column via separator: `,`
 * Datum vereinheitlichen: `value.replace('Jan', '01').replace('Feb','02').replace('Mär', '03').replace('Apr', '04').replace('Mai', '05.').replace('Jun', '06').replace('Jul','07').replace('Aug','08').replace('Sep','09').replace('Okt', '10').replace('Nov','11').replace('Dez', '12').replace(' ','')`
 * in definiertes Format überführen `value.toDate('H:m,d.M.y')`
-					
+
 ### Export
 
 - Abbild der OpenRefine-Datenbank: [20190613_export_Begriffsgeschichte-2.0-Populismus.openrefine.tar.gz](https://github.com/krugbuild/wiki-pop-quelle/blob/MAP/01_Quelldaten/20190613_export_Begriffsgeschichte-2.0-Populismus.openrefine.tar.gz).
