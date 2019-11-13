@@ -17,7 +17,7 @@ Für den höchst möglichen Detailgrad müsste jeder einzelne Versionssprung als
 
 ### timeline plot mit R
 
-Die Visualisierung eines derartigen Diagramms wurde in der Sprache *R* (RStudio in Version 1.2.1335 unter Lubuntu 18.04) mit Hilfe des Plugins [*timelineS in der Version 0.1.1.*](https://www.rdocumentation.org/packages/timelineS/versions/0.1.1) implementiert. Der kommentierte Quellcode dazu befindet sich im Unterordner [R_timeline_plot](./R_timeline_plot). Als Werte werden die genauen *timestamps* der einzelnen Versionen angegeben. Die *label* variieren in Ihrer Höhe, um eine bessere Lesbarkeit zu gewährleisten. Als Datenbasis dient der auf das Datum reduzierte [Export der Arbeitsdaten](../01_Quelldaten/20190627_Arbeitsdaten_Populismus_nurDatum.csv) mit allen 1045 Einträgen.
+Die Visualisierung eines derartigen Diagramms wurde in der Sprache *R* (RStudio in Version 1.2.1335 unter Lubuntu 18.04) mit Hilfe des Plugins [*timelineS in der Version 0.1.1.*](https://www.rdocumentation.org/packages/timelineS/versions/0.1.1) implementiert. Der [kommentierte Quellcode](./R_timeline_plot/Populismus_refined_plot.R) dazu befindet sich im Unterordner [R_timeline_plot](./R_timeline_plot/). Als Werte werden die genauen *timestamps* der einzelnen Versionen angegeben. Die *label* variieren in Ihrer Höhe, um eine bessere Lesbarkeit zu gewährleisten. Als Datenbasis dient der auf das Datum reduzierte [Export der Arbeitsdaten](../01_Quelldaten/20190627_Arbeitsdaten_Populismus_nurDatum.csv) mit allen 1045 Einträgen.
 
 ![timeline_plot](20190627_Plot.png)
 
@@ -39,8 +39,4 @@ V2017: [Populismus_V2017.html](../03_Versionsverlauf/Populismus_V2017.html), 122
 
 ---
 
-[^1]: Abgerufen am 25.10.2019 via:
-```
-wget https://de.wikipedia.org/w/index.php?title=Populismus&oldid=128563967
-wget https://de.wikipedia.org/w/index.php?title=Populismus&oldid=166083456
-```
+[^1]: Abgerufen am 25.10.2019 via: `wget https://de.wikipedia.org/w/index.php?title=Populismus&oldid=128563967` sowie `wget https://de.wikipedia.org/w/index.php?title=Populismus&oldid=166083456`

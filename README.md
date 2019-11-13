@@ -1,14 +1,12 @@
-# Projektdokumentation
+# Crowds, sources and manipulation
+
+## Begriffshistorische Analysen mittels Wikipedia am Beispiel des Artikels "Populismus" zwischen 2014 und 2017.
 
 [**zum Repositorium (Github)**](https://github.com/krugbuild/wiki-pop-quelle/) | [**zur Leseansicht (Github Pages)**](https://krugbuild.github.io/wiki-pop-quelle/)
 
-*work in progress*
+Dieses Projekt ist als kommentiertes Forschungsdatenrepositorium zu verstehen, in dem Forschungsdaten, Dokumentation und Analyse im Verbund zur Verfügung gestellt werden. Es basiert auf einer [Vorstudie](../Vorstudie/), die im Juni und Juli 2019 im Rahmen einer Übung an der Humboldt-Universität zu Berlin durchgeführt wurde.
 
-Projekt ist als kommentiertes Forschungsdatenrepositorium zu verstehen -> die Symbiose aus Rohdaten und Publikation.
-
-[Abschnitt "Quellenarbeit"](./README.md#Quellenarbeit)
-
-[Abschnitt "Auswertung"](./README.md#Auswertung)
+Stefan Krug, 13.11.2019.
 
 ---
 
@@ -75,7 +73,7 @@ Bei der Analyse der Gruppen 1 und 2 fällt auf, dass in den Medien erwähnte Per
 
 Neben Personen finden sich insbesondere Begriffe normativer Art in den ersten beiden Gruppen. Begriffe wie *warnen* (2016, f12=5), *Vorwurf* (2012, f12=5; 2014, f12=7; V2014 & V2017: 4) oder *Demagogie* (2016, f12=6; V2014: 1) treten zwar nur mit eher niedrigen Kollokationsfrequenzen im Korpus der ZEIT auf, sind in den Grenzversionen jedoch praktisch nicht vorhanden.
 
-  `Antwort (2016, f12=6; 2017 f12=7), Not (2012, f12=5), vermeintlich (2014, f12=7), warnen (2016, f12=5), Aufstieg (2017, f12=7; V2014 & V2017: 1), billig (2012, f12=7; 2015 f=15; V2014 & V2017: 1), Demagogie (2016, f12=6; V2014: 1), Vorwurf (2012, f12=5; 2014, f12=7; V2014 & V2017: 4), zunehmend (2016, f12=5; V2017: 2)`
+  `Antwort (2016, f12=6; 2017 f12=7), Not (2012, f12=5), vermeintlich (2014, f12=7), warnen (2016, f12=5), Aufstieg (2017, f12=7; V2014 & V2017: 1), billig (2012, f12=7; 2015 f=15; V2014 & V2017: 1), Demagogie (2016, f12=6; V2014: 1), Vorwurf (2012, f12=5; 2014, f12=7; V2014 & V2017: 4), zunehmend (2016, f12=5; V2017: 2)`
 
 wertend / subjektiv -> normativ, präskriptiv, 
 

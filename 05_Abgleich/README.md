@@ -3,8 +3,8 @@
 | Referenzen | Dateien |
 | --- | --- |
 | Kollokationen - DIE ZEIT 2010-2017 - bereinigt | [populismus_2010-2017_kollokation_bereinigt.md](./populismus_2010-2017_kollokation_bereinigt.md) |
-| *V2014*, 96.1 KB, 5261 Wörter, 400 Zeilen | [Populismus_V2014.html](/03_Versionsverlauf/Populismus_V2014.html) |
-| *V2017*, 122 KB, 7951 Wörter, 465 Zeilen | [Populismus_V2017.html](/03_Versionsverlauf/Populismus_V2017.html) |
+| *V2014*, 96.1 KB, 5261 Wörter, 400 Zeilen | [Populismus_V2014.html](../03_Versionsverlauf/Populismus_V2014.html) |
+| *V2017*, 122 KB, 7951 Wörter, 465 Zeilen | [Populismus_V2017.html](../03_Versionsverlauf/Populismus_V2017.html) |
 
 Die Kollokationen basieren auf der o.g. bereinigten Ergebnisliste. Je Begriff ist der Zeitraum angegeben, in dem dieser im ZEIT-Korpus vorkommt, dessen Häufigkeit in *V2014* und *V2017* sowie ggf. einem Vermerk. Die Auswertung wurde wie folgt durchgeführt:
 

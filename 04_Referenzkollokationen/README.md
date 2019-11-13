@@ -5,14 +5,14 @@ Innerhalb des definierten Zeitraumes sollen nun Änderungen in der Begriffsdefin
 ### Überblick via Highchart
 Die Kollokationskurve kann unter folgender [URL](https://kaskade.dwds.de/dstar/zeit/diacollo/?query=Populismus&_s=submit&date=2010%3A2017&slice=1&score=fm&kbest=20&cutoff=&profile=2&format=hichart&global=1&groupby=&eps=0) generiert werden: `https://kaskade.dwds.de/dstar/zeit/diacollo/?query=Populismus&_s=submit&date=2010%3A2017&slice=1&score=fm&kbest=20&cutoff=&profile=2&format=hichart&global=1&groupby=&eps=0`
 
-![Kollokationskurve_Highchart_Populismus_2010-2017](populismus_2010-2017_highchart.svg)
+![Kollokationskurve_Highchart_Populismus_2010-2017](./populismus_2010-2017_highchart.svg)
 
 An dieser Grafik lassen sich bereits erste Entwicklungen ablesen, für eine detaillierte Auswertung ist diese jedoch nicht detailliert genug.
 
 ### Ausgabe als Text / Parameterdefinition
 Eine Abfrage mit simpler Textausgabe ist unter folgender [URL](https://kaskade.dwds.de/dstar/zeit/diacollo/?query=Populismus&_s=submit&date=2010%3A2017&slice=1&score=fm&kbest=20&cutoff=&profile=2&format=text&groupby=&eps=0) erreichbar: `https://kaskade.dwds.de/dstar/zeit/diacollo/?query=Populismus&_s=submit&date=2010%3A2017&slice=1&score=fm&kbest=20&cutoff=&profile=2&format=text&groupby=&eps=0`
 
-Die Suchparameter sind bereits in der URL codiert, sodass eine erneute Abfrage dieser URL das gleiche Ergebnis liefern sollte. (Sofern sich der Zustand des Korpus nicht geändert hat. Siehe [Korpuseigenschaften.md](/02_Referenzzeitraum/Korpuseigenschaften.md)) Eine detaillierte Dokumentation aller Parameter und Werte findet sich auf der zugehörigen [Hilfeseite](https://kaskade.dwds.de/dstar/zeit/diacollo/help.perl) des DWDS. Ein umfangreiches [Tutorial](https://kaskade.dwds.de/diacollo-tutorial/) bietet zusätzliche Hilfe im Umgang mit DiaCollo.
+Die Suchparameter sind bereits in der URL codiert, sodass eine erneute Abfrage dieser URL das gleiche Ergebnis liefern sollte. (Sofern sich der Zustand des Korpus nicht geändert hat. Siehe [Korpuseigenschaften.md](../02_Referenzzeitraum/Korpuseigenschaften.md)) Eine detaillierte Dokumentation aller Parameter und Werte findet sich auf der zugehörigen [Hilfeseite](https://kaskade.dwds.de/dstar/zeit/diacollo/help.perl) des DWDS. Ein umfangreiches [Tutorial](https://kaskade.dwds.de/diacollo-tutorial/) bietet zusätzliche Hilfe im Umgang mit DiaCollo.
 
 - `query=Populismus` Definition des Suchbegriffs.
 - `date=2014%3A2017` Zu untersuchender Zeitraum: 2010 bis 2017. Wie bereits bei der Ermittlung des Referenzzeitraums beginnt die Analyse vier Jahre vor Beginn des zu betrachteten Zeitraumes. Dadurch sollen Fehlschlüsse vermieden werden, da stabile Paarungen und kurzfristige Entwicklungen leichter voneinander unterschieden werden können.
@@ -23,7 +23,7 @@ Die Suchparameter sind bereits in der URL codiert, sodass eine erneute Abfrage d
 - `format=text` Das Textformat ist tabulatorsepariert und eigenet sich zur Überführung in andere Programme und Formate. Die o.g. Verlaufskurve wird durch das Format `highchart`, eine Javascript Bibliothek zur Erzeugung interaktiver Kurven, angelegt.
 - `global=` `0` für Textausgabe, `1` für Highchart. Ist dieser Parameter positiv, werden sämtliche Kollokationen für jeden Zeitraum vermerkt. In Abschnitten, in denen eine bestimmte Kollokation eigentlich nicht vorkommt, wird diese mit der Frequenz f12 = 0 notiert. Dieses Vorgehen ist nützlich für die Anzeige von Verlaufsgrafiken wie der Highchart. In der Textausgabe, die Grundlage für die folgenden Auswertungen ist, würde dies die Ergebnissmenge nur unnötig vergrößern.
 
-Der Ergebnissatz ist in der Datei [populismus_2010-2017_kollokation.tsv](populismus_2010-2017_kollokation.tsv) abgelegt mit folgender Spaltenbedeutung:
+Der Ergebnissatz ist in der Datei [populismus_2010-2017_kollokation.tsv](./populismus_2010-2017_kollokation.tsv) abgelegt mit folgender Spaltenbedeutung:
 
 - `N` Gesamtanzahl der Kollokationen zum Suchbegriff im jeweiligen Zeitabschnitt.	
 - `f1` Frequenz des Suchbegriffs im jeweiligen Zeitabschnitt.
