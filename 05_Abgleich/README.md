@@ -65,3 +65,9 @@ Abgerufen am 08.11.2019 via:
 ```
 wget 'https://de.wikipedia.org/w/index.php?title=Populismus&type=revision&diff=166083456&oldid=128563967'
 ```
+
+---
+
+### Methodische Erkenntnisse
+
+* mögliche Alternative: Vergleich beider Corpora mittels Corpusstatistik
