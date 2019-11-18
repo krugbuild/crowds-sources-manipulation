@@ -1,5 +1,7 @@
 ## 04 Ermittlung von Referenzkollokationen
 
+| [**zurück zur Übersicht**](../README.md) |
+
 Innerhalb des definierten Zeitraumes sollen nun Änderungen in der Begriffsdefinition überprüft werden. Hierzu wird zunächst wieder ein Abgleich mit dem ausgewählten Leitmedium, der Korpus der Wochenzeitschrift DIE ZEIT, benötigt. Anhand der Änderung von Begriffspaarungen vor und innerhalb unseres betrachteten Zeitraumes lassen sich Entwicklungen in der medialen Diskussion nachvollziehen, auf die anschließend das Lemma geprüft werden soll.
 
 ### Überblick via Highchart

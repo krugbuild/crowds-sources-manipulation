@@ -1,4 +1,6 @@
-## Analyse.. der Quellen V2014 und V2017 auf Grundlage der ermittelten Kollokationen
+## Analyse der Worthäufigkeiten in Hinblick auf die Begriffsentwicklung von V2014 auf V2017
+
+| [**zurück zur Übersicht**](../README.md) |
 
 Um die Diskussion der [Ergebnissliste aus Abschnitt "05 Abgleich"](../05_Abgleich/README.md) zu strukturieren, werden die Begriffe zunächst in drei Gruppen gemäß Ihrer Worthäufigkeit innerhalb der Grenzversionen eingeteilt. 
 

@@ -1,5 +1,7 @@
 ## Projektdokumentation der Vorstudie >> Wikipedia-Versionsgeschichte als begriffshistorische Quelle am Beispiel des Artikels "Populismus" <<
 
+| [**zurück zur Übersicht**](../README.md) |
+
 Diese Vorstudie wurde im Rahmen der Übung *Begriffsgeschichte 2.0. Chancen und Grenzen digitaler Quellen und Analysemethoden* unter Leitung von Dr. Sina Fabian an der Humboldt-Universität zu Berlin als Projektarbeit durchgeführt.
 
 Verantwortlich waren Stefan Krug (stefan.krug@hu-berlin.de, [@krugbuild](https://github.com/krugbuild)), Sören Rampf (rampfsoe@hu-berlin.de, [@Soe-Ra](https://github.com/Soe-Ra)) und Titouan Morand (morandti@hu-berlin.de, [@Tmorand](https://github.com/Tmorand)).

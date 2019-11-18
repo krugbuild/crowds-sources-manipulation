@@ -1,5 +1,7 @@
 ## Vergleich der Quellen V2014 und V2017 auf Grundlage der ermittelten Kollokationen
 
+| [**zurück zur Übersicht**](../README.md) |
+
 | Referenzen | Dateien |
 | --- | --- |
 | Kollokationen - DIE ZEIT 2010-2017 - bereinigt | [populismus_2010-2017_kollokation_bereinigt.md](./populismus_2010-2017_kollokation_bereinigt.md) |

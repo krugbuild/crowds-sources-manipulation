@@ -2,8 +2,6 @@
 
 | [**zurück zur Übersicht**](../README.md) |
 
----
-
 Der Referenzzeitraum wird über eine Wortverlaufskurve ermittelt, welche die Entwicklung der Worthäufigkeit über einen gegebenen Zeitraum innerhalb eines definierten Textkorpus visualisiert. Zum Einsatz kommt hierbei das webbasierte Programm *DStar Time Series* des [Digitalen Wörterbuchs der deutschen Sprache (DWDS)](https://www.dwds.de/).
 
 Als Textkorpus dient das Archiv der überregionalen Wochenzeitung DIE ZEIT, welches von den webbasierten Programme des DWDS nativ unterstützt wird. Die Parameter des Zeitkorpus auf dem DWDS Server zum Zeitpunkt der Untersuchung wurden im Dokument [Korpuseigenschaften](./Korpuseigenschaften.md) festgehalten.
