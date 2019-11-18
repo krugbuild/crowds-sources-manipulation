@@ -62,7 +62,16 @@ Im letzten Schritt findet die Aus- und Bewertung der erhobenen Daten statt. Nebe
 
 ## Auswertung
 
-Es zeigt sich, dass ...
+- Entgegen der Erwartung geringer Zuwachs an Einfluss des Begriffes *rechts* im politischen Sinne. 
+  - Grund u.a. die Auslagerung des Lemmas *Rechtspopulismus*.
+- Geringer Einfluss von Personen und Gruppierungen auf die Begriffsbestimmung.
+- Begriff *Volk* als zentraler Faktor in der Begriffsentwicklung zwischen *V2014* zu *V2017*.
+- Angenommene direkte Folge von Berichterstattung zu Lemma lässt sich nicht feststellen.
+
+### Methodische Erkenntnisse
+
+- Für eine umfassende Betrachtung ist es nötig, neben dem zentralen Lemma auch verwandte und ausgelagerte Lemmata zu untersuchen.
+- Neben der einfachen Auswertung der chronologischen Versionsverteilung, bietet die Versionsgeschichte insbesondere Ansatzpunkte für z.B. Akteursanalysen, die in folgenden Projekten untersucht werden sollten.
 
 
 
