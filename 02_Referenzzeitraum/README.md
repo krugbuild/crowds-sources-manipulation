@@ -29,6 +29,12 @@ Die Suchparameter sind bereits in der URL codiert, sodass eine erneute Abfrage d
 
 Bemerkenswert ist der steile Anstieg der Worthäufigkeit nach 2014. In der Datenreihe von 2016 wurde der Begriff Populismus mit fast vierfacher Frequenz gegenüber 2014 erwähnt. Dies deutet auf einen sich intensivierenden Diskurs und erhöhtes öffentliches Interesse hin. Gleichzeitig lässt das große Delta zwischen 2014 und 2016 eine gewisse Begriffsentwicklung erwarten.
 
+Historisch eingeordnet umfasst der ermittelte Zeitraum somit die Hochphase der sogenannten *Flüchtlingskrise*, was an den Zahlen der Asylanträge abgeglichen werden kann.
+
+![EUROSTAT (2017)](./640px-Zahl_der_Erstantr%C3%A4ge_auf_Asyl_%28Eurostat%29.svg.png)*Anzahl der Asylanträge in der EU insgesamt*[^1] 
+
+[^1]: Eurostat (2017): Anzahl der Asylanträge in der EU insgesamt (Schwarzweißer Graph) und von 9 europäschen Ländern (nicht alle Mitgl. EU). Zuordnung zu den farbigen Flächen von unten nach oben: D F GB IT GR ES SE AU CH, o. D., Own work - Zahlen: Eurostat [1] & Übersicht [2]. Online: <[https://commons.wikimedia.org/wiki/File:Zahl_der_Erstantr%C3%A4ge_auf_Asyl_(Eurostat).svg](https://commons.wikimedia.org/wiki/File:Zahl_der_Erstanträge_auf_Asyl_(Eurostat).svg)>, Stand: 18.11.2019.  
+
 ---
 
 ### Methodische Erkenntnisse

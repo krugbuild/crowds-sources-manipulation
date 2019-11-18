@@ -10,14 +10,16 @@ Um die Diskussion der [Ergebnissliste aus Abschnitt "05 Abgleich"](../05_Abgleic
 | weniger als zehn Treffer in *V2014* und *V2017* | `AfD, Aufstieg, billig, Demagogie, Europa, Frankreich, Grüne, Merkel, Opposition, Präsident, Vorwurf, Zeit, zunehmend` |
 | mehr als zehn Treffer in in *V2014* oder *V2017* | `Demokratie, Deutschland, liberal, link, Nationalismus, Partei, Politik, recht, Volk` |
 
-Die folgende Analyse zeichnet sich durch zwei Vektoren aus: die medialen Unterschiede zwischen dem ZEIT Korpus mit der Wikipedia sowie der zentralen Frage nach der Begriffsentwicklung zwischen *V2014* und *V2017*.
+Die folgende Analyse zeichnet sich durch zwei Vektoren aus: die medialen Unterschiede zwischen dem ZEIT Korpus mit der Wikipedia sowie der zentralen Frage nach der Begriffsentwicklung zwischen *V2014* und *V2017*. Betroffene Begriffe werden abgesetzt dargestellt. In Klammern angegeben sind das Auftreten im ZEIT-Korpus inklusive Kollokationsfrequenz *f12* sowie die Worthäufigkeit in den Grenzversionen.[^1]
+
+[^1]: Beispiel: `Demagogie (2016, f12=6; V2014: 1)` bedeutet, das der Begriff *Demagogie* nur im Jahr 2016 und mit einer Kollokationsfrequenz von 6 im ZEIT-Korpus sowie einmal in der Grenzversion *V2014* vorkommt. 
 
 ### Personen- und Parteienbezug
+`Gabriel (2012, f12=5), Hollande (2012, f12=5), Seehofer (2010, f12=6), Tsipras (2015, f12=5), Merkel (2016, f12=7)`  
+Bei der Analyse der Gruppen 1 und 2 fällt auf, dass im Referenzkorpus erwähnte Personen im Lemma keine Rolle spielen. Weder *Sigmar Gabriel*, *François Hollande*, *Horst Seehofer* noch *Alexis Tsipras* wurden in *V2014* oder *V2017* erwähnt. *Angela Merkel* findet nur als beiläufiges Beispiel für den *(neo)liberalen Populismus* Einzug in *V2017*. Es liegt somit nahe anzunehmen, dass dies ein Indikator für eine sachliche, weniger personenbezogene Darstellung in der Wikipedia spricht. Gleichwohl muss dabei beachtet werden, dass alle Personen nur in einzelnen Jahren, viele davon im Vorlauf des Referenzzeitraumes, und zudem mit einer niedrigen Kollokationsfrequenz (*f12*) im Korpus der ZEIT erwähnt wurden. Die fehlende Erwähnung dieser Akteure in den untersuchten Versionen ist somit durchaus bemerkenswert, nicht jedoch signifikant.
 
-Bei der Analyse der Gruppen 1 und 2 fällt auf, dass in den Medien erwähnte Personen im Lemma keine Rolle spielen. Weder *Sigmar Gabriel*, *François Hollande*, *Horst Seehofer* noch *Alexis Tsipras* wurden in *V2014* oder *V2017* erwähnt. *Angela Merkel* findet nur als beiläufiges Beispiel für den *(neo)liberalen Populismus* Einzug in *V2017*. Es liegt somit nahe anzunehmen, dass dies ein Indikator für eine neutralere, weniger personenbezogene Darstellung in der Wikipedia spricht. Gleichwohl muss dabei beachtet werden, dass alle Politiker nur in einzelnen Jahren, viele davon im Vorlauf des Referenzzeitraumes, und zudem mit einer niedrigen Kollokationsfrequenz (*f12*) im Korpus der ZEIT erwähnt wurden. `Gabriel (2012, f12=5), Hollande (2012, f12=5), Seehofer (2010, f12=6), Tsipras (2015, f12=5), Merkel (2016, f12=7)` Die fehlende Erwähnung dieser Akteure in den untersuchten Versionen ist somit durchaus bemerkenswert, nicht jedoch signifikant.
-
-"Volksparteien" sowie Grüne spielen keine Rolle im Wiki. Die AfD wird erst in *V2017* erwähnt dort jedoch nur an einer Stelle, obwohl ihre Kollokationsfrequenz im Jahr 2016 mit f12=11 vergleichweise hoch ist. Der Begriff "Partei" selbst tritt erwartungsgemäß häufig auf.
-`CDU (2016, f12=7), CSU (2014, f=10), SPD (2013, f12=5; 2014, f12=8), AfD (2015, f12=5; 2016, f12=11; V2017: 1), Grüne (2010, f12=6; V2014: 1, V2017: 2), Partei (2013, f12=; 2016, f12=; V2014: 28, V2017: 37)`
+`CDU (2016, f12=7), CSU (2014, f=10), SPD (2013, f12=5; 2014, f12=8), AfD (2015, f12=5; 2016, f12=11; V2017: 1), Grüne (2010, f12=6; V2014: 1, V2017: 2), Partei (2013, f12=; 2016, f12=; V2014: 28, V2017: 37)`  
+Zwar tritt der Begriff *Partei* selbst erwartungsgemäß häufig auf, die im Bundestag vertretenen Parteien spielen, mit Ausnahme der Grünen und der AfD, jedoch keine Rolle im Artikel. Die unerwartet niedrige Worthäufigkeit des hochfrequenten (*f12*=11) Begriffs *AfD* ist durch die Auslagerung des Themas *Rechtspopulismus* in ein eigenes Lemma zu erklären. Die Auswirkungen der Debatten um dieses Thema haben folglich weniger Einfluss auf die Begriffsbestimmung, als vor dem Hintergrund der zeitlichen Parallele zur sogenannten *Flüchtlingskrise* angenommen.
 
 ### Normative Wortwahl
 
@@ -34,6 +36,6 @@ Der Begriff *Politik* selbst tritt zwar mit einer hohen Worthäufigkeit auf, jed
 
 ### Volk / Bevölkerung
 
-Den größten Wandel hat jedoch der Begriff erfahren. In *V2014* nur mit 9 Nennungen im Artikel verzeichnet, vervierfacht er seine Worthäufigkeit in *V2017*. Gleichzeitig tritt er 2017 das erste mal im ZEIT-Korpus auf, mit einer eher mittleren Kollokationsfrequenz von f12=9.  
+Den größten Wandel hat jedoch der Begriff *Volk* erfahren. In *V2014* nur mit 9 Nennungen im Artikel verzeichnet, vervierfacht er seine Worthäufigkeit in *V2017*. Gleichzeitig tritt er 2017 das erste mal im ZEIT-Korpus auf, mit einer eher mittleren Kollokationsfrequenz von f12=9.  
 `Volk / Bevölkerung (2017 f12=9; V2014: 9, V2017: 36)`
 Diese Ergebnisse verweisen auf einen bemerkenswerten thematischen Wandel hin. Während die politisch rechte Sphäre in Ihrer Darstellung sich kaum veränderte, erweitert der Begriff *Volk* die Begriffsdefinition um einen neuen Faktor - dem *Völkischen*.
