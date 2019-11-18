@@ -40,3 +40,5 @@ Der Ergebnissatz ist in der Datei [populismus_2010-2017_kollokation.tsv](./popul
 
 ### Methodische Erkenntnisse
 Die umfangreichen Konfigurationsmöglichkeiten bieten zwar eine hohe Anpassbarkeit, verlangen jedoch gleichzeitig eine intensive Beschäftigung mit den verschiedenen Algorithmen. Der nutzerfreundliche Ersteindruck der Oberfläche - man gibt den Suchbegriff ein, drückt auf **submit** und erhält sofort eine Auswertung - entkoppelt von der Komplexität der durchgeführten Analyse. Die Dokumentation ist zwar durchaus hilfreich, jedoch reicht sie nicht für eine fundierte Bewertung der zur Verfügung stehenden Parameter und Algorithmen sowie deren Auswirkungen auf das Ergebnis und folglich Implikationen für die weitere Arbeit mit den Daten.
+
+---

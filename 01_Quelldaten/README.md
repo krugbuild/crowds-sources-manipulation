@@ -17,3 +17,5 @@ Der erste Schritt der Aufbereitung ist der Bezug der Quelldaten. Hierzu wurde ei
 Die HTML-Struktur der Versionsgeschichte beinhaltet mehr irreguläre Elemente, als eingangs vermutet. Insbesondere irreguläre `<span>` Tags verhindern bzw. erschweren ein automatisiertes Parsen der HTML-Liste.
 
 Für zukünftige Auswertungen auf Basis von MediaWiki-Seiten ist zu prüfen, ob mittels der [MediaWiki-API](https://www.mediawiki.org/wiki/API:Main_page) ein besserer Zugriff auf die Rohdaten möglich ist.
+
+---
