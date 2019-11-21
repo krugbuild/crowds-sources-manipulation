@@ -4,9 +4,9 @@
 
 [**zum Repositorium (Github)**](https://github.com/krugbuild/crowds-sources-manipulation/) | [**zur Leseansicht (Github Pages)**](https://krugbuild.github.io/crowds-sources-manipulation/)
 
-Dieses Projekt ist als kommentiertes Forschungsdatenrepositorium zu verstehen, in dem Forschungsdaten, Dokumentation und Analyse im Verbund zur Verfügung gestellt werden. Es basiert auf einer [Vorstudie](./Vorstudie/), die im Juni und Juli 2019 im Rahmen einer Übung an der Humboldt-Universität zu Berlin durchgeführt wurde.
+Dieses Projekt ist als kommentiertes Forschungsdatenrepositorium zu verstehen, in dem Forschungsdaten, Dokumentation und Analyse im Verbund zur Verfügung gestellt werden. Es basiert auf einer [Vorstudie](./Vorstudie/), die im Juni und Juli 2019 im Rahmen einer Übung an der Humboldt-Universität zu Berlin durchgeführt wurde. Dieser Text ist dabei nur eine Übersicht über das Projekt - die detaillierten Dokumentationen der einzelnen Teilschritte können über die jeweiligen Unterüberschriften aufgerufen werden.
 
-Stefan Krug, 18.11.2019.
+Stefan Krug, 21.11.2019.
 
 ---
 
@@ -18,7 +18,7 @@ Fragt man einen der weit verbreiteten virtuellen Assistenten wie Alexa, Cortana 
 
 ## Quellenarbeit
 
-Die Auseinandersetzung mit dem Quellenmaterial sowie die Exploration digitalhistorischer Methoden zum Umgang mit diesen *digital born* Daten verlangt nach einer feingliedrigen und detaillierten Dokumentation.[^4] Um den Projektverlauf dennoch möglichst nachvollziehbar zu gestalten, werden im Folgenden die verschiedenen Stufen der Quellenarbeit (die sich in der Struktur des Repositoriums widerspiegeln) kurz umrissen. Diese komprimierte Darstellung kann die eigentliche Dokumentation der Quellenarbeit nur ergänzen, keinesfalls jedoch ersetzen. Die Überschriften dienen als Verweis / Links zu den jeweiligen Unterordnern bzw. Abschnitten.
+Die Auseinandersetzung mit dem Quellenmaterial sowie die Exploration digitalhistorischer Methoden zum Umgang mit diesen *digital born* Daten verlangt nach einer feingliedrigen und detaillierten Dokumentation.[^4] Um den Projektverlauf dennoch möglichst nachvollziehbar zu gestalten, werden im Folgenden die verschiedenen Stufen der Quellenarbeit (die sich in der Struktur des Repositoriums widerspiegeln) kurz umrissen. Diese komprimierte Darstellung kann die eigentliche Dokumentation der Quellenarbeit nur ergänzen, keinesfalls jedoch ersetzen. Die Unterüberschriften dienen als Verweis / Links zu den jeweiligen Unterordnern bzw. Abschnitten.
 
 
 [^4]: Vgl. Rehbein, Malte: Geschichtsforschung im digitalen Raum. Über die Notwendigkeit der Digital Humanities als historische Grund- und Transferwissenschaft., in: Herbers, Klaus; Trenkle, Viktoria (Hg.): Papstgeschichte im digitalen Zeitalter: neue Zugangsweisen zu einer Kulturgeschichte Europas, Köln; Weimar; Wien 2018 (Beihefte zum Archiv für Kulturgeschichte BV023554989 Heft 85), S. 41f.
@@ -51,19 +51,24 @@ Zur Untersuchung einer möglichen Veränderung der Begriffsbedeutung orientieren
 
 ### [05 Abgleich](./05_Abgleich/)
 
-Die Prüfung und Dokumentatition der Verteilung der ermittelten Kollokationen in den Grenzversionen *V2014* und *V2017* bildet die Grundlage für die folgende Auswertung. Das Ergebnis ist eine [kommentierte Liste mit Wortverteilungen](./05_Abgleich/README.md) für beide Grenzversionen. 
+Die Prüfung und Dokumentation der Verteilung der ermittelten Kollokationen in den Grenzversionen *V2014* und *V2017* bildet die Grundlage für die folgende Analyse. Hierzu wird für jeden Begriff dessen Häufigkeit in beiden Grenzversionen ermittelt, sowie Auffälligkeiten notiert. Das Ergebnis ist eine [kommentierte Liste mit Wortverteilungen](./05_Abgleich/README.md) für beide Grenzversionen.
 
 ### [06 Analyse](./06_Analyse)
 
-Im letzten Schritt findet die Aus- und Bewertung der erhobenen Daten statt. Neben der Dokumentation der Begriffsänderung sowie öffentlichen Debatte, lassen sich dabei Rückschlüsse auf den Einfluss der medialen Berichterstattung auf das Medium Wikipedia ziehen. Das Ergebnis wird vermutlich zwischen folgenden beiden Grenzfällen eingeordnet werden müssen:
+Im letzten Schritt findet die Aus- und Bewertung der erhobenen Daten statt. Neben der Dokumentation der Begriffsänderung und öffentlichen Debatte, lassen sich dabei Rückschlüsse auf den Einfluss der medialen Berichterstattung auf das Medium Wikipedia ziehen. Das Ergebnis wird vermutlich zwischen folgenden beiden Grenzfällen eingeordnet werden müssen:
 
 - Eine weitgehende Übernahme der sich verändernden Kollokationen vom ZEIT-Korpus in das Lemma würde auf einen **direkten Einfluss der medialen Debatte** auf die allgemeingültige Begriffsdefinition in der Wikipedia hindeuten.
-- Eine ausbleibende Übernahme der Änderungen hingegen würde auf eine Trennung der beiden medialen Sphären hindeuten. In diesem Falle würde sich die Begriffsdefinition in der Wikipedia augenscheinlich **losgelöst von einer übergeordneten medialen** Debatte entwickeln.
+- Eine ausbleibende Übernahme der Änderungen hingegen würde auf eine Trennung der beiden medialen Sphären hindeuten. In diesem Falle würde sich die Begriffsdefinition in der Wikipedia **losgelöst von einer übergeordneten medialen** Debatte entwickeln.
 
 ## Auswertung
 
-- Entgegen der Erwartung geringer Zuwachs an Einfluss des Begriffes *rechts* im politischen Sinne. 
-  - Grund u.a. die Auslagerung des Lemmas *Rechtspopulismus*.
+In Anbetracht des ermittelten Referenzzeitraumes wäre es zu erwarten gewesen, dass der Begriff *rechts* einen deutlicheren Zuwachs an Einfluss erfährt. Gemäß Kollokationsanalyse spielte dieser im Vergleichskorpus vor 2017 praktisch keine Rolle, sprang dann jedoch mit einer Kollokationsfrequenz von 15 direkt ins obere Viertel der Liste. Diese mediale Aufgeregtheit findet sich in der Wikipedia jedoch nicht wieder. Dort ist die Worthäufigkeit des Begriffes im selben Maße gestiegen, wie die gesamte Textmenge - folglich ist dort keine Begriffsentwicklung hin zu einem als politisch rechts geprägten Populismus zu erkennen. Dabei ist jedoch zu beachten, dass im Rahmen dieses Projekts nur das allgemeine Lemma *Populismus* untersucht wurde. Das verwandte und im Artikel selbst auch referenzierte Lemma *Rechtspopulismus* war nicht im Fokus der Untersuchung, weshalb Entwicklungen dort dieses Ergebnis relativieren könnten. Gleichwohl fand die Ausgliederung des Lemmas *Rechtspopulismus* bereits 2007 statt,[^6] sodass dessen Existenz zumindest keine Folge der sogenannten "Flüchtlingskrise" sein kann - eine Ausweitung der untersuchten Artikel würde jedoch fraglos zu robusteren Ergebnissen führen.
+
+[^6]: Vgl. „Rechtspopulismus“ – Versionsgeschichte, in: Wikipedia, Online: <https://de.wikipedia.org/w/index.php?title=Rechtspopulismus&dir=prev&action=history>, Stand: 21.11.2019.   
+
+
+
+- 
 - Geringer Einfluss von Personen und Gruppierungen auf die Begriffsbestimmung.
 - Begriff *Volk* als zentraler Faktor in der Begriffsentwicklung zwischen *V2014* zu *V2017*.
 - Angenommene direkte Folge von Berichterstattung zu Lemma lässt sich nicht feststellen.

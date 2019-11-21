@@ -33,9 +33,13 @@ Drei politische Strömungen finden sich in der dritten Ergebnisliste: *liberal*,
 
 Der Begriff *Politik* selbst tritt zwar mit einer hohen Worthäufigkeit auf, jedoch übersteigt deren Zuwachs schwerlich das gesamte Textwachstum (Faktor 1,5) und ist für diese Untersuchung als nicht relevant zu betrachten.
 
-### Volk / Bevölkerung
+### Volk / Bevölkerung und Europa / europäisch
 
 `Volk / Bevölkerung (2017 f12=9; V2014: 9, V2017: 36)`  
-Den größten Wandel hat jedoch der Einfluss des Begriffs *Volk* auf das Lemma erfahren. In *V2014* ist dieser nur an neun Stellen im Artikel vertreten, vervierfacht jedoch seine Worthäufigkeit in *V2017*. Zeitgleich tritt er 2017 das erste mal im ZEIT-Korpus auf, mit einer Kollokationsfrequenz von *f12=9*. Diese Ergebnisse zeigen einen bemerkenswerten thematischen Wandel: Während der begriffliche Einfluss des politisch rechten Spektrums sich kaum veränderte, ist ab *V2017* der Begriff *Volk* maßgeblich für die Begriffsentwicklung.
+Den größten Wandel hat jedoch der Einfluss des Begriffs *Volk* auf das Lemma erfahren. In *V2014* ist dieser nur an neun Stellen im Artikel vertreten, vervierfacht jedoch seine Worthäufigkeit in *V2017*. Zeitgleich tritt er 2017 das erste mal im ZEIT-Korpus auf, mit einer Kollokationsfrequenz von *f12=9*. Diese Ergebnisse zeigen einen bemerkenswerten thematischen Wandel: Während der begriffliche Einfluss des politisch rechten Spektrums sich kaum veränderte, ist ab *V2017* der Begriff *Volk* maßgeblich für die Begriffsentwicklung.
+
+`Europa / europäisch (2013 f12=5, 2015 f12=7, 2016 f12=12, 2017 f12=18; V2014: 4, V2017: 8)`
+
+Hier zeigt sich das genau gegenteilige Phänomen zum o.g.
 
 ---
