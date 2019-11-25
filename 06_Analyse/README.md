@@ -36,10 +36,9 @@ Der Begriff *Politik* selbst tritt zwar mit einer hohen Worthäufigkeit auf, jed
 ### Volk / Bevölkerung und Europa / europäisch
 
 `Volk / Bevölkerung (2017 f12=9; V2014: 9, V2017: 36)`  
-Den größten Wandel hat jedoch der Einfluss des Begriffs *Volk* auf das Lemma erfahren. In *V2014* ist dieser nur an neun Stellen im Artikel vertreten, vervierfacht jedoch seine Worthäufigkeit in *V2017*. Zeitgleich tritt er 2017 das erste mal im ZEIT-Korpus auf, mit einer Kollokationsfrequenz von *f12=9*. Diese Ergebnisse zeigen einen bemerkenswerten thematischen Wandel: Während der begriffliche Einfluss des politisch rechten Spektrums sich kaum veränderte, ist ab *V2017* der Begriff *Volk* maßgeblich für die Begriffsentwicklung.
+Den größten Wandel hat jedoch der Einfluss des Begriffs *Volk* auf das Lemma erfahren. In *V2014* ist dieser nur an neun Stellen im Artikel vertreten, vervierfacht jedoch seine Worthäufigkeit in *V2017*. Zeitgleich tritt er 2017 das erste mal im ZEIT-Korpus auf, mit einer vergleichsweise geringen Kollokationsfrequenz von *f12=9*. Diese Ergebnisse zeigen einen bemerkenswerten thematischen Wandel: Während der begriffliche Einfluss des politisch rechten Spektrums sich kaum veränderte, ist ab *V2017* der Begriff *Volk* maßgeblich für die Begriffsentwicklung.
 
-`Europa / europäisch (2013 f12=5, 2015 f12=7, 2016 f12=12, 2017 f12=18; V2014: 4, V2017: 8)`
-
-Hier zeigt sich das genau gegenteilige Phänomen zum o.g.
+`Europa / europäisch (2013 f12=5, 2015 f12=7, 2016 f12=12, 2017 f12=18; V2014: 4, V2017: 8)`  
+Das Gegenteilige lässt sich dem Begriff *Europa* attestieren. Zwar verdoppelt sich dessen Worthäufigkeit von *V2014* auf *V2017*, jedoch ist die absolute Worthäufigkeit zu gering, um einen signifikanten Einfluss auf die Begriffsentwicklung erkennen zu können. Dagegen ist der Begriff seit 2013 regelmäßige Kollokation im ZEIT-Korpus, mit steigender Kollokatonsfrequenz. 2017 ist *Europa* die stärkste Kollokation zu *Populismus* mit einer Frequenz f12=18. Diese Entwicklung findet sich jedoch nicht in den Grenzversionen wieder.
 
 ---

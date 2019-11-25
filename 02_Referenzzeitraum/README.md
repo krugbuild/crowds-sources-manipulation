@@ -27,11 +27,11 @@ Die Suchparameter sind bereits in der URL codiert, sodass eine erneute Abfrage d
 
 ![Wortverlauf des Begriffs "Populismus" im Korpus DIE ZEIT](./Wortverlauf_Populismus_ZEIT.png)
 
-Bemerkenswert ist der steile Anstieg der Worthäufigkeit nach 2014. In der Datenreihe von 2016 wurde der Begriff Populismus mit fast vierfacher Frequenz gegenüber 2014 erwähnt. Dies deutet auf einen sich intensivierenden Diskurs und erhöhtes öffentliches Interesse hin. Gleichzeitig lässt das große Delta zwischen 2014 und 2016 eine gewisse Begriffsentwicklung erwarten.
-
-Historisch eingeordnet umfasst der ermittelte Zeitraum somit die Hochphase der sogenannten *Flüchtlingskrise*, was an den Zahlen der Asylanträge abgeglichen werden kann.
+Bemerkenswert ist der steile Anstieg der Worthäufigkeit nach 2014. In der Datenreihe von 2016 wurde der Begriff Populismus mit fast vierfacher Frequenz gegenüber 2014 erwähnt. Dies deutet auf einen sich intensivierenden Diskurs und erhöhtes öffentliches Interesse hin. Es liegt nahe, diese Entwicklung auf die sogenannte *Flüchtlingskrise* zurückzuführen, deren Hochphase sich weitestgehend mit dem ermittelten Untersuchungszeitraum deckt. Zur Einordnung dienen hierbei die Zahlen der Asylanträge, veröffentlicht vom statistischen Amt der Europäischen Union.
 
 ![EUROSTAT (2017)](./1024px-Zahl_der_Erstanträge_auf_Asyl_(Eurostat).svg.png)*Anzahl der Asylanträge in der EU insgesamt*[^1] 
+
+In Anbetracht des signifikanten Frequenzanstiegs in der Berichterstattung und des historischen Kontextes ist davon auszugehen, dass der Begriff *Populismus* eine gewisse Entwicklung erfahren hat.
 
 [^1]: Eurostat (2017): Anzahl der Asylanträge in der EU insgesamt (Schwarzweißer Graph) und von 9 europäschen Ländern (nicht alle Mitgl. EU). Zuordnung zu den farbigen Flächen von unten nach oben: D F GB IT GR ES SE AU CH, o. D., Own work - Zahlen: Eurostat [1] & Übersicht [2]. Online: <[https://commons.wikimedia.org/wiki/File:Zahl_der_Erstantr%C3%A4ge_auf_Asyl_(Eurostat).svg](https://commons.wikimedia.org/wiki/File:Zahl_der_Erstanträge_auf_Asyl_(Eurostat).svg)>, Stand: 18.11.2019.  
 
