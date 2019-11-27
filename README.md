@@ -6,7 +6,7 @@
 
 Dieses Projekt ist als kommentiertes Forschungsdatenrepositorium zu verstehen, in dem Forschungsdaten, Dokumentation und Analyse im Verbund zur Verfügung gestellt werden. Es basiert auf einer [Vorstudie](./Vorstudie/), die im Juni und Juli 2019 im Rahmen einer Lehrveranstaltung an der Humboldt-Universität zu Berlin durchgeführt wurde.
 
-Stefan Krug, 25.11.2019.
+Stefan Krug, 27.11.2019.
 
 ---
 
@@ -27,9 +27,9 @@ Die Auseinandersetzung mit dem Quellenmaterial sowie die Exploration digitalhist
 
 Da die Informationen zur Versionsgeschichte zur besseren Lesbarkeit in einer HTML-Struktur eingebettet sind, müssen diese zunächst in Reinform gebracht werden. Denn nur so wird eine Weiterverarbeitung überhaupt erst möglich. Das Ergebnis dieser Datenaufbereitung ist eine [Tabelle](./01_Quelldaten/20190627_Arbeitsdaten_Populismus_vollstaendig.csv), in der alle 1045 Versionen des Lemmas *Populismus* zwischen dem 02. Juni 2019 und dem 04. März 2004, dem Tag der Erstellung dieses Artikels, mit Datum, verantwortlichem Benutzer, Kommentar und weiteren, technischen Details verzeichnet sind.
 
-| [Zum Unterordner 01](./01_Quelldaten/) |
+| [zum Unterordner 01_Quelldaten](./01_Quelldaten/) |
 
-### 02 Referenzzeitraum
+### 02 Ermittlung des Referenzzeitraums
 
 Um einen Abgleich mit dem öffentlichen Diskurs zu ermöglichen, muss ein Referenzzeitraum bestimmt werden. Der Konjunkturzyklus eines Begriffes kann zum Beispiel über die Wortverlaufskurve innerhalb eines gesellschaftlich relevanten Textkorpus nachvollzogen werden. Als Grundlage für dieses Projekt wurde der Korpus der Wochenzeitschrift DIE ZEIT gewählt, welche zu den deutschen Leitmedien gezählt wird.[^5] 
 
@@ -37,11 +37,11 @@ Um einen Abgleich mit dem öffentlichen Diskurs zu ermöglichen, muss ein Refere
 
 Dieser Verlauf vermittelt einen Eindruck der medialen Aufmerksamkeit für das Thema *Populismus* seit Erstellung des zugehörigen Lemmas in der Wikipedia. Zwischen 2014 und 2016/2017 zeigt sich hier ein starker Anstieg, dessen Auswirkung auf die Begriffsbestimmung im Folgenden untersucht werden soll - und somit den Referenzzeitraum definiert. Die zeitliche Parallele zur sogenannten *Flüchtlingskrise* ist dabei bemerkenswert.
 
-| [Zum Unterordner 02](./02_Referenzzeitraum/) |
+| [zum Unterordner 02_Referenzzeitraum](./02_Referenzzeitraum/) |
 
 [^5]:  Vgl. [Weischenberg, Von Siegfried; Malik, Maja; Scholl, Armin: Journalismus in Deutschland 2005. Zentrale Befunde der aktuellen Repräsentativbefragung deutscher Journalisten, in: Media Perspektiven 7, 2006, S. 359](https://www.ard-werbung.de/fileadmin/user_upload/media-perspektiven/pdf/2006/07-2006_Weischenberg.pdf).
 
-### 03 Versionsverlauf
+### 03 Darstellung des Versionsverlaufs
 
 Um die konjunkturelle Entwicklung des Lemmas mit der öffentlichen Berichterstattung vergleichen zu können, hilft es, die im [1. Abschnitt](./01_Quelldaten/) erhobenen Daten zu visualisieren. Die tabellarische Notation suggeriert möglicherweise eine zeitliche Gleichverteilung der einzelnen Versionen, weshalb diese stattdessen auf einem Zeitstrahl angeordnet dargestellt werden.
 
@@ -49,28 +49,28 @@ Um die konjunkturelle Entwicklung des Lemmas mit der öffentlichen Berichterstat
 
 Dieser Plot zeigt den zuvor ermittelten Referenzzeitraum. Dargestellt ist jeder einzelne Versionssprung des Lemmas durch den zugehörigen *timestamp*. Es lassen sich Strukturen erkennen, die als Phasen hoher bzw. niedriger Bearbeitungsfrequenz identifiziert werden können. Zu Beginn und Ende des Untersuchungszeitraumes findet sich jeweils eine Phase mit geringer Bearbeitungsfrequenz (rot markiert). Die daraus entnommenen Grenzversionen bilden die Grundlage für die folgende begriffshistorische Analyse und werden fortan als [*V2014*](./03_Versionsverlauf/Populismus_V2014.html) und [*V2017*](./03_Versionsverlauf/Populismus_V2017.html) identifiziert und als lokale Kopie vorgehalten.
 
-| [Zum Unterordner 03](./03_Versionsverlauf/) |
+| [zum Unterordner 03_Versionsverlauf](./03_Versionsverlauf/) |
 
 ### 04 Referenzkollokationen
 
 Zur Untersuchung einer möglichen Veränderung der Begriffsbedeutung orientieren wir uns erneut an einen Abgleich mit dem öffentlichen Diskurs. Hierzu werden mittels einer Kollokationsanalyse jene Begriffe ermittelt, die im Referenzzeitraum häufig in Verbindung mit dem Lemma auftreten. Die erzeugte [Liste](./04_Referenzkollokationen/populismus_2010-2017_kollokation.tsv) beinhaltet neben den ermittelten Kollokationen auch Informationen zu deren Frequenz und Wortart.
 
-| [Zum Unterordner 04](./04_Referenzkollokationen/) |
+| [zum Unterordner 04_Referenzkollokationen](./04_Referenzkollokationen/) |
 
-### 05 Abgleich
+### 05 Abgleich der Kollokationen und Grenzversionen
 
 Die Prüfung und Dokumentation der Verteilung der ermittelten Kollokationen in den Grenzversionen *V2014* und *V2017* bildet die Grundlage für die folgende Analyse. Hierzu wird für jeden Begriff dessen Häufigkeit in beiden Grenzversionen ermittelt, sowie Auffälligkeiten notiert. Das Ergebnis ist eine [kommentierte Liste mit Wortverteilungen](./05_Abgleich/README.md) für beide Grenzversionen.
 
-| [Zum Unterordner 05](./05_Abgleich/) |
+| [zum Unterordner 05_Abgleich](./05_Abgleich/) |
 
-### 06 Analyse
+### 06 Analyse der Ergebnisse
 
 Im letzten Schritt findet die Aus- und Bewertung der erhobenen Daten statt. Neben der Dokumentation der Begriffsänderung und öffentlichen Debatte, lassen sich dabei Rückschlüsse auf den Einfluss der medialen Berichterstattung auf das Medium Wikipedia ziehen. Anzunehmen ist dabei, dass Begriffe mit hoher Kollokationsfrequenz sich auch durch eine hohe Worthäufigkeit in den Grenzversionen wiederfinden. Das Ergebnis wird vermutlich zwischen folgenden beiden Grenzfällen eingeordnet werden müssen:
 
 - Eine weitgehende Übernahme der sich verändernden Kollokationen vom ZEIT-Korpus in das Lemma würde auf einen **direkten Einfluss der medialen Debatte** auf die allgemeingültige Begriffsdefinition in der Wikipedia hindeuten.
 - Eine ausbleibende Übernahme der Änderungen hingegen würde auf eine Trennung der beiden medialen Sphären hindeuten. In diesem Falle würde sich die Begriffsdefinition in der Wikipedia **losgelöst von einer übergeordneten medialen** Debatte entwickeln.
 
-| [Zum Unterordner 06](./06_Analyse) |
+| [zum Unterordner 06_Analyse](./06_Analyse) |
 
 ## Auswertung
 
@@ -78,9 +78,9 @@ In Anbetracht des ermittelten Referenzzeitraumes wäre es zu erwarten gewesen, d
 
 Die These, dass eine hohe Kollokationsfrequenz (f12) zwangsläufig eine hohe Worthäufigkeit bedingt, kann angesichts der Daten als widerlegt angesehen werden, denn viele im Referenzkorpus hochfrequent auftretende Begriffe finden sich entweder gar nicht oder mit nur geringer Häufigkeit in den Grenzversionen. Dies lässt sich an Begriffen wie `Europa (f12=5-18, Häufigkeit: 4-8)` oder `AfD (f12=5-11, Häufigkeit 1)` gut erkennen. Es ist somit festzuhalten, dass die Begriffsentwicklung in der Wikipedia im Fall des Artikels *Populismus* keine direkte Folge des in den Medien ausgetragenen Diskurses sein kann, sondern nur in Teilen davon beeinflusst wurde. Dies ist weiterhin auch stilistisch nachvollziehbar, da sowohl normative Begriffe, als auch Referenzen zu einzelnen Politikern und Parteien im Textkorpus des untersuchten Lemmas praktisch nicht vorkommen.
 
-Die Auffälligkeiten im Hinblick auf die Rolle des Begriffs *rechts* für die Begriffsentwicklung zeigen, dass die Begrenzung der Untersuchung auf einen *einzelnen Artikel* problematisch ist. Durch das Ausgliedern einzelner Unterabschnitte in eigene Artikel versucht die Wikipedia die Artikel selbst übersichtlich zu halten. Für begriffshistorische Analysen bedeutet das jedoch, dass Teile der Begriffsbestimmung an anderer Stelle diskutiert werden und somit nicht in die Untersuchung mit einbezogen werden können. Weiterhin ermöglicht die Betrachtung verschiedener, voneinander abhängiger Artikel zum Beispiel den Abgleich der Versionsgeschichten untereinander oder sogar die Erstellung von Netzwerkanalysen anhand der Autoren. Anstatt also den Quellenkorpus auf Artikelebene zu definieren, müsste in einer Voranalyse das zu untersuchende *Netzwerk aus Artikeln* (und möglicherweise weiterer Quellen) zu einem definierten Thema zusammengetragen werden.
+Die Signifikanz der Ergebnisse zeigt, dass auch Plattformen wie die Wikipedia unter Verwendung einer angepassten Quellenkritik durchaus als begriffshistorische Quellenkorpora in Frage kommen. Jedoch zeigen die Auffälligkeiten im Hinblick auf die Rolle des Begriffs *rechts* für die Begriffsentwicklung, dass die Begrenzung der Untersuchung auf einen *einzelnen Artikel* problematisch ist. Durch das Ausgliedern einzelner Unterabschnitte in eigene Artikel versucht die Wikipedia die Artikel selbst übersichtlich zu halten. Für begriffshistorische Analysen bedeutet das jedoch, dass Teile der Begriffsbestimmung an anderer Stelle diskutiert werden und somit nicht in die Untersuchung mit einbezogen werden können. Weiterhin ermöglicht die Betrachtung verschiedener, voneinander abhängiger Artikel zum Beispiel den Abgleich der Versionsgeschichten untereinander oder sogar die Erstellung von Netzwerkanalysen anhand der Autoren. Anstatt also den Quellenkorpus auf Artikelebene zu definieren, müsste in einer Voranalyse das zu untersuchende *Netzwerk aus Artikeln* (und möglicherweise weiterer Quellen) zu einem definierten Thema zusammengetragen werden.
 
-Der vorgestellte methodische Ansatz kann abschließend trotz der experimentellen Herangehensweise als absolut praxistauglich betrachtet werden. Ein häufig befürchteter, unangemessen hoher Arbeitsaufwand zur Aufbereitung der Daten sowie Durchführung der einzelnen Analysen war hier nicht zu beobachten. Durch eine Teilautomatisierung könnte zudem insbesondere die Datenerhebung und -aufbereitung nochmals optimiert werden. Dies wäre insbesondere in Hinblick auf die Erweiterung des Quellenkorpus auf ein Netzwerk von Artikeln empfehlenswert. Ungewöhnlich war allenfalls der zusätzliche Aufwand zur kleinteiligen Dokumentation und Kommentierung der Zwischenergebnisse, der jedoch für folgende Projekte sicher einen Mehrwert darstellt. Weiterhin sind die gute Nachvollziehbarkeit der Auswertung sowie damit einhergehende Falsifizierbarkeit bemerkenswerte Qualitäten dieser Publikationsform.
+Der vorgestellte methodische Ansatz ist abschließend trotz der experimentellen Herangehensweise als absolut praxistauglich anzusehen. Ein häufig befürchteter, unangemessen hoher Arbeitsaufwand zur Aufbereitung der Daten sowie Durchführung der einzelnen Analysen war hier nicht zu beobachten. Durch eine Teilautomatisierung könnte zudem insbesondere die Datenerhebung und -aufbereitung nochmals optimiert werden. Dies wäre insbesondere in Hinblick auf die Erweiterung des Quellenkorpus auf ein Netzwerk von Artikeln empfehlenswert. Ungewöhnlich war allenfalls der zusätzliche Aufwand zur kleinteiligen Dokumentation und Kommentierung der Zwischenergebnisse, der jedoch für folgende Projekte sicher einen Mehrwert darstellt. Weiterhin sind die gute Nachvollziehbarkeit der Auswertung sowie damit einhergehende Falsifizierbarkeit bemerkenswerte Qualitäten dieser Publikationsart.
 
 [^6]: Vgl. „Rechtspopulismus“ – Versionsgeschichte, in: Wikipedia, Online: <https://de.wikipedia.org/w/index.php?title=Rechtspopulismus&dir=prev&action=history>, Stand: 21.11.2019.   
 
