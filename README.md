@@ -12,6 +12,12 @@ Stefan Krug, 27.11.2019.
 
 ---
 
+Zitationsvorschlag:
+
+> Krug, Stefan: Crowds, sources and manipulation. Begriffshistorische Analysen mittels Wikipedia am Beispiel des Artikels "Populismus" zwischen 2014 und 2017, https://github.com/krugbuild/crowds-sources-manipulation, 27.11.2019, [doi:10.5281/zenodo.3784559](https://doi.org/10.5281/zenodo.3784559).
+
+---
+
 Fragt man einen der weit verbreiteten virtuellen Assistenten wie Alexa, Cortana oder Siri nach einer Begriffsdefinition, dann stammt die Antwort mit hoher Wahrscheinlichkeit aus der Wikipedia.[^1] Ganz ähnlich verhält es sich bei der Suche nach einem beliebigen Stichwort mittels der gebräuchlichen Suchmaschinen. Der erste Treffer ist sicherlich der zugehörige Artikel in der Wikipedia, oder die Begriffsdefinition wird direkt neben den sonstigen Suchergebnissen als Seitenleiste eingeblendet. Die Bedeutung der Wikipedia als alltägliches Hilfsmittel ist wohl unbestritten - ihre Eignung als (historische) Quelle hingegen wird nur zögerlich überprüft.[^2] Dabei stellt uns Mediawiki, die eigentliche Software hinter Wikipedia, bereits einige hilfreiche Werkzeuge zur Auswertung bereit. Eine Kernfunktion des Mediawikis ist es, dass bei Korrekturen, Löschungen oder dem Hinzufügen neue Textabschnitte nicht einfach der bestehende Artikel überschrieben wird. Stattdessen wird für jede Änderung eine neue Version des Artikels erstellt. Dabei werden neben der eigentlichen Änderung insbesondere der Zeitpunkt der Änderung (üblicherweise als *timestamp* bezeichnet) und der Benutzername des Verantwortlichen gespeichert. Diese [Versionsgeschichte](https://de.wikipedia.org/wiki/Hilfe:Versionen) wird zur Pflege der Wikipedia verwendet, zum Beispiel zur Erkennung von Manipulationsversuchen.[^3] Da diese Versionsgeschichte bei vielen Artikeln seit den frühen 2000ern anwächst und jeder Versionssprung präzise dokumentiert ist, eignet Sie sich vermutlich hervorragend als Ausgangspunkt einer begriffshistorischen Untersuchung. Den Quellenwert der Wikipedia unter diesem Gesichtspunkt am zuvor definierten Begriff *Populismus* zu bewerten sowie verschiedene methodische Zugänge zu prüfen ist das Kernanliegen dieses Projekts.
 
 [^1]: Vgl. Naughton, John: Amazon’s Echo seems great, but what does it hear?, in: The Guardian, 15.01.2017. Online: <https://www.theguardian.com/commentisfree/2017/jan/15/amazon-echo-is-great-but-what-does-it-hear>, Stand: 18.11.2019.
@@ -87,3 +93,5 @@ Der vorgestellte methodische Ansatz ist abschließend trotz der experimentellen 
 [^6]: Vgl. „Rechtspopulismus“ – Versionsgeschichte, in: Wikipedia, Online: <https://de.wikipedia.org/w/index.php?title=Rechtspopulismus&dir=prev&action=history>, Stand: 21.11.2019.   
 
 ---
+
+[![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by-sa/3.0/de/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/de/) Sofern in den einzelnen Dateien nicht anders angegeben, ist dieses Werk lizenziert unter einer [Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland Lizenz](http://creativecommons.org/licenses/by-sa/3.0/de/). Der Autor folgt hierbei der CC BY-SA-Lizenzierung der Wikipediaartikel, welche die Quellenbasis des Projektes bilden.
