@@ -32,7 +32,8 @@ Die rot unterlegten Bereiche markieren die den Untersuchungszeitraum eingrenzend
 Die letzte Version vor dem zweiten Grenzbereich dient als Vergleichsversion. Sie beinhaltet alle Änderungen des Untersuchungszeitraumes und da ihr eine Phase mit geringer Bearbeitungsfrequenz folgt kann davon ausgegangen werden, dass sie einen unumstrittenen bis temporär abgeschlossenen Zustand repräsentiert. Sie wird fortan als *V2017* bezeichnet, es handelt sich dabei um die Version vom [2017-06-04T18:04:00Z mit der ID 166083456](https://de.wikipedia.org/w/index.php?title=Populismus&oldid=166083456).
 Grundlage für die weitere Untersuchung sind die lokalen Kopien der beiden Versionen als Plain HTML.[^1]
 
-V2014: [Populismus_V2014.html](../03_Versionsverlauf/Populismus_V2014.html), 96.1 KB, 5261 Wörter, 400 Zeilen.    
+V2014: [Populismus_V2014.html](../03_Versionsverlauf/Populismus_V2014.html), 96.1 KB, 5261 Wörter, 400 Zeilen.
+
 V2017: [Populismus_V2017.html](../03_Versionsverlauf/Populismus_V2017.html), 122 KB, 7951 Wörter, 465 Zeilen.
 
 ---
