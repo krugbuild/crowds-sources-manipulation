@@ -40,5 +40,3 @@ In Anbetracht des signifikanten Frequenzanstiegs in der Berichterstattung und de
 ### Methodische Erkenntnisse
 
 Die Wortverlaufsanalyse des DWDS lässt als kleinstmögliche Teilung der x-Achse nur Jahresschritte zu. Für eine genauere Analyse der Berichterstattung wäre eine feinere Teilung sicher von Vorteil, auch wenn die Varianzen in den einzelnen Korpora je Monat, Woche oder gar Tag möglicherweise drastisch ansteigen würden. Dies könnte jedoch durch die Nutzung der bereits implementierten Glättungsverfahren ausgeglichen werden.
-
----
