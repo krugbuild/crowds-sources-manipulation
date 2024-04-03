@@ -11,5 +11,3 @@ df[, 2] <- as.Date(as.character(df[,2]))
 
 ## Plot definieren, Labels vertikal und alternierend angeordnet
 timelineS(df, main = 'Versionen des Artikels Populismus', buffer.days = 1,label.length = c(0.1,0.8,0.2,0.7,0.3,0.6,0.4,0.5), line.width = 5, scale.cex = "2.5", label.direction = "up", label.angle = "90", label.position = 4, scale = "year")
-
-
