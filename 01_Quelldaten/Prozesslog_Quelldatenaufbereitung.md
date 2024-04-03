@@ -5,6 +5,7 @@ Benutztes System: `Linux 4.15.0-52-generic #56-Ubuntu SMP Tue Jun 4 22:49:08 UTC
 Im Folgenden sind alle Änderungen (insbesondere Transformationen) an der ursprünglichen Datenbasis unter Angabe von Datum und ggf. benutzter Software dokumentiert. 
 
 ### Datenbezug 2019-06-06
+
 * Abruf sämtlicher Versionen mittels: `wget "https://de.wikipedia.org/w/index.php?title=Populismus&offset=&limit=2000000&action=history"`  
 (siehe: [20190606_Quelldaten_Populismus.html](https://github.com/krugbuild/wiki-pop-quelle/blob/MAP/01_Quelldaten/20190606_Quelldaten_Populismus.html)).
 * Abgleich des Versionsinventars der lokalen Kopie mit Wikipedia Versionsgeschichte: Aktuelle Version bei beiden 02:26, 2. Jun. 2019‎ - erste Version bei beiden 14:08, 4. Mär. 2004‎. 
