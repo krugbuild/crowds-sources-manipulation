@@ -8,13 +8,13 @@
 
 Dieses Projekt ist als kommentiertes Forschungsdatenrepositorium zu verstehen, in dem Forschungsdaten, Dokumentation und Analyse im Verbund zur Verfügung gestellt werden. Es basiert auf einer [Vorstudie](./Vorstudie/), die im Juni und Juli 2019 im Rahmen einer Lehrveranstaltung an der Humboldt-Universität zu Berlin durchgeführt wurde.
 
-Stefan Krug, 27.11.2019.
+Alexandra Krug, 27.11.2019.
 
 ---
 
 Zitationsvorschlag:
 
-> Krug, Stefan: Crowds, sources and manipulation. Begriffshistorische Analysen mittels Wikipedia am Beispiel des Artikels "Populismus" zwischen 2014 und 2017, https://github.com/krugbuild/crowds-sources-manipulation, 27.11.2019, [doi:10.5281/zenodo.3784559](https://doi.org/10.5281/zenodo.3784559).
+> Krug, Alexandra: Crowds, sources and manipulation. Begriffshistorische Analysen mittels Wikipedia am Beispiel des Artikels "Populismus" zwischen 2014 und 2017, https://github.com/krugbuild/crowds-sources-manipulation, 27.11.2019, [doi:10.5281/zenodo.3784559](https://doi.org/10.5281/zenodo.3784559).
 
 ---
 
@@ -27,7 +27,6 @@ Fragt man einen der weit verbreiteten virtuellen Assistenten wie Alexa, Cortana 
 ## Quellenarbeit
 
 Die Auseinandersetzung mit dem Quellenmaterial sowie die Exploration digitalhistorischer Methoden zum Umgang mit diesen *digital born* Daten verlangt nach einer feingliedrigen und detaillierten Dokumentation.[^4] Um den Projektverlauf dennoch möglichst nachvollziehbar zu gestalten, werden im Folgenden die verschiedenen Stufen der Quellenarbeit (die sich in der Struktur des Repositoriums widerspiegeln) kurz umrissen. Diese komprimierte Darstellung kann die eigentliche Dokumentation der Quellenarbeit nur ergänzen, keinesfalls jedoch ersetzen. Die detaillierte Dokumentation der einzelnen Abschnitte findet sich in den jeweiligen Unterordnern.
-
 
 [^4]: Vgl. Rehbein, Malte: Geschichtsforschung im digitalen Raum. Über die Notwendigkeit der Digital Humanities als historische Grund- und Transferwissenschaft., in: Herbers, Klaus; Trenkle, Viktoria (Hg.): Papstgeschichte im digitalen Zeitalter: neue Zugangsweisen zu einer Kulturgeschichte Europas, Köln; Weimar; Wien 2018 (Beihefte zum Archiv für Kulturgeschichte BV023554989 Heft 85), S. 41f.
 
@@ -94,4 +93,4 @@ Der vorgestellte methodische Ansatz ist abschließend trotz der experimentellen 
 
 ---
 
-[![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by-sa/3.0/de/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/de/) Sofern in den einzelnen Dateien nicht anders angegeben, ist dieses Werk lizenziert unter einer [Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland Lizenz](http://creativecommons.org/licenses/by-sa/3.0/de/). Der Autor folgt hierbei der CC BY-SA-Lizenzierung der Wikipediaartikel, welche die Quellenbasis des Projektes bilden.
+[![Creative Commons Lizenzvertrag](https://i.creativecommons.org/l/by-sa/3.0/de/88x31.png)](http://creativecommons.org/licenses/by-sa/3.0/de/) Sofern in den einzelnen Dateien nicht anders angegeben, ist dieses Werk lizenziert unter einer [Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland Lizenz](http://creativecommons.org/licenses/by-sa/3.0/de/). Die Autorin folgt hierbei der CC BY-SA-Lizenzierung der Wikipediaartikel, welche die Quellenbasis des Projektes bilden.
