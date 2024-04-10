@@ -75,3 +75,4 @@ wget 'https://de.wikipedia.org/w/index.php?title=Populismus&type=revision&diff=1
 Als Alternative zur Mischanalyse aus Kollokationen und Worthäufigkeit könnte sich ein Vergleich von Kollokationsanalysen auf beiden Corpora als sinnvoll erweisen.
 
 ---
+
