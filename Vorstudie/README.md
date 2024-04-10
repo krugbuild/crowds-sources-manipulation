@@ -4,7 +4,7 @@
 
 Diese Vorstudie wurde im Rahmen der Übung *Begriffsgeschichte 2.0. Chancen und Grenzen digitaler Quellen und Analysemethoden* unter Leitung von Dr. Sina Fabian an der Humboldt-Universität zu Berlin als Projektarbeit durchgeführt.
 
-Verantwortlich waren Stefan Krug (stefan.krug@hu-berlin.de, [@krugbuild](https://github.com/krugbuild)), Sören Rampf (rampfsoe@hu-berlin.de, [@Soe-Ra](https://github.com/Soe-Ra)) und Titouan Morand (morandti@hu-berlin.de, [@Tmorand](https://github.com/Tmorand)).
+Verantwortlich waren Alexandra Krug (alexandra.krug@posteo.org, [@krugbuild](https://github.com/krugbuild)), Sören Rampf (rampfsoe@hu-berlin.de, [@Soe-Ra](https://github.com/Soe-Ra)) und Titouan Morand (morandti@hu-berlin.de, [@Tmorand](https://github.com/Tmorand)).
 
 Eine Abschlusspräsentation fand am 11.07.2019 statt. Der Foliensatz ist hier einsehbar: [hackmd.io/@krugbuild/wiki-pop-quelle](https://hackmd.io/@krugbuild/wiki-pop-quelle).
 
