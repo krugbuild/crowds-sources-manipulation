@@ -136,3 +136,4 @@ Reduziert auf Begriff und Jahre, gruppiert nach Jahren und alphabetisch sortiert
 | 2016            | warnen                                  |
 | 2017            | Zeit                                    |
 | 2016            | zunehmend                               |
+
