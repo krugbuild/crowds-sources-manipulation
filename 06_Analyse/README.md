@@ -42,3 +42,4 @@ Den größten Wandel hat jedoch der Einfluss des Begriffs *Volk* auf das Lemma e
 Das Gegenteilige lässt sich dem Begriff *Europa* attestieren. Zwar verdoppelt sich dessen Worthäufigkeit von *V2014* auf *V2017*, jedoch ist die absolute Worthäufigkeit zu gering, um einen signifikanten Einfluss auf die Begriffsentwicklung erkennen zu können. Dagegen ist der Begriff seit 2013 regelmäßige Kollokation im ZEIT-Korpus, mit steigender Kollokatonsfrequenz. 2017 ist *Europa* die stärkste Kollokation zu *Populismus* mit einer Frequenz f12=18. Diese Entwicklung findet sich jedoch nicht in den Grenzversionen wieder.
 
 ---
+
